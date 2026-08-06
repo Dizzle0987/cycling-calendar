@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102218">
+  <title>Cycling Calendar</title>
+  <meta name="description" content="Calendario sottoscrivibile delle principali corse maschili di ciclismo su strada.">
+  <style>
+    :root{color-scheme:dark;--bg:#08110c;--card:#102218;--ink:#f4f7f5;--muted:#aebbb3;--lime:#a6f05f;--line:#294333}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 90% 0,#1c3b29 0,transparent 38%),var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,sans-serif}
+    main{width:min(760px,calc(100% - 32px));margin:auto;padding:48px 0 72px}header{margin-bottom:26px}.eyebrow{color:var(--lime);font-weight:750;letter-spacing:.12em;text-transform:uppercase;font-size:.78rem}
+    h1{font-size:clamp(2.5rem,12vw,5.4rem);line-height:.92;letter-spacing:-.055em;margin:.25em 0}.lead{font-size:1.15rem;color:var(--muted);max-width:58ch}.card{background:color-mix(in srgb,var(--card) 92%,transparent);border:1px solid var(--line);border-radius:22px;padding:22px;margin:18px 0;box-shadow:0 20px 50px #0004}
+    .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.stat{background:#0a1710;border-radius:14px;padding:15px}.stat b{display:block;font-size:1.55rem;color:var(--lime)}
+    .button{display:block;text-align:center;background:var(--lime);color:#0a160d;text-decoration:none;font-weight:850;padding:16px 20px;border-radius:14px;margin:18px 0}.direct{color:var(--lime);overflow-wrap:anywhere}.muted{color:var(--muted);font-size:.93rem}h2{margin-top:0;font-size:1.35rem}h3{margin-bottom:.25rem}.tabs{display:grid;gap:14px}.instructions{border-top:1px solid var(--line);padding-top:12px}ol{padding-left:1.25rem}code{background:#07100a;border:1px solid var(--line);padding:.12em .35em;border-radius:5px;overflow-wrap:anywhere}
+    #competitions{max-height:230px;overflow:auto;padding-right:6px}footer{color:var(--muted);font-size:.85rem;text-align:center;margin-top:34px}@media(min-width:620px){.stats{grid-template-columns:repeat(3,1fr)}.tabs{grid-template-columns:repeat(3,1fr)}}
+  </style>
+</head>
+<body><main>
+  <header><div class="eyebrow">Ciclismo professionistico maschile</div><h1>Cycling<br>Calendar</h1><p class="lead">WorldTour, Grandi Giri, Monumento, classiche, corse a tappe e campionati in un feed iCalendar che si aggiorna automaticamente.</p></header>
+  <section class="card">
+    <div class="stats"><div class="stat"><b id="event-count">—</b>eventi</div><div class="stat"><b id="competition-count">—</b>competizioni</div><div class="stat"><b>6h</b>frequenza</div></div>
+    <a class="button" href="webcal://dizzle0987.github.io/cycling-calendar/calendar.ics">Sottoscrivi al calendario</a>
+    <p class="muted">Se il pulsante non funziona, copia il link HTTPS e aggiungilo come calendario tramite URL:</p>
+    <p><a class="direct" id="calendar-url" href="https://dizzle0987.github.io/cycling-calendar/calendar.ics">https://dizzle0987.github.io/cycling-calendar/calendar.ics</a></p>
+    <button type="button" id="copy" class="button" style="background:#173523;color:var(--ink);border:1px solid var(--line);width:100%">Copia link HTTPS</button>
+    <p class="muted">Ultimo aggiornamento: <time id="updated">in caricamento…</time></p>
+  </section>
+  <section class="card"><h2>Istruzioni</h2><div class="tabs">
+    <div class="instructions"><h3>iPhone / iPad</h3><ol><li>Apri questa pagina in Safari.</li><li>Tocca “Sottoscrivi”.</li><li>Conferma in Calendario.</li></ol><p class="muted">Alternativa: Impostazioni → App → Calendario → Account calendario → Aggiungi account → Altro → Aggiungi calendario con sottoscrizione.</p></div>
+    <div class="instructions"><h3>Android</h3><ol><li>Copia il link HTTPS.</li><li>Apri Google Calendar dal browser desktop.</li><li>Altri calendari → Da URL.</li></ol><p class="muted">Il calendario comparirà poi nell’app Android con lo stesso account.</p></div>
+    <div class="instructions"><h3>Google Calendar</h3><ol><li>Apri calendar.google.com.</li><li>Premi <b>+</b> accanto ad “Altri calendari”.</li><li>Scegli “Da URL” e incolla il link HTTPS.</li></ol></div>
+  </div></section>
+  <section class="card"><h2>Competizioni incluse</h2><p class="muted">L’elenco riflette il feed pubblicato. Gli orari non confermati sono gestiti come eventi di giornata intera.</p><div id="competitions">Caricamento…</div></section>
+  <footer>Dati da fonti pubbliche UCI e siti ufficiali. Orari, percorso e copertura TV non vengono mai dedotti. Progetto indipendente, non affiliato all’UCI.</footer>
+</main><script>
+  const calendarUrl='https://dizzle0987.github.io/cycling-calendar/calendar.ics';
+  document.querySelector('#copy').addEventListener('click',async()=>{await navigator.clipboard.writeText(calendarUrl);document.querySelector('#copy').textContent='Link copiato';});
+  fetch('./data/events.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error();return r.json()}).then(data=>{
+    document.querySelector('#event-count').textContent=data.event_count;
+    document.querySelector('#competition-count').textContent=data.competitions.length;
+    document.querySelector('#updated').textContent=new Intl.DateTimeFormat('it-IT',{dateStyle:'long',timeStyle:'short',timeZone:'Europe/Rome'}).format(new Date(data.generated_at));
+    document.querySelector('#competitions').innerHTML='<ul>'+data.competitions.map(name=>`<li>${name.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}</li>`).join('')+'</ul>';
+  }).catch(()=>{document.querySelector('#updated').textContent='dato temporaneamente non disponibile';document.querySelector('#competitions').textContent='Consulta il feed iCalendar.'});
+</script></body></html>
+
