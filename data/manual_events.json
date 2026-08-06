@@ -1,0 +1,9 @@
+{
+  "_documentation": {
+    "description": "Aggiunte e correzioni manuali. I campi valorizzati qui prevalgono sulle fonti remote.",
+    "identity": "Usare race_key e stage_number per correggere un evento esistente senza cambiarne l'UID.",
+    "required": ["race_name", "start"],
+    "time_format": "YYYY-MM-DD per giornata intera, oppure ISO 8601 con offset (es. 2026-09-13T12:30:00+02:00)."
+  },
+  "events": []
+}
