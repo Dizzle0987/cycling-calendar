@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Segnalazione di sicurezza
+    url: https://github.com/Dizzle0987/cycling-calendar/security/advisories/new
+    about: Non pubblicare vulnerabilità in una issue.
+

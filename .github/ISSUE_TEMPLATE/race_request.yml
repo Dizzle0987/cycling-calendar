@@ -1,0 +1,29 @@
+name: Richiedi una gara
+description: Proponi una corsa maschile rilevante da includere
+title: "[Gara]: "
+labels: [enhancement]
+body:
+  - type: input
+    id: race
+    attributes:
+      label: Nome ufficiale
+    validations:
+      required: true
+  - type: input
+    id: uci
+    attributes:
+      label: Classe o circuito UCI
+  - type: input
+    id: official
+    attributes:
+      label: Sito ufficiale o pagina UCI
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Rilevanza e dati strutturati disponibili
+    validations:
+      required: true
+

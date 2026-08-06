@@ -1,0 +1,39 @@
+name: Segnala un problema
+description: Evento errato, duplicato o mancante oppure problema tecnico
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Non includere dati personali. Per dati di gara, allega una fonte pubblica verificabile.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Tipo di problema
+      options:
+        - Evento errato
+        - Evento duplicato
+        - Evento mancante
+        - Sottoscrizione o pagina
+        - Automazione
+    validations:
+      required: true
+  - type: input
+    id: event
+    attributes:
+      label: Corsa o tappa
+      placeholder: "La Vuelta a España — Tappa 7"
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Fonte verificabile
+      placeholder: https://...
+    validations:
+      required: true
+
