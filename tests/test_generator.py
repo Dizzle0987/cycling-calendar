@@ -44,6 +44,19 @@ def test_uci_structured_json_and_stable_uid_after_date_change() -> None:
     assert stable_uid(first) == stable_uid(moved)
 
 
+def test_championship_names_do_not_expose_edition_year() -> None:
+    worlds = parse_uci_calendar(
+        uci_payload("2027 UCI Road World Championships", "19 Sep 2027"), "CM"
+    )[0]
+    europeans = parse_uci_calendar(
+        uci_payload("UEC Road European Championships 2027", "03 Oct 2027"), "CC"
+    )[0]
+    assert worlds["race_name"] == "UCI Road World Championships"
+    assert worlds["race_key"] == "uci-road-world-championships"
+    assert europeans["race_name"] == "UEC Road European Championships"
+    assert europeans["race_key"] == "uec-road-european-championships"
+
+
 def test_uci_date_range_uses_inclusive_end() -> None:
     event = parse_uci_calendar(uci_payload("Giro d'Italia", "08 May - 31 May 2026"), "2.UWT")[0]
     assert event["start"] == "2026-05-08"
@@ -80,6 +93,16 @@ def test_deduplication_suppresses_race_overview_when_stages_exist() -> None:
     overview = {"race_key": "tour-de-france", "race_name": "Tour de France", "start": "2026-07-04"}
     stage = {**overview, "stage_number": 1, "title": "Tappa 1"}
     assert deduplicate([overview, stage]) == [stage]
+
+
+def test_deduplication_keeps_different_editions() -> None:
+    editions = [
+        {"race_key": "milano-sanremo", "race_name": "Milano-Sanremo", "start": "2026-03-21"},
+        {"race_key": "milano-sanremo", "race_name": "Milano-Sanremo", "start": "2027-03-20"},
+    ]
+    result = deduplicate(editions)
+    assert len(result) == 2
+    assert stable_uid(result[0]) != stable_uid(result[1])
 
 
 def test_manual_override_wins_without_duplicate() -> None:
