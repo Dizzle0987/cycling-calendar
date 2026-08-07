@@ -48,8 +48,6 @@ RACE_ALIASES = {
     "dssk-donostia-san-sebastian-klasikoa": "clasica-san-sebastian",
     "la-vuelta-ciclista-a-espana": "vuelta-a-espana",
     "national-road-championships-italy": "campionati-italiani-strada",
-    "2026-uci-road-world-championships": "uci-road-world-championships",
-    "uec-road-european-championships-2026": "uec-road-european-championships",
 }
 
 GRAND_TOURS = (
@@ -118,7 +116,20 @@ def normalize(value: str) -> str:
 
 def canonical_race_key(name: str) -> str:
     key = normalize(name)
+    if "uci-road-world-championship" in key:
+        return "uci-road-world-championships"
+    if "road-european-championship" in key:
+        return "uec-road-european-championships"
     return RACE_ALIASES.get(key, key)
+
+
+def display_race_name(name: str, race_class: str) -> str:
+    """Keep championship names stable while UCI changes the edition year."""
+    if race_class == "CM" and "road world championship" in name.lower():
+        return re.sub(r"(?:^|\s)\d{4}(?=\s|$)", " ", name).strip()
+    if race_class == "CC" and "road european championship" in name.lower():
+        return re.sub(r"(?:^|\s)\d{4}(?=\s|$)", " ", name).strip()
+    return name
 
 
 def _parse_uci_dates(value: str) -> tuple[date, date]:
@@ -170,6 +181,7 @@ def parse_uci_calendar(payload: dict[str, Any], race_class: str) -> list[dict[st
                     continue
                 start_date, end_date = _parse_uci_dates(str(item.get("dates") or ""))
                 race_key = canonical_race_key(name)
+                public_name = display_race_name(name, race_class)
                 category = "UCI WorldTour" if race_class.endswith("UWT") else (
                     "UCI ProSeries" if race_class.endswith("Pro") else "Campionato"
                 )
@@ -182,8 +194,8 @@ def parse_uci_calendar(payload: dict[str, Any], race_class: str) -> list[dict[st
                     notes = "Campionati italiani: programma maschile e orari da confermare."
                 unique[source_id] = {
                     "race_key": race_key,
-                    "race_name": name,
-                    "title": name,
+                    "race_name": public_name,
+                    "title": public_name,
                     "stage_number": None,
                     "start": start_date.isoformat(),
                     "end_date": end_date.isoformat(),
@@ -323,24 +335,29 @@ def fetch_remote_events(session: requests.Session, year: int) -> FetchResult:
     events: list[dict[str, Any]] = []
     successes: list[str] = []
     errors: list[str] = []
-    for race_class in UCI_CLASSES:
-        class_events: list[dict[str, Any]] = []
-        class_ok = False
-        for period in ("past", "upcoming"):
-            try:
-                response = session.get(
-                    UCI_API.format(period=period),
-                    params={"discipline": "ROA", "raceCategory": "ME", "raceClass": race_class, "year": year},
-                    timeout=25,
-                )
-                response.raise_for_status()
-                class_events.extend(parse_uci_calendar(response.json(), race_class))
-                class_ok = True
-            except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
-                errors.append(f"UCI {race_class}/{period}: {exc}")
-        if class_ok:
-            successes.append(f"UCI {race_class}")
-            events.extend(class_events)
+    calendar_years = (year, year + 1)
+    for calendar_year in calendar_years:
+        for race_class in UCI_CLASSES:
+            class_events: list[dict[str, Any]] = []
+            class_ok = False
+            for period in ("past", "upcoming"):
+                try:
+                    response = session.get(
+                        UCI_API.format(period=period),
+                        params={
+                            "discipline": "ROA", "raceCategory": "ME",
+                            "raceClass": race_class, "year": calendar_year,
+                        },
+                        timeout=25,
+                    )
+                    response.raise_for_status()
+                    class_events.extend(parse_uci_calendar(response.json(), race_class))
+                    class_ok = True
+                except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
+                    errors.append(f"UCI {race_class}/{period} {calendar_year}: {exc}")
+            if class_ok:
+                successes.append(f"UCI {race_class} {calendar_year}")
+                events.extend(class_events)
 
     for config in GRAND_TOURS:
         try:
@@ -350,6 +367,7 @@ def fetch_remote_events(session: requests.Session, year: int) -> FetchResult:
                 parse_aso_route_html(response.text, config)
                 if config["parser"] == "aso" else parse_giro_route_html(response.text, config)
             )
+            parsed = [event for event in parsed if int(str(event["start"])[:4]) in calendar_years]
             if not parsed:
                 raise ValueError("nessuna tappa riconosciuta")
             events.extend(parsed)
@@ -366,11 +384,19 @@ def event_identity(event: dict[str, Any]) -> str:
     return f"{race_key}|{suffix}"
 
 
+def event_edition(event: dict[str, Any]) -> str:
+    return str(event.get("edition") or str(event.get("start") or "")[:4])
+
+
+def dedupe_identity(event: dict[str, Any]) -> str:
+    return f"{event_edition(event)}|{event_identity(event)}"
+
+
 def stable_uid(event: dict[str, Any]) -> str:
     explicit = str(event.get("uid") or "").strip()
     if explicit:
         return explicit
-    year = str(event.get("edition") or str(event.get("start") or "")[:4])
+    year = event_edition(event)
     digest = hashlib.sha256(f"{year}|{event_identity(event)}".encode()).hexdigest()[:24]
     return f"{digest}@cycling-calendar"
 
@@ -380,7 +406,7 @@ def deduplicate(events: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     priority = {"UCI": 10, "manuale": 100}
     for original in events:
         event = deepcopy(original)
-        key = event_identity(event)
+        key = dedupe_identity(event)
         current = merged.get(key)
         if current is None:
             merged[key] = event
@@ -393,12 +419,18 @@ def deduplicate(events: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
         merged[key] = combined
 
     # A detailed stage list supersedes the broad multi-day overview of the same race.
-    detailed = {event.get("race_key") for event in merged.values() if event.get("stage_number") is not None}
+    detailed = {
+        (event_edition(event), event.get("race_key"))
+        for event in merged.values() if event.get("stage_number") is not None
+    }
     result = [
         event for event in merged.values()
-        if not (event.get("stage_number") is None and event.get("race_key") in detailed)
+        if not (
+            event.get("stage_number") is None
+            and (event_edition(event), event.get("race_key")) in detailed
+        )
     ]
-    return sorted(result, key=lambda event: (str(event.get("start") or ""), event_identity(event)))
+    return sorted(result, key=lambda event: (str(event.get("start") or ""), dedupe_identity(event)))
 
 
 def load_manual_events(path: Path) -> list[dict[str, Any]]:
