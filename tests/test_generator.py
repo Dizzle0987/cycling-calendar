@@ -13,6 +13,7 @@ from cycling_calendar.generator import (
     UpdateError,
     build_ical,
     deduplicate,
+    fetch_remote_events,
     parse_aso_route_html,
     parse_giro_route_html,
     parse_uci_calendar,
@@ -55,6 +56,29 @@ def test_championship_names_do_not_expose_edition_year() -> None:
     assert worlds["race_key"] == "uci-road-world-championships"
     assert europeans["race_name"] == "UEC Road European Championships"
     assert europeans["race_key"] == "uec-road-european-championships"
+
+
+def test_fetch_includes_current_and_next_uci_season(monkeypatch: pytest.MonkeyPatch) -> None:
+    requested_years: list[int] = []
+
+    class EmptyResponse:
+        text = ""
+
+        def raise_for_status(self) -> None:
+            pass
+
+        def json(self) -> dict:
+            return {"items": []}
+
+    class RecordingSession:
+        def get(self, url: str, **kwargs: object) -> EmptyResponse:
+            requested_years.append(int(dict(kwargs.get("params") or {}).get("year", 0)))
+            return EmptyResponse()
+
+    monkeypatch.setattr("cycling_calendar.generator.GRAND_TOURS", ())
+    result = fetch_remote_events(RecordingSession(), 2026)  # type: ignore[arg-type]
+    assert set(requested_years) == {2026, 2027}
+    assert not result.errors
 
 
 def test_uci_date_range_uses_inclusive_end() -> None:
