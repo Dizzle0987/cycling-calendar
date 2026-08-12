@@ -2600,7 +2600,7 @@
       "category": "Grande Giro",
       "circuit": "UCI WorldTour",
       "country": "Spagna",
-      "distance": "187 km",
+      "distance": "186.8 km",
       "end_date": "2026-09-12",
       "finish_location": "Collado del Alguacil",
       "location": "La Calahorra → Collado del Alguacil",
@@ -3626,7 +3626,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-08-07T06:11:11Z",
+  "generated_at": "2026-08-12T15:32:57Z",
   "source_errors": [],
   "successful_sources": [
     "UCI 1.UWT 2026",
