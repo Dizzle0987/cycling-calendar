@@ -2666,7 +2666,7 @@
       "category": "Grande Giro",
       "circuit": "UCI WorldTour",
       "country": "Spagna",
-      "distance": "99.4 km",
+      "distance": "112 km",
       "end_date": "2026-09-13",
       "finish_location": "Granada",
       "location": "Carrefour Granada → Granada",
@@ -3626,7 +3626,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-08-12T15:32:57Z",
+  "generated_at": "2026-08-17T14:02:10Z",
   "source_errors": [],
   "successful_sources": [
     "UCI 1.UWT 2026",
