@@ -17,6 +17,9 @@ from cycling_calendar.generator import (
     parse_aso_route_html,
     parse_giro_route_html,
     parse_uci_calendar,
+    parse_uci_podium,
+    parse_uci_result_index,
+    preserve_previous_results,
     stable_uid,
     update_calendar,
 )
@@ -56,6 +59,38 @@ def test_championship_names_do_not_expose_edition_year() -> None:
     assert worlds["race_key"] == "uci-road-world-championships"
     assert europeans["race_name"] == "UEC Road European Championships"
     assert europeans["race_key"] == "uec-road-european-championships"
+
+
+def test_parse_official_uci_result_metadata_and_podium() -> None:
+    props = json.dumps({"results": {"accordion": [{
+        "label": "Stage 4",
+        "results": [{"title": "Stage Classification", "eventCode": "D2EV1", "raceType": "A"}],
+    }]}})
+    groups = parse_uci_result_index(
+        f"<div data-component='CompetitionDetailsModule' data-props='{props}'></div>"
+    )
+    assert groups[0]["results"][0]["eventCode"] == "D2EV1"
+    podium = parse_uci_podium({"results": [
+        {"headerType": "rider", "values": {"rank": "1", "firstname": "Tadej", "lastname": "POGAČAR", "team": "UAE", "result": "4:20:10"}},
+        {"headerType": "rider", "values": {"rank": "2", "firstname": "Remco", "lastname": "EVENEPOEL", "team": "RBH", "result": "00:00:04"}},
+        {"headerType": "rider", "values": {"rank": "3", "firstname": "Jonas", "lastname": "VINGEGAARD", "team": "TVL", "result": "00:00:00"}},
+    ]})
+    assert [row["rider"] for row in podium] == ["Tadej POGAČAR", "Remco EVENEPOEL", "Jonas VINGEGAARD"]
+    assert podium[1]["result"] == "+4''"
+    assert podium[2]["result"] == "stesso tempo"
+    absolute_times = parse_uci_podium({"results": [
+        {"headerType": "rider", "values": {"rank": "1", "firstname": "One", "result": "04:15:25"}},
+        {"headerType": "rider", "values": {"rank": "2", "firstname": "Two", "result": "04:15:25"}},
+        {"headerType": "rider", "values": {"rank": "3", "firstname": "Three", "result": "04:15:29"}},
+    ]})
+    assert absolute_times[1]["result"] == "stesso tempo"
+    assert absolute_times[2]["result"] == "+4''"
+    zero_gap = parse_uci_podium({"results": [
+        {"headerType": "rider", "values": {"rank": "1", "firstname": "One", "result": "1:00:00"}},
+        {"headerType": "rider", "values": {"rank": "2", "firstname": "Two", "result": "+00"}},
+        {"headerType": "rider", "values": {"rank": "3", "firstname": "Three", "result": "+0"}},
+    ]})
+    assert zero_gap[1]["result"] == zero_gap[2]["result"] == "stesso tempo"
 
 
 def test_fetch_includes_current_and_next_uci_season(monkeypatch: pytest.MonkeyPatch) -> None:
@@ -154,6 +189,46 @@ def test_ical_timezone_alarm_and_all_day_handling() -> None:
     assert parsed[1].decoded("dtstart") == date(2026, 8, 23)
     assert all(next(c for c in event.subcomponents if c.name == "VALARM").decoded("trigger").total_seconds() == -7200 for event in parsed)
     assert b"X-WR-TIMEZONE:Europe/Rome" in raw
+
+
+def test_ical_description_contains_compact_results() -> None:
+    event = {
+        "uid": "result@cycling-calendar", "title": "Tappa 1", "race_name": "Test",
+        "start": "2026-08-22", "all_day": True,
+        "stage_podium": [
+            {"rank": "1", "rider": "Rider One", "result": "4:00:00"},
+            {"rank": "2", "rider": "Rider Two", "result": "+4''"},
+            {"rank": "3", "rider": "Rider Three", "result": "+8''"},
+        ],
+        "general_classification": [
+            {"rank": "1", "rider": "Leader One", "result": "20:00:00"},
+            {"rank": "2", "rider": "Leader Two", "result": "+30''"},
+            {"rank": "3", "rider": "Leader Three", "result": "+45''"},
+        ],
+        "results_url": "https://www.uci.org/results",
+    }
+    calendar = Calendar.from_ical(build_ical([event], "2026-08-22T18:00:00Z"))
+    parsed = next(component for component in calendar.walk() if component.name == "VEVENT")
+    description = str(parsed["description"])
+    assert "Podio di tappa: 1. Rider One" in description
+    assert "Top 3 classifica generale: 1. Leader One" in description
+    assert "Fonte risultati: https://www.uci.org/results" in description
+
+
+def test_previous_results_survive_source_failure(tmp_path: Path) -> None:
+    path = tmp_path / "events.json"
+    path.write_text(json.dumps({"events": [{
+        "race_key": "tour-test", "race_name": "Tour Test", "start": "2026-08-22",
+        "stage_number": 1, "stage_podium": [{"rank": "1", "rider": "Winner"}],
+        "results_source": "UCI", "results_url": "https://uci.example/results",
+    }]}), encoding="utf-8")
+    current = [{
+        "race_key": "tour-test", "race_name": "Tour Test", "start": "2026-08-22",
+        "stage_number": 1,
+    }]
+    preserve_previous_results(path, current)
+    assert current[0]["stage_podium"][0]["rider"] == "Winner"
+    assert current[0]["results_url"] == "https://uci.example/results"
 
 
 def test_update_failure_preserves_previous_outputs(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
