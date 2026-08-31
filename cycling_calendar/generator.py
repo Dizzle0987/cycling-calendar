@@ -30,6 +30,11 @@ RESULT_LOOKBACK_DAYS = 3
 RESULT_FIELDS = ("stage_podium", "general_classification", "results_source", "results_url")
 
 UCI_CLASSES = ("1.UWT", "2.UWT", "1.Pro", "2.Pro", "CM", "CC", "CN")
+UCI_MTB_CLASSES = ("CDM", "CM", "CC", "CN")
+UCI_DISCIPLINES = {"ROA": UCI_CLASSES, "MTB": UCI_MTB_CLASSES}
+MTB_SPECIALTIES = ("XCO", "XCC", "XCM", "XCE", "DHI", "EDR", "E-XC", "E-EDR")
+MTB_BROADCAST_URL = "https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series/"
+MTB_WORLDS_BROADCAST_URL = "https://www.uci.org/pressrelease/where-to-watch-the-uci-mountain-bike-world-championships/5bA7imAQLM7sIBv2MIQRxN"
 ALWAYS_INCLUDE_CLASSES = {"1.UWT", "2.UWT"}
 SELECTED_PRO_RACES = {
     "alula-tour", "arctic-race-of-norway", "brabantse-pijl", "brussels-cycling-classic",
@@ -199,8 +204,36 @@ def _result_descriptor(
     return None
 
 
+def _mtb_result_descriptor(
+    groups: list[dict[str, Any]], specialty: str,
+) -> dict[str, Any] | None:
+    patterns = {
+        "XCO": ("cross-country olympic",),
+        "XCC": ("cross-country short circuit", "cross-country short track"),
+        "XCM": ("cross-country marathon",),
+        "XCE": ("cross-country eliminator",),
+        "DHI": ("downhill",),
+        "EDR": ("enduro",),
+        "E-XC": ("e-mtb cross-country", "e-mountain bike cross-country"),
+        "E-EDR": ("e-enduro",),
+    }
+    for group in groups:
+        label = str(group.get("label") or "").casefold()
+        if not re.search(r"\bmen elite\b", label) or "qualifying" in label:
+            continue
+        if specialty == "EDR" and "e-enduro" in label:
+            continue
+        if not any(pattern in label for pattern in patterns.get(specialty, ())):
+            continue
+        for descriptor in group.get("results") or []:
+            if str(descriptor.get("title") or "").casefold() in {"general classification", "final classification"}:
+                return descriptor
+    return None
+
+
 def _fetch_uci_podium(
     session: requests.Session, descriptor: dict[str, Any], source_url: str,
+    discipline: str = "ROA",
 ) -> list[dict[str, str]]:
     event_code = str(descriptor.get("eventCode") or "")
     if not event_code:
@@ -208,7 +241,7 @@ def _fetch_uci_podium(
     response = session.get(
         f"{UCI_BASE}/api/calendar/results/{event_code}",
         params={
-            "discipline": "ROA",
+            "discipline": discipline,
             "raceType": descriptor.get("raceType") or "A",
             "raceName": descriptor.get("title") or "",
         },
@@ -250,11 +283,27 @@ def canonical_race_key(name: str) -> str:
     return RACE_ALIASES.get(key, key)
 
 
+def extract_mtb_specialties(name: str) -> list[str]:
+    """Return the men's Elite MTB formats explicitly advertised by UCI."""
+    upper = name.upper().replace("E-MTB", "E-XC")
+    found = [
+        specialty for specialty in MTB_SPECIALTIES
+        if re.search(rf"(?<![A-Z0-9-]){re.escape(specialty)}(?![A-Z0-9])", upper)
+    ]
+    if "CROSS-COUNTRY MARATHON" in upper and "XCM" not in found:
+        found.append("XCM")
+    if "ELIMINATOR" in upper and "XCE" not in found:
+        found.append("XCE")
+    if "ENDURO" in upper and not any(value in found for value in ("EDR", "E-EDR")):
+        found.append("EDR")
+    return [specialty for specialty in MTB_SPECIALTIES if specialty in found]
+
+
 def display_race_name(name: str, race_class: str) -> str:
     """Keep championship names stable while UCI changes the edition year."""
-    if race_class == "CM" and "road world championship" in name.lower():
+    if race_class == "CM" and "world championship" in name.lower():
         return re.sub(r"(?:^|\s)\d{4}(?=\s|$)", " ", name).strip()
-    if race_class == "CC" and "road european championship" in name.lower():
+    if race_class == "CC" and "european" in name.lower() and "championship" in name.lower():
         return re.sub(r"(?:^|\s)\d{4}(?=\s|$)", " ", name).strip()
     return name
 
@@ -278,7 +327,19 @@ def _parse_uci_dates(value: str) -> tuple[date, date]:
     return start, end
 
 
-def _include_uci_event(name: str, race_class: str, country: str) -> bool:
+def _include_uci_event(name: str, race_class: str, country: str, discipline: str = "ROA") -> bool:
+    if discipline == "MTB":
+        specialties = extract_mtb_specialties(name)
+        if not specialties:
+            return False
+        folded = name.casefold()
+        if race_class == "CDM":
+            return "world cup" in folded
+        if race_class == "CM":
+            return "world championship" in folded
+        if race_class == "CC":
+            return "european" in folded and "championship" in folded
+        return race_class == "CN" and country == "ITA"
     key = canonical_race_key(name)
     if race_class in ALWAYS_INCLUDE_CLASSES:
         return True
@@ -291,55 +352,95 @@ def _include_uci_event(name: str, race_class: str, country: str) -> bool:
     return race_class == "CN" and country == "ITA"
 
 
-def parse_uci_calendar(payload: dict[str, Any], race_class: str) -> list[dict[str, Any]]:
+def parse_uci_calendar(
+    payload: dict[str, Any], race_class: str, discipline: str = "ROA",
+) -> list[dict[str, Any]]:
     unique: dict[str, dict[str, Any]] = {}
     for month in payload.get("items") or []:
         for day in month.get("items") or []:
             for item in day.get("items") or []:
                 name = str(item.get("name") or "").strip()
                 country = str(item.get("country") or "").strip()
+                venue = str(item.get("venue") or "").strip()
                 details = item.get("detailsLink") or {}
                 source_path = str(details.get("url") or "")
-                if not name or not source_path or not _include_uci_event(name, race_class, country):
+                if not name or not source_path or not _include_uci_event(name, race_class, country, discipline):
                     continue
                 source_id_match = re.search(r"/(\d+)$", source_path)
                 source_id = source_id_match.group(1) if source_id_match else canonical_race_key(name)
-                if source_id in unique:
-                    continue
                 start_date, end_date = _parse_uci_dates(str(item.get("dates") or ""))
-                race_key = canonical_race_key(name)
                 public_name = display_race_name(name, race_class)
-                category = "UCI WorldTour" if race_class.endswith("UWT") else (
-                    "UCI ProSeries" if race_class.endswith("Pro") else "Campionato"
-                )
-                notes = "Orari e dettagli del percorso non ancora confermati dalla fonte primaria."
-                if race_class == "CM":
-                    notes = "Rassegna iridata: il programma specifico maschile sarà aggiunto quando confermato."
-                elif race_class == "CC":
-                    notes = "Rassegna europea: il programma specifico maschile sarà aggiunto quando confermato."
-                elif race_class == "CN":
-                    notes = "Campionati italiani: programma maschile e orari da confermare."
-                unique[source_id] = {
+                specialties: list[str | None] = extract_mtb_specialties(name) if discipline == "MTB" else [None]
+                for specialty in specialties:
+                    unique_key = f"{source_id}-{specialty or 'road'}"
+                    if unique_key in unique:
+                        continue
+                    if discipline == "MTB":
+                        base_key = {
+                            "CDM": "uci-mtb-world-cup", "CM": "uci-mtb-world-championships",
+                            "CC": "uec-mtb-european-championships", "CN": "italian-mtb-championships",
+                        }[race_class]
+                        race_key = "-".join(filter(None, (base_key, normalize(venue), normalize(str(specialty)))))
+                        series_name = {
+                            "CDM": "UCI Mountain Bike World Cup",
+                            "CM": "UCI Mountain Bike World Championships",
+                            "CC": "UEC Mountain Bike European Championships",
+                            "CN": "Campionati italiani MTB",
+                        }[race_class]
+                        race_name = f"{series_name} — {specialty}"
+                        title = f"{race_name} — {venue}" if venue else race_name
+                        category = {
+                            "CDM": "Coppa del Mondo UCI MTB", "CM": "Campionati mondiali UCI MTB",
+                            "CC": "Campionati europei MTB", "CN": "Campionati italiani MTB",
+                        }[race_class]
+                        circuit = "UCI Mountain Bike World Series" if race_class == "CDM" else "UCI Mountain Bike International Calendar"
+                        notes = "Gara maschile Elite. Giorno e orario specifici non ancora confermati: è mostrato l'intervallo ufficiale della manifestazione."
+                        broadcast = "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare" if race_class == "CDM" else (
+                            "RAI ed Eurosport / HBO Max / discovery+: programmazione da verificare" if race_class == "CM" else "Da confermare"
+                        )
+                    else:
+                        race_key = canonical_race_key(name)
+                        race_name = public_name
+                        title = public_name
+                        category = "UCI WorldTour" if race_class.endswith("UWT") else (
+                            "UCI ProSeries" if race_class.endswith("Pro") else "Campionato"
+                        )
+                        circuit = "UCI WorldTour" if race_class.endswith("UWT") else (
+                            "UCI ProSeries" if race_class.endswith("Pro") else "UCI Road International Calendar"
+                        )
+                        notes = "Orari e dettagli del percorso non ancora confermati dalla fonte primaria."
+                        if race_class == "CM":
+                            notes = "Rassegna iridata: il programma specifico maschile sarà aggiunto quando confermato."
+                        elif race_class == "CC":
+                            notes = "Rassegna europea: il programma specifico maschile sarà aggiunto quando confermato."
+                        elif race_class == "CN":
+                            notes = "Campionati italiani: programma maschile e orari da confermare."
+                        broadcast = _default_broadcast(race_class)
+                    unique[unique_key] = {
                     "race_key": race_key,
-                    "race_name": public_name,
-                    "title": public_name,
+                    "race_name": race_name,
+                    "title": title,
+                    "official_name": public_name if discipline == "MTB" else None,
                     "stage_number": None,
                     "start": start_date.isoformat(),
                     "end_date": end_date.isoformat(),
                     "all_day": True,
+                    "location": venue,
                     "country": country,
                     "category": category,
                     "uci_class": race_class,
-                    "circuit": "UCI WorldTour" if race_class.endswith("UWT") else (
-                        "UCI ProSeries" if race_class.endswith("Pro") else "UCI Road International Calendar"
-                    ),
+                    "circuit": circuit,
+                    "discipline": discipline,
+                    "specialty": specialty,
                     "source": "UCI",
-                    "source_id": source_id,
+                    "source_id": f"{source_id}-{specialty}" if specialty else source_id,
                     "source_url": urljoin(UCI_BASE, source_path),
                     "official_url": urljoin(UCI_BASE, source_path),
                     "notes": notes,
-                    "broadcast_it": _default_broadcast(race_class),
+                    "broadcast_it": broadcast,
                 }
+                    if discipline == "MTB" and race_class in {"CDM", "CM"}:
+                        unique[unique_key]["broadcast_source_url"] = MTB_BROADCAST_URL if race_class == "CDM" else MTB_WORLDS_BROADCAST_URL
     return list(unique.values())
 
 
@@ -464,27 +565,28 @@ def fetch_remote_events(session: requests.Session, year: int) -> FetchResult:
     errors: list[str] = []
     calendar_years = (year, year + 1)
     for calendar_year in calendar_years:
-        for race_class in UCI_CLASSES:
-            class_events: list[dict[str, Any]] = []
-            class_ok = False
-            for period in ("past", "upcoming"):
-                try:
-                    response = session.get(
-                        UCI_API.format(period=period),
-                        params={
-                            "discipline": "ROA", "raceCategory": "ME",
-                            "raceClass": race_class, "year": calendar_year,
-                        },
-                        timeout=25,
-                    )
-                    response.raise_for_status()
-                    class_events.extend(parse_uci_calendar(response.json(), race_class))
-                    class_ok = True
-                except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
-                    errors.append(f"UCI {race_class}/{period} {calendar_year}: {exc}")
-            if class_ok:
-                successes.append(f"UCI {race_class} {calendar_year}")
-                events.extend(class_events)
+        for discipline, classes in UCI_DISCIPLINES.items():
+            for race_class in classes:
+                class_events: list[dict[str, Any]] = []
+                class_ok = False
+                for period in ("past", "upcoming"):
+                    try:
+                        response = session.get(
+                            UCI_API.format(period=period),
+                            params={
+                                "discipline": discipline, "raceCategory": "ME",
+                                "raceClass": race_class, "year": calendar_year,
+                            },
+                            timeout=25,
+                        )
+                        response.raise_for_status()
+                        class_events.extend(parse_uci_calendar(response.json(), race_class, discipline))
+                        class_ok = True
+                    except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
+                        errors.append(f"UCI {discipline} {race_class}/{period} {calendar_year}: {exc}")
+                if class_ok:
+                    successes.append(f"UCI {discipline} {race_class} {calendar_year}")
+                    events.extend(class_events)
 
     for config in GRAND_TOURS:
         try:
@@ -526,7 +628,7 @@ def enrich_with_uci_results(
     eligible: dict[tuple[str, str], list[dict[str, Any]]] = {}
     for event in events:
         try:
-            event_date = date.fromisoformat(str(event.get("start") or "")[:10])
+            event_date = date.fromisoformat(str(event.get("end_date") or event.get("start") or "")[:10])
         except ValueError:
             continue
         race_id = (event_edition(event), str(event.get("race_key") or ""))
@@ -558,7 +660,14 @@ def enrich_with_uci_results(
             if stage_number is None and has_detailed_stages:
                 continue
             try:
-                if stage_number is not None:
+                discipline = str(event.get("discipline") or "ROA")
+                if discipline == "MTB":
+                    descriptor = _mtb_result_descriptor(groups, str(event.get("specialty") or ""))
+                    if descriptor:
+                        podium = _fetch_uci_podium(session, descriptor, source_url, discipline="MTB")
+                        if len(podium) == 3:
+                            event["stage_podium"] = podium
+                elif stage_number is not None:
                     stage_descriptor = _result_descriptor(groups, stage_number, general=False)
                     general_descriptor = _result_descriptor(groups, stage_number, general=True)
                     if stage_descriptor:
@@ -707,12 +816,15 @@ def _format_classification(rows: Any) -> str | None:
 def _description(event: dict[str, Any]) -> str:
     fields = (
         ("Corsa", event.get("race_name")),
+        ("Nome ufficiale", event.get("official_name")),
         ("Tappa", f"{event.get('stage_number')} — {event.get('stage_name', '')}" if event.get("stage_number") else None),
         ("Partenza", event.get("start_location")),
         ("Arrivo", event.get("finish_location")),
         ("Nazione", event.get("country")),
         ("Distanza", event.get("distance")),
         ("Tipologia", event.get("stage_type")),
+        ("Disciplina", "Mountain bike" if event.get("discipline") == "MTB" else None),
+        ("Specialità", event.get("specialty")),
         ("Categoria", event.get("category")),
         ("Classe UCI", event.get("uci_class")),
         ("Circuito", event.get("circuit")),
