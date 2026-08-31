@@ -130,7 +130,7 @@ def parse_uci_podium(payload: dict[str, Any]) -> list[dict[str, str]]:
     podium = sorted(raw_podium, key=lambda row: int(row["rank"]))[:3]
 
     def seconds(value: str) -> int | None:
-        parts = value.split(":")
+        parts = value.strip().removeprefix("+").strip().split(":")
         if len(parts) not in {2, 3} or not all(part.isdigit() for part in parts):
             return None
         values = [int(part) for part in parts]
@@ -173,11 +173,24 @@ def _result_descriptor(
                 and group not in candidates
             )
     else:
-        candidates = groups[-1:] if groups else []
-    titles = (
-        ("Stage General Classification", "General Classification", "Final General Classification")
-        if general else ("Stage Classification", "General Classification", "Final Classification")
-    )
+        # UCI commonly places "Final Classification" immediately before the
+        # last-stage accordion, so limiting the search to the final group loses
+        # the GC for completed stage races. Prefer explicitly final groups, then
+        # inspect the remaining groups from newest to oldest. This also covers
+        # one-day races, whose sole result is generally titled Classification.
+        final_groups = [
+            group for group in groups
+            if "final classification" in str(group.get("label") or "").casefold()
+        ]
+        candidates = final_groups + [
+            group for group in reversed(groups) if group not in final_groups
+        ]
+    if general and stage_number is None:
+        titles = ("Final General Classification", "General Classification", "Stage General Classification")
+    elif general:
+        titles = ("Stage General Classification", "General Classification", "Final General Classification")
+    else:
+        titles = ("Stage Classification", "General Classification", "Final Classification")
     for title in titles:
         for group in candidates:
             for descriptor in group.get("results") or []:
