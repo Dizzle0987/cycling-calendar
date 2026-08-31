@@ -36,9 +36,10 @@ La pipeline privilegia fonti pubbliche e strutturate:
 
 1. **UCI — fonte primaria di scoperta**: endpoint JSON pubblico del calendario Road, filtrato per categoria Men Elite e classi `1.UWT`, `2.UWT`, `1.Pro`, `2.Pro`, `CM`, `CC` e `CN`. Fornisce nome ufficiale, intervallo di date, nazione, classe e identificativo della competizione.
 2. **Siti ufficiali Giro d'Italia, Tour de France e La Vuelta — dettaglio tappe**: le tabelle di percorso pubblicate dagli organizzatori forniscono numero, data, partenza, arrivo, distanza e tipologia. Ogni tappa diventa un evento distinto.
-3. **Fallback**: se il dettaglio di un Grande Giro non è leggibile ma UCI risponde, rimane l'evento complessivo UCI della corsa; se una sola chiamata UCI fallisce, le altre classi e i siti ufficiali continuano a essere usati.
-4. **Correzioni manuali**: `data/manual_events.json` integra o sovrascrive i dati remoti usando la stessa identità stabile.
-5. **Ultimo output valido**: se tutte le fonti remote falliscono, lo script termina prima di scrivere. `calendar.ics` e `data/events.json` restano intatti.
+3. **UCI — risultati ufficiali**: la pagina della competizione espone identificativi strutturati per classifica di tappa e generale; l'endpoint JSON UCI associato fornisce i primi tre classificati. Le corse di un giorno ricevono il podio, mentre le tappe ricevono podio di giornata e top 3 della generale.
+4. **Fallback**: se il dettaglio di un Grande Giro non è leggibile ma UCI risponde, rimane l'evento complessivo UCI della corsa; se una singola fonte fallisce, le altre continuano a essere usate. I risultati già confermati vengono conservati se il relativo endpoint è temporaneamente indisponibile.
+5. **Correzioni manuali**: `data/manual_events.json` integra o sovrascrive i dati remoti usando la stessa identità stabile.
+6. **Ultimo output valido**: se tutte le fonti remote falliscono, lo script termina prima di scrivere. `calendar.ics` e `data/events.json` restano intatti.
 
 Le pagine ufficiali dei Grandi Giri non espongono sempre gli orari nella tabella generale. In quel caso la tappa viene pubblicata correttamente come evento di giornata intera con una nota “orario da confermare”; non vengono dedotti orari da velocità media, palinsesti o edizioni precedenti. Le pagine dei singoli organizzatori sono volutamente un arricchimento: l'indice UCI resta il fallback stabile se il loro markup cambia.
 
@@ -49,6 +50,14 @@ Per la copertura italiana vengono usati comunicati o palinsesti espliciti. Nel f
 - le altre gare indicano la piattaforma solo se la disponibilità è sufficientemente verificata; altrimenti compare **Da confermare**.
 
 Non vengono inventati canali, orari, percorsi o distanze.
+
+## Risultati e classifiche
+
+Dopo la pubblicazione ufficiale, la descrizione dell'evento contiene al massimo tre righe logiche: podio di tappa, primi tre della generale e link UCI ai risultati completi. Per le corse di un giorno viene mostrato il podio finale. Gli UID non cambiano: il risultato aggiorna l'evento già presente invece di crearne uno nuovo.
+
+L'automazione controlla le gare concluse negli ultimi tre giorni, sufficienti per seguire una corsa in svolgimento senza sovraccaricare le fonti. I risultati già acquisiti vengono riportati nello snapshot successivo anche durante un guasto temporaneo. `CYCLING_RESULTS_BACKFILL=1 python update_calendar.py` consente un recupero storico esplicito.
+
+Eurosport viene utilizzato come fonte editoriale secondaria per verificare podi e classifiche e rimane particolarmente utile per la copertura televisiva italiana. Le sue pagine non vengono analizzate automaticamente perché URL e articoli cambiano nel tempo; il feed preferisce l'endpoint JSON ufficiale UCI e non pubblica un risultato in caso di discrepanza.
 
 ## Copertura
 
@@ -115,7 +124,7 @@ La scrittura dei due output è atomica. Se i dati non cambiano, `generated_at` r
 
 ## Test
 
-La suite verifica parsing UCI e percorsi ufficiali, UID stabili dopo cambi di data, deduplicazione, precedenza manuale, soppressione dell'evento generale quando esistono tappe, `Europe/Rome`, eventi senza orario, allarme a 120 minuti, validità iCalendar, UID unici, pagina di sottoscrizione e conservazione degli output in caso di fallimento totale.
+La suite verifica parsing UCI, metadati e podi ufficiali, percorsi ufficiali, UID stabili dopo cambi di data, deduplicazione, precedenza manuale, soppressione dell'evento generale quando esistono tappe, conservazione dei risultati, `Europe/Rome`, eventi senza orario, allarme a 120 minuti, validità iCalendar, UID unici, pagina di sottoscrizione e conservazione degli output in caso di fallimento totale.
 
 ## Licenza e contributi
 
