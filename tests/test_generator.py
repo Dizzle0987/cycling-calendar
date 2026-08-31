@@ -14,6 +14,7 @@ from cycling_calendar.generator import (
     build_ical,
     deduplicate,
     fetch_remote_events,
+    filter_calendar_window,
     parse_aso_route_html,
     parse_giro_route_html,
     parse_uci_calendar,
@@ -162,6 +163,17 @@ def test_deduplication_keeps_different_editions() -> None:
     result = deduplicate(editions)
     assert len(result) == 2
     assert stable_uid(result[0]) != stable_uid(result[1])
+
+
+def test_previous_calendar_year_is_removed_on_january_first() -> None:
+    events = [
+        {"race_key": "old-race", "race_name": "Old Race", "start": "2026-12-20"},
+        {"race_key": "current-race", "race_name": "Current Race", "start": "2027-02-01"},
+        {"race_key": "next-race", "race_name": "Next Race", "start": "2028-03-01"},
+        {"race_key": "far-race", "race_name": "Far Race", "start": "2029-04-01"},
+    ]
+    kept = filter_calendar_window(events, date(2027, 1, 1))
+    assert [event["race_name"] for event in kept] == ["Current Race", "Next Race"]
 
 
 def test_manual_override_wins_without_duplicate() -> None:
