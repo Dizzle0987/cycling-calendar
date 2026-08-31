@@ -74,10 +74,32 @@
       "circuit": "UCI WorldTour",
       "country": "AUS",
       "end_date": "2026-01-25",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "16:44:54",
+          "rider": "Jay VINE",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+1:03",
+          "rider": "Mauro SCHMID",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "3",
+          "result": "+1:12",
+          "rider": "Harrison SWEENY",
+          "team": "EF EDUCATION - EASYPOST"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76890",
       "race_key": "santos-tour-down-under",
       "race_name": "Santos Tour Down Under",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76890",
       "source": "UCI",
       "source_id": "76890",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76890",
@@ -94,10 +116,32 @@
       "circuit": "UCI ProSeries",
       "country": "KSA",
       "end_date": "2026-01-31",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "17:23:43",
+          "rider": "Jan CHRISTEN",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+13",
+          "rider": "Sergio Andres HIGUITA GARCIA",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+21",
+          "rider": "Igor ARRIETA LIZARRAGA",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/77970",
       "race_key": "alula-tour",
       "race_name": "AlUla Tour",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/77970",
       "source": "UCI",
       "source_id": "77970",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/77970",
@@ -118,10 +162,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76892",
       "race_key": "mapei-cadel-evans-great-ocean-road-race-men",
       "race_name": "Mapei Cadel Evans Great Ocean Road Race - Men",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76892",
       "source": "UCI",
       "source_id": "76892",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76892",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:15:25",
+          "rider": "Tobias LUND ANDRESEN",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Brady GILMORE",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "start": "2026-02-01",
       "title": "Mapei Cadel Evans Great Ocean Road Race - Men",
       "uci_class": "1.UWT",
@@ -178,10 +244,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78008",
       "race_key": "faun-ardeche-classic",
       "race_name": "Faun-Ardèche Classic",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78008",
       "source": "UCI",
       "source_id": "78008",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78008",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:37:22",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 48''",
+          "rider": "Jan CHRISTEN",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 48''",
+          "rider": "Lenny Sydney MARTINEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        }
+      ],
       "start": "2026-02-28",
       "title": "Faun-Ardèche Classic",
       "uci_class": "1.Pro",
@@ -198,10 +286,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76896",
       "race_key": "omloop-nieuwsblad",
       "race_name": "Omloop Nieuwsblad",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76896",
       "source": "UCI",
       "source_id": "76896",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76896",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:53:55",
+          "rider": "Mathieu VAN DER POEL",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "+22",
+          "rider": "Tim VAN DIJKE",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+24",
+          "rider": "Florian VERMEERSCH",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-02-28",
       "title": "Omloop Nieuwsblad",
       "uci_class": "1.UWT",
@@ -218,10 +328,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78012",
       "race_key": "faun-drome-classic",
       "race_name": "Faun Drome Classic",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78012",
       "source": "UCI",
       "source_id": "78012",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78012",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:14:11",
+          "rider": "Romain GREGOIRE",
+          "team": "GROUPAMA-FDJ UNITED"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Matteo JORGENSON",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+2''",
+          "rider": "Lenny Sydney MARTINEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        }
+      ],
       "start": "2026-03-01",
       "title": "Faun Drome Classic",
       "uci_class": "1.Pro",
@@ -238,10 +370,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78014",
       "race_key": "kuurne-brussel-kuurne",
       "race_name": "Kuurne - Brussel - Kuurne",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78014",
       "source": "UCI",
       "source_id": "78014",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78014",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:26:05",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Luca MOZZATO",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Matteo TRENTIN",
+          "team": "TUDOR PRO CYCLING TEAM"
+        }
+      ],
       "start": "2026-03-01",
       "title": "Kuurne - Brussel - Kuurne",
       "uci_class": "1.Pro",
@@ -258,10 +412,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78020",
       "race_key": "trofeo-laigueglia",
       "race_name": "Trofeo Laigueglia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78020",
       "source": "UCI",
       "source_id": "78020",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78020",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:38:50",
+          "rider": "Santiago BUITRAGO SANCHEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+25''",
+          "rider": "Romain GREGOIRE",
+          "team": "GROUPAMA-FDJ UNITED"
+        },
+        {
+          "rank": "3",
+          "result": "+25''",
+          "rider": "Antonio TIBERI",
+          "team": "BAHRAIN VICTORIOUS"
+        }
+      ],
       "start": "2026-03-04",
       "title": "Trofeo Laigueglia",
       "uci_class": "1.Pro",
@@ -278,10 +454,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76897",
       "race_key": "strade-bianche",
       "race_name": "Strade Bianche",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76897",
       "source": "UCI",
       "source_id": "76897",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76897",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:45:15",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 00''",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 09''",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-03-07",
       "title": "Strade Bianche",
       "uci_class": "1.UWT",
@@ -314,10 +512,32 @@
       "circuit": "UCI WorldTour",
       "country": "ITA",
       "end_date": "2026-03-15",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "28:02:14",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+40''",
+          "rider": "Matteo JORGENSON",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+42''",
+          "rider": "Giulio PELLIZZARI",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76900",
       "race_key": "tirreno-adriatico",
       "race_name": "Tirreno-Adriatico",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76900",
       "source": "UCI",
       "source_id": "76900",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76900",
@@ -338,10 +558,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78046",
       "race_key": "milano-torino",
       "race_name": "Milano - Torino",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78046",
       "source": "UCI",
       "source_id": "78046",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78046",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:48:45",
+          "rider": "Thomas PIDCOCK",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+4''",
+          "rider": "Tobias Halland JOHANNESSEN",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+5''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "start": "2026-03-18",
       "title": "Milano - Torino",
       "uci_class": "1.Pro",
@@ -358,10 +600,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76902",
       "race_key": "milano-sanremo",
       "race_name": "Milano-Sanremo",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76902",
       "source": "UCI",
       "source_id": "76902",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76902",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "6:35:49",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Thomas PIDCOCK",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4''",
+          "rider": "Wout VAN AERT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "start": "2026-03-21",
       "title": "Milano-Sanremo",
       "uci_class": "1.UWT",
@@ -398,10 +662,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76905",
       "race_key": "ronde-van-brugge-tour-of-bruges",
       "race_name": "Ronde Van Brugge - Tour of Bruges",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76905",
       "source": "UCI",
       "source_id": "76905",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76905",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:15:57",
+          "rider": "Dylan GROENEWEGEN",
+          "team": "UNIBET ROSE ROCKETS"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Max KANTER",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "start": "2026-03-25",
       "title": "Ronde Van Brugge - Tour of Bruges",
       "uci_class": "1.UWT",
@@ -418,10 +704,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76907",
       "race_key": "e3-saxo-classic",
       "race_name": "E3 Saxo Classic",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76907",
       "source": "UCI",
       "source_id": "76907",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76907",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:45:15",
+          "rider": "Mathieu VAN DER POEL",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "+3''",
+          "rider": "Per Strand HAGENES",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3''",
+          "rider": "Florian VERMEERSCH",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-03-27",
       "title": "E3 Saxo Classic",
       "uci_class": "1.UWT",
@@ -438,10 +746,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76909",
       "race_key": "gent-wevelgem",
       "race_name": "In Flanders Fields - From Middelkerke to Wevelgem",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76909",
       "source": "UCI",
       "source_id": "76909",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76909",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:08:03",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tobias LUND ANDRESEN",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Christophe LAPORTE",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "start": "2026-03-29",
       "title": "In Flanders Fields - From Middelkerke to Wevelgem",
       "uci_class": "1.UWT",
@@ -458,10 +788,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76910",
       "race_key": "dwars-door-vlaanderen-a-travers-la-flandre",
       "race_name": "Dwars door Vlaanderen - A travers la Flandre",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76910",
       "source": "UCI",
       "source_id": "76910",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76910",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:48:27",
+          "rider": "Filippo GANNA",
+          "team": "INEOS GRENADIERS"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Wout VAN AERT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Søren WÆRENSKJOLD",
+          "team": "UNO-X MOBILITY"
+        }
+      ],
       "start": "2026-04-01",
       "title": "Dwars door Vlaanderen - A travers la Flandre",
       "uci_class": "1.UWT",
@@ -478,10 +830,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76912",
       "race_key": "ronde-van-vlaanderen",
       "race_name": "Ronde van Vlaanderen",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76912",
       "source": "UCI",
       "source_id": "76912",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76912",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "6:20:07",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+34",
+          "rider": "Mathieu VAN DER POEL",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "3",
+          "result": "+1:11",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "start": "2026-04-05",
       "title": "Ronde van Vlaanderen",
       "uci_class": "1.UWT",
@@ -494,10 +868,32 @@
       "circuit": "UCI WorldTour",
       "country": "ESP",
       "end_date": "2026-04-11",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "20:07:35",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 30''",
+          "rider": "Florian LIPOWITZ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 33''",
+          "rider": "Tobias Halland JOHANNESSEN",
+          "team": "UNO-X MOBILITY"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76914",
       "race_key": "itzulia-basque-country",
       "race_name": "Itzulia Basque Country",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76914",
       "source": "UCI",
       "source_id": "76914",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76914",
@@ -518,10 +914,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78089",
       "race_key": "scheldeprijs",
       "race_name": "Scheldeprijs",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78089",
       "source": "UCI",
       "source_id": "78089",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78089",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:25:01",
+          "rider": "Tim MERLIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Pavel BITTNER",
+          "team": "TEAM PICNIC POSTNL"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Emilien JEANNIERE",
+          "team": "TOTALENERGIES"
+        }
+      ],
       "start": "2026-04-08",
       "title": "Scheldeprijs",
       "uci_class": "1.Pro",
@@ -538,10 +956,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76916",
       "race_key": "paris-roubaix-hauts-de-france",
       "race_name": "Paris-Roubaix Hauts-de-France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76916",
       "source": "UCI",
       "source_id": "76916",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76916",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:16:52",
+          "rider": "Wout VAN AERT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+13",
+          "rider": "Jasper STUYVEN",
+          "team": "SOUDAL QUICK-STEP"
+        }
+      ],
       "start": "2026-04-12",
       "title": "Paris-Roubaix Hauts-de-France",
       "uci_class": "1.UWT",
@@ -558,10 +998,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76917",
       "race_key": "amstel-gold-race",
       "race_name": "Amstel Gold Race",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76917",
       "source": "UCI",
       "source_id": "76917",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76917",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:59:40",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "+01",
+          "rider": "Mattias Skjelmose Jennow JENSEN",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "3",
+          "result": "+1:59",
+          "rider": "Benoit COSNEFROY",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-04-19",
       "title": "Amstel Gold Race",
       "uci_class": "1.UWT",
@@ -598,10 +1060,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76920",
       "race_key": "la-fleche-wallonne",
       "race_name": "La Flèche Wallonne",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76920",
       "source": "UCI",
       "source_id": "76920",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76920",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:35:29",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+03",
+          "rider": "Mauro SCHMID",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "3",
+          "result": "+03",
+          "rider": "Ben TULETT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "start": "2026-04-22",
       "title": "La Flèche Wallonne",
       "uci_class": "1.UWT",
@@ -618,10 +1102,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76922",
       "race_key": "liege-bastogne-liege",
       "race_name": "Liège-Bastogne-Liège",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76922",
       "source": "UCI",
       "source_id": "76922",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76922",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:50:28",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+45",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1:42",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "start": "2026-04-26",
       "title": "Liège-Bastogne-Liège",
       "uci_class": "1.UWT",
@@ -634,10 +1140,32 @@
       "circuit": "UCI ProSeries",
       "country": "TUR",
       "end_date": "2026-05-03",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "26:34:19",
+          "rider": "Sebastian BERWICK",
+          "team": "CAJA RURAL-SEGUROS RGA"
+        },
+        {
+          "rank": "2",
+          "result": "+05",
+          "rider": "Ivan Ramiro SOSA CUERVO",
+          "team": "EQUIPO KERN PHARMA"
+        },
+        {
+          "rank": "3",
+          "result": "+59",
+          "rider": "Kamiel BONNEU",
+          "team": "SOLUTION TECH NIPPO RALI"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78135",
       "race_key": "presidential-cycling-tour-of-turkiye",
       "race_name": "Presidential Cycling Tour of Turkiye",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78135",
       "source": "UCI",
       "source_id": "78135",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78135",
@@ -678,10 +1206,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76924",
       "race_key": "eschborn-frankfurt",
       "race_name": "Eschborn-Frankfurt",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76924",
       "source": "UCI",
       "source_id": "76924",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76924",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:59:34",
+          "rider": "Georg ZIMMERMANN",
+          "team": "LOTTO INTERMARCHÉ"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Thomas PIDCOCK",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Ben TULETT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "start": "2026-05-01",
       "title": "Eschborn-Frankfurt",
       "uci_class": "1.UWT",
@@ -697,15 +1247,57 @@
       "distance": "147 km",
       "end_date": "2026-05-08",
       "finish_location": "Burgas / Бургас",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "3:20:58",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "+4''",
+          "rider": "Tobias LUND ANDRESEN",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4''",
+          "rider": "Manuele TAROZZI",
+          "team": "BARDIANI CSF 7 SABER"
+        }
+      ],
       "location": "Nessebar / Несебър → Burgas / Бургас",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-1-of-the-giro-ditalia-2026-nessebar-burgas/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-1-of-the-giro-ditalia-2026-nessebar-burgas/",
       "stage_name": "Nessebar / Несебър → Burgas / Бургас",
       "stage_number": 1,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:21:08",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tobias LUND ANDRESEN",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Ethan Kane VERNON",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-08",
       "start_location": "Nessebar / Несебър",
@@ -723,15 +1315,57 @@
       "distance": "221 km",
       "end_date": "2026-05-09",
       "finish_location": "Veliko Tarnovo / Велико Търново",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "9:00:23",
+          "rider": "Guillermo Thomas SILVA COUSSAN",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+4''",
+          "rider": "Florian STORK",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4''",
+          "rider": "Egan Arley BERNAL GOMEZ",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Burgas / Бургас → Veliko Tarnovo / Велико Търново",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-2-of-the-giro-ditalia-2026-burgas-veliko-tarnovo/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-2-of-the-giro-ditalia-2026-burgas-veliko-tarnovo/",
       "stage_name": "Burgas / Бургас → Veliko Tarnovo / Велико Търново",
       "stage_number": 2,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:39:25",
+          "rider": "Guillermo Thomas SILVA COUSSAN",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Florian STORK",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-05-09",
       "start_location": "Burgas / Бургас",
@@ -749,15 +1383,57 @@
       "distance": "175 km",
       "end_date": "2026-05-10",
       "finish_location": "Sofia / София",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "13:10:05",
+          "rider": "Guillermo Thomas SILVA COUSSAN",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+4''",
+          "rider": "Florian STORK",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4''",
+          "rider": "Egan Arley BERNAL GOMEZ",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Plovdiv / Пловдив → Sofia / София",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-3-of-the-giro-ditalia-2026-plovdiv-sofia/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-3-of-the-giro-ditalia-2026-plovdiv-sofia/",
       "stage_name": "Plovdiv / Пловдив → Sofia / София",
       "stage_number": 3,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:09:42",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jonathan MILAN",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Dylan GROENEWEGEN",
+          "team": "UNIBET ROSE ROCKETS"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-10",
       "start_location": "Plovdiv / Пловдив",
@@ -776,10 +1452,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78171",
       "race_key": "tro-bro-leon",
       "race_name": "Tro-Bro Léon",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78171",
       "source": "UCI",
       "source_id": "78171",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78171",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:47:35",
+          "rider": "Filippo FIORELLI",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Alexis RENARD",
+          "team": "COFIDIS"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Lewis ASKEY",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "start": "2026-05-10",
       "title": "Tro-Bro Léon",
       "uci_class": "1.Pro",
@@ -795,15 +1493,57 @@
       "distance": "138 km",
       "end_date": "2026-05-12",
       "finish_location": "Cosenza",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "16:18:51",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "2",
+          "result": "+4''",
+          "rider": "Jan CHRISTEN",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+4''",
+          "rider": "Florian STORK",
+          "team": "TUDOR PRO CYCLING TEAM"
+        }
+      ],
       "location": "Catanzaro → Cosenza",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-4-of-the-giro-ditalia-2026-catanzaro-cosenza/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-4-of-the-giro-ditalia-2026-catanzaro-cosenza/",
       "stage_name": "Catanzaro → Cosenza",
       "stage_number": 4,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:08:46",
+          "rider": "Jhonatan NARVAEZ PRADO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Orluis Alberto AULAR SANABRIA",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-12",
       "start_location": "Catanzaro",
@@ -821,15 +1561,57 @@
       "distance": "203 km",
       "end_date": "2026-05-13",
       "finish_location": "Potenza",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "21:27:43",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 51''",
+          "rider": "Igor ARRIETA LIZARRAGA",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+3' 34''",
+          "rider": "Christian SCARONI",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "location": "Praia a Mare → Potenza",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-5-of-the-giro-ditalia-2026-praia-a-mare-potenza/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-5-of-the-giro-ditalia-2026-praia-a-mare-potenza/",
       "stage_name": "Praia a Mare → Potenza",
       "stage_number": 5,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:07:51",
+          "rider": "Igor ARRIETA LIZARRAGA",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2''",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+51''",
+          "rider": "Guillermo Thomas SILVA COUSSAN",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-05-13",
       "start_location": "Praia a Mare",
@@ -847,15 +1629,57 @@
       "distance": "142 km",
       "end_date": "2026-05-14",
       "finish_location": "Napoli",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "24:47:13",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 51''",
+          "rider": "Igor ARRIETA LIZARRAGA",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+3' 34''",
+          "rider": "Christian SCARONI",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "location": "Paestum → Napoli",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-6-of-the-giro-ditalia-2026-paestum-napoli/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-6-of-the-giro-ditalia-2026-paestum-napoli/",
       "stage_name": "Paestum → Napoli",
       "stage_number": 6,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:19:30",
+          "rider": "Davide BALLERINI",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jasper STUYVEN",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-14",
       "start_location": "Paestum",
@@ -873,15 +1697,57 @@
       "distance": "245 km",
       "end_date": "2026-05-15",
       "finish_location": "Blockhaus",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "30:59:23",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+3' 17''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3' 34''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Formia → Blockhaus",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-7-of-the-giro-ditalia-2026-formia-blockhaus/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-7-of-the-giro-ditalia-2026-formia-blockhaus/",
       "stage_name": "Formia → Blockhaus",
       "stage_number": 7,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "6:09:15",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+13''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 02''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-05-15",
       "start_location": "Formia",
@@ -899,15 +1765,57 @@
       "distance": "156 km",
       "end_date": "2026-05-16",
       "finish_location": "Fermo",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "34:28:42",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+3' 15''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3' 34''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Chieti → Fermo",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-8-of-the-giro-ditalia-2026-chieti-fermo/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-8-of-the-giro-ditalia-2026-chieti-fermo/",
       "stage_name": "Chieti → Fermo",
       "stage_number": 8,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:27:26",
+          "rider": "Jhonatan NARVAEZ PRADO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+32''",
+          "rider": "Andreas LEKNESSUND",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+42''",
+          "rider": "Martin TJØTTA",
+          "team": "UNO-X MOBILITY"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-05-16",
       "start_location": "Chieti",
@@ -925,15 +1833,57 @@
       "distance": "184 km",
       "end_date": "2026-05-17",
       "finish_location": "Corno alle Scale",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "38:49:44",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 24''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 59''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Cervia → Corno alle Scale",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-9-of-the-giro-ditalia-2026-cervia-corno-alle-scale/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-9-of-the-giro-ditalia-2026-cervia-corno-alle-scale/",
       "stage_name": "Cervia → Corno alle Scale",
       "stage_number": 9,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:20:21",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+12''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+34''",
+          "rider": "Davide PIGANZOLI",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-05-17",
       "start_location": "Cervia",
@@ -951,15 +1901,57 @@
       "distance": "42.0 km",
       "end_date": "2026-05-19",
       "finish_location": "Massa TUDOR ITT",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "39:40:34",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+27''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 57''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Viareggio → Massa TUDOR ITT",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-10-of-the-giro-ditalia-2026-viareggio-massa-tudor-itt/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-10-of-the-giro-ditalia-2026-viareggio-massa-tudor-itt/",
       "stage_name": "Viareggio → Massa TUDOR ITT",
       "stage_number": 10,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "45:53",
+          "rider": "Filippo GANNA",
+          "team": "NETCOMPANY INEOS"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 53''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 59''",
+          "rider": "Rémi CAVAGNA",
+          "team": "GROUPAMA-FDJ UNITED"
+        }
+      ],
       "stage_type": "cronometro",
       "start": "2026-05-19",
       "start_location": "Viareggio",
@@ -977,15 +1969,57 @@
       "distance": "195 km",
       "end_date": "2026-05-20",
       "finish_location": "Chiavari",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "44:17:41",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+27''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 57''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Porcari (Paper District) → Chiavari",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-11-of-the-giro-ditalia-2026-porcari-paper-district-chiavari/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-11-of-the-giro-ditalia-2026-porcari-paper-district-chiavari/",
       "stage_name": "Porcari (Paper District) → Chiavari",
       "stage_number": 11,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:33:43",
+          "rider": "Jhonatan NARVAEZ PRADO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+11''",
+          "rider": "Diego ULISSI",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-05-20",
       "start_location": "Porcari (Paper District)",
@@ -1003,15 +2037,57 @@
       "distance": "175 km",
       "end_date": "2026-05-21",
       "finish_location": "Novi Ligure",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "48:10:38",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+33''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 03''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Imperia → Novi Ligure",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-12-of-the-giro-ditalia-2026-imperia-novi-ligure/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-12-of-the-giro-ditalia-2026-imperia-novi-ligure/",
       "stage_name": "Imperia → Novi Ligure",
       "stage_number": 12,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:53:00",
+          "rider": "Alec SEGAERT",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+3''",
+          "rider": "Toon AERTS",
+          "team": "LOTTO INTERMARCHÉ"
+        },
+        {
+          "rank": "3",
+          "result": "+3''",
+          "rider": "Guillermo Thomas SILVA COUSSAN",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-21",
       "start_location": "Imperia",
@@ -1029,15 +2105,57 @@
       "distance": "189 km",
       "end_date": "2026-05-22",
       "finish_location": "Verbania",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "52:15:17",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "2",
+          "result": "+33''",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 03''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Alessandria → Verbania",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-13-of-the-giro-ditalia-2026-alessandria-verbania/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-13-of-the-giro-ditalia-2026-alessandria-verbania/",
       "stage_name": "Alessandria → Verbania",
       "stage_number": 13,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:51:33",
+          "rider": "Alberto BETTIOL",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+26''",
+          "rider": "Andreas LEKNESSUND",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+44''",
+          "rider": "Jasper STUYVEN",
+          "team": "SOUDAL QUICK-STEP"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-22",
       "start_location": "Alessandria",
@@ -1055,15 +2173,57 @@
       "distance": "133 km",
       "end_date": "2026-05-23",
       "finish_location": "Pila (Gressan)",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "56:08:41",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 26''",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 50''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Aosta → Pila (Gressan)",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-14-of-the-giro-ditalia-2026-aosta-pila/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-14-of-the-giro-ditalia-2026-aosta-pila/",
       "stage_name": "Aosta → Pila (Gressan)",
       "stage_number": 14,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:53:01",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+49''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+58''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-05-23",
       "start_location": "Aosta",
@@ -1081,15 +2241,57 @@
       "distance": "157 km",
       "end_date": "2026-05-24",
       "finish_location": "Milano",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "59:12:56",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 26''",
+          "rider": "Afonso EULÁLIO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 50''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Voghera → Milano",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-15-of-the-giro-ditalia-2026-voghera-milano/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-15-of-the-giro-ditalia-2026-voghera-milano/",
       "stage_name": "Voghera → Milano",
       "stage_number": 15,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:03:18",
+          "rider": "Fredrik DVERSNES",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Mirco MAESTRI",
+          "team": "TEAM POLTI VISITMALTA"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Martin MARCELLUSI",
+          "team": "BARDIANI CSF 7 SABER"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-24",
       "start_location": "Voghera",
@@ -1107,15 +2309,57 @@
       "distance": "113 km",
       "end_date": "2026-05-26",
       "finish_location": "Carì",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "62:10:26",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+4' 03''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4' 27''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Bellinzona → Carì",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-16-of-the-giro-ditalia-2026-bellinzona-cari/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-16-of-the-giro-ditalia-2026-bellinzona-cari/",
       "stage_name": "Bellinzona → Carì",
       "stage_number": 16,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "2:57:40",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 09''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 11''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-05-26",
       "start_location": "Bellinzona",
@@ -1133,15 +2377,57 @@
       "distance": "202 km",
       "end_date": "2026-05-27",
       "finish_location": "Andalo",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "66:57:14",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+4' 03''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4' 27''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Cassano d'Adda → Andalo",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-17-of-the-giro-ditalia-2026-cassano-dadda-andalo/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-17-of-the-giro-ditalia-2026-cassano-dadda-andalo/",
       "stage_name": "Cassano d'Adda → Andalo",
       "stage_number": 17,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:41:33",
+          "rider": "Michael VALGREN",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "2",
+          "result": "+3''",
+          "rider": "Andreas LEKNESSUND",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+6''",
+          "rider": "Damiano CARUSO",
+          "team": "BAHRAIN VICTORIOUS"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-05-27",
       "start_location": "Cassano d'Adda",
@@ -1159,15 +2445,57 @@
       "distance": "171 km",
       "end_date": "2026-05-28",
       "finish_location": "Pieve di Soligo",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "70:44:04",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+4' 03''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4' 27''",
+          "rider": "Thymen ARENSMAN",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Fai della Paganella → Pieve di Soligo",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-18-of-the-giro-ditalia-2026-fai-della-paganella-pieve-di-soligo/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-18-of-the-giro-ditalia-2026-fai-della-paganella-pieve-di-soligo/",
       "stage_name": "Fai della Paganella → Pieve di Soligo",
       "stage_number": 18,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:46:50",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Edoardo ZAMBANINI",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Jonathan MILAN",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-28",
       "start_location": "Fai della Paganella",
@@ -1185,15 +2513,57 @@
       "distance": "151 km",
       "end_date": "2026-05-29",
       "finish_location": "Alleghe (Piani di Pezzè)",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "75:13:16",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+4' 03''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+5' 04''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Feltre → Alleghe (Piani di Pezzè)",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-19-of-the-giro-ditalia-2026-feltre-alleghe-piani-di-pezze/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-19-of-the-giro-ditalia-2026-feltre-alleghe-piani-di-pezze/",
       "stage_name": "Feltre → Alleghe (Piani di Pezzè)",
       "stage_number": 19,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:28:33",
+          "rider": "Sepp KUSS",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+13''",
+          "rider": "Derek GEE",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "3",
+          "result": "+36''",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-05-29",
       "start_location": "Feltre",
@@ -1211,15 +2581,57 @@
       "distance": "200 km",
       "end_date": "2026-05-30",
       "finish_location": "Piancavallo",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "80:17:01",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+5' 22''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+6' 25''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Gemona del Friuli 1976-2026 → Piancavallo",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-20-of-the-giro-ditalia-2026-gemona-del-friuli-1976-2026-piancavallo/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-20-of-the-giro-ditalia-2026-gemona-del-friuli-1976-2026-piancavallo/",
       "stage_name": "Gemona del Friuli 1976-2026 → Piancavallo",
       "stage_number": 20,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:03:55",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 15''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 15''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-05-30",
       "start_location": "Gemona del Friuli 1976-2026",
@@ -1237,15 +2649,57 @@
       "distance": "131 km",
       "end_date": "2026-05-31",
       "finish_location": "Roma",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "83:22:51",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+5' 22''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+6' 25''",
+          "rider": "Jai HINDLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Roma → Roma",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.giroditalia.it/en/tappe/stage-21-of-the-giro-ditalia-2026-roma-roma/",
       "race_key": "giro-d-italia",
       "race_name": "Giro d'Italia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76926",
       "source": "Sito ufficiale Giro d'Italia",
       "source_url": "https://www.giroditalia.it/en/tappe/stage-21-of-the-giro-ditalia-2026-roma-roma/",
       "stage_name": "Roma → Roma",
       "stage_number": 21,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:05:50",
+          "rider": "Jonathan MILAN",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Giovanni LONARDI",
+          "team": "TEAM POLTI VISITMALTA"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Paul PENHOET",
+          "team": "GROUPAMA-FDJ UNITED"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-05-31",
       "start_location": "Roma",
@@ -1264,10 +2718,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78243",
       "race_key": "brussels-cycling-classic",
       "race_name": "Brussels Cycling Classic",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78243",
       "source": "UCI",
       "source_id": "78243",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78243",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:32:54",
+          "rider": "Jordi MEEUS",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Milan FRETIN",
+          "team": "COFIDIS"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Biniam GIRMAY",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "start": "2026-06-07",
       "title": "Brussels Cycling Classic",
       "uci_class": "1.Pro",
@@ -1280,10 +2756,32 @@
       "circuit": "UCI WorldTour",
       "country": "FRA",
       "end_date": "2026-06-14",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "29:35:05",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+54",
+          "rider": "Luke TUCKWELL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+1:17",
+          "rider": "Juan AYUSO PESQUERA",
+          "team": "LIDL-TREK"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76930",
       "race_key": "tour-auvergne-rhone-alpes",
       "race_name": "Tour Auvergne - Rhône-Alpes",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76930",
       "source": "UCI",
       "source_id": "76930",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76930",
@@ -1304,10 +2802,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78248",
       "race_key": "circuit-franco-belge",
       "race_name": "Circuit Franco-Belge",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78248",
       "source": "UCI",
       "source_id": "78248",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78248",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:32:18",
+          "rider": "Corbin John STRONG",
+          "team": "NSN CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Anders FOLDAGER",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        }
+      ],
       "start": "2026-06-10",
       "title": "Circuit Franco-Belge",
       "uci_class": "1.Pro",
@@ -1324,10 +2844,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76934",
       "race_key": "copenhagen-sprint",
       "race_name": "Copenhagen Sprint",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76934",
       "source": "UCI",
       "source_id": "76934",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76934",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:48:21",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tobias LUND ANDRESEN",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Samuel WELSFORD",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "start": "2026-06-14",
       "title": "Copenhagen Sprint",
       "uci_class": "1.UWT",
@@ -1340,10 +2882,32 @@
       "circuit": "UCI WorldTour",
       "country": "SUI",
       "end_date": "2026-06-21",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "15:08:43",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+6:32",
+          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "3",
+          "result": "+6:53",
+          "rider": "Mathias VACEK",
+          "team": "LIDL-TREK"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76932",
       "race_key": "tour-de-suisse",
       "race_name": "Tour de Suisse",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76932",
       "source": "UCI",
       "source_id": "76932",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76932",
@@ -1360,10 +2924,32 @@
       "circuit": "UCI Road International Calendar",
       "country": "ITA",
       "end_date": "2026-06-28",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "2:49:08",
+          "rider": "Elisa LONGO BORGHINI",
+          "team": "UAE TEAM ADQ"
+        },
+        {
+          "rank": "2",
+          "result": "+18''",
+          "rider": "Monica TRINCA COLONEL",
+          "team": "LIV-ALULA-JAYCO"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 50''",
+          "rider": "Elisa BALSAMO",
+          "team": "LIDL - TREK"
+        }
+      ],
       "notes": "Campionati italiani: programma maschile e orari da confermare.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78509",
       "race_key": "campionati-italiani-strada",
       "race_name": "National Road Championships - Italy",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78509",
       "source": "UCI",
       "source_id": "78509",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78509",
@@ -1383,15 +2969,57 @@
       "distance": "19.6 km",
       "end_date": "2026-07-04",
       "finish_location": "Barcelone",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "21:47",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+08",
+          "rider": "Filippo GANNA",
+          "team": "NETCOMPANY INEOS"
+        },
+        {
+          "rank": "3",
+          "result": "+12",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Barcelone → Barcelone",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-1",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-1",
       "stage_name": "Barcelone → Barcelone",
       "stage_number": 1,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "21:47.87",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "1",
+          "result": "22:15.68",
+          "rider": "Davide PIGANZOLI",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "1",
+          "result": "23:45.83",
+          "rider": "Sepp KUSS",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "stage_type": "cronometro",
       "start": "2026-07-04",
       "start_location": "Barcelone",
@@ -1409,15 +3037,57 @@
       "distance": "168.5 km",
       "end_date": "2026-07-05",
       "finish_location": "Barcelone",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "4:01:48",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+06",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+15",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Tarragone → Barcelone",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-2",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-2",
       "stage_name": "Tarragone → Barcelone",
       "stage_number": 2,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:40:01",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-07-05",
       "start_location": "Tarragone",
@@ -1435,15 +3105,57 @@
       "distance": "195.9 km",
       "end_date": "2026-07-06",
       "finish_location": "Les Angles",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "8:46:55",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+23",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Granollers → Les Angles",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-3",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-3",
       "stage_name": "Granollers → Les Angles",
       "stage_number": 3,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:45:11",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+02",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+02",
+          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
+          "team": "EF EDUCATION - EASYPOST"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-06",
       "start_location": "Granollers",
@@ -1461,15 +3173,57 @@
       "distance": "181.9 km",
       "end_date": "2026-07-07",
       "finish_location": "Foix",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "13:02:46",
+          "rider": "Torstein TRÆEN",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "2",
+          "result": "+28",
+          "rider": "Sean QUINN",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "3",
+          "result": "+3:50",
+          "rider": "Mathias VACEK",
+          "team": "LIDL-TREK"
+        }
+      ],
       "location": "Carcassonne → Foix",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-4",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-4",
       "stage_name": "Carcassonne → Foix",
       "stage_number": 4,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:10:45",
+          "rider": "Mads PEDERSEN",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Quinn SIMMONS",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Raul GARCIA PIERNA",
+          "team": "MOVISTAR TEAM"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-07-07",
       "start_location": "Carcassonne",
@@ -1487,15 +3241,57 @@
       "distance": "158.3 km",
       "end_date": "2026-07-08",
       "finish_location": "Pau",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "16:32:07",
+          "rider": "Torstein TRÆEN",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "2",
+          "result": "+28",
+          "rider": "Sean QUINN",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "3",
+          "result": "+3:50",
+          "rider": "Mathias VACEK",
+          "team": "LIDL-TREK"
+        }
+      ],
       "location": "Lannemezan → Pau",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-5",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-5",
       "stage_name": "Lannemezan → Pau",
       "stage_number": 5,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:29:07",
+          "rider": "Olav KOOIJ",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Max KANTER",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Tim MERLIER",
+          "team": "SOUDAL QUICK-STEP"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-08",
       "start_location": "Lannemezan",
@@ -1513,15 +3309,57 @@
       "distance": "186.2 km",
       "end_date": "2026-07-09",
       "finish_location": "Gavarnie-Gèdre",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "21:11:57",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2:42",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3:27",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Pau → Gavarnie-Gèdre",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-6",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-6",
       "stage_name": "Pau → Gavarnie-Gèdre",
       "stage_number": 6,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:32:07",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2:38",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+2:57",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-09",
       "start_location": "Pau",
@@ -1539,15 +3377,57 @@
       "distance": "175.1 km",
       "end_date": "2026-07-10",
       "finish_location": "Bordeaux",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "24:56:17",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2:42",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3:27",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Hagetmau → Bordeaux",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-7",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-7",
       "stage_name": "Hagetmau → Bordeaux",
       "stage_number": 7,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:44:20",
+          "rider": "Tim MERLIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Søren WÆRENSKJOLD",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Biniam GIRMAY",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-10",
       "start_location": "Hagetmau",
@@ -1565,15 +3445,57 @@
       "distance": "180.4 km",
       "end_date": "2026-07-11",
       "finish_location": "Bergerac",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "28:49:07",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2:42",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3:27",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Périgueux → Bergerac",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-8",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-8",
       "stage_name": "Périgueux → Bergerac",
       "stage_number": 8,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:52:50",
+          "rider": "Tim MERLIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Biniam GIRMAY",
+          "team": "NSN CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Olav KOOIJ",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-11",
       "start_location": "Périgueux",
@@ -1591,15 +3513,57 @@
       "distance": "154.6 km",
       "end_date": "2026-07-12",
       "finish_location": "Ussel",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "32:17:04",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2:42",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+3:27",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Malemort → Ussel",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-9",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-9",
       "stage_name": "Malemort → Ussel",
       "stage_number": 9,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:27:51",
+          "rider": "Mathieu VAN DER POEL",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tobias Halland JOHANNESSEN",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Thomas PIDCOCK",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-07-12",
       "start_location": "Malemort",
@@ -1617,15 +3581,57 @@
       "distance": "166.6 km",
       "end_date": "2026-07-14",
       "finish_location": "Le Lioran",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "36:15:02",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:36",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+4:06",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Aurillac → Le Lioran",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-10",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-10",
       "stage_name": "Aurillac → Le Lioran",
       "stage_number": 10,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:58:08",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+32",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+34",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-14",
       "start_location": "Aurillac",
@@ -1643,15 +3649,57 @@
       "distance": "161.3 km",
       "end_date": "2026-07-15",
       "finish_location": "Nevers",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "39:25:08",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:36",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+4:06",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Vichy → Nevers",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-11",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-11",
       "stage_name": "Vichy → Nevers",
       "stage_number": 11,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:10:06",
+          "rider": "Søren WÆRENSKJOLD",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Olav KOOIJ",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-15",
       "start_location": "Vichy",
@@ -1669,15 +3717,57 @@
       "distance": "179.1 km",
       "end_date": "2026-07-16",
       "finish_location": "Chalon-sur-Saône",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "43:04:01",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:36",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+4:06",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Circuit Nevers Magny-Cours → Chalon-sur-Saône",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-12",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-12",
       "stage_name": "Circuit Nevers Magny-Cours → Chalon-sur-Saône",
       "stage_number": 12,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:38:53",
+          "rider": "Tim MERLIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Olav KOOIJ",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-16",
       "start_location": "Circuit Nevers Magny-Cours",
@@ -1695,15 +3785,57 @@
       "distance": "205.8 km",
       "end_date": "2026-07-17",
       "finish_location": "Belfort",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "47:18:31",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:36",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+4:06",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Dole → Belfort",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-13",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-13",
       "stage_name": "Dole → Belfort",
       "stage_number": 13,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:06:58",
+          "rider": "Mauro SCHMID",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Harold Alfonso TEJADA CANACUE",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+02",
+          "rider": "Thomas PIDCOCK",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-07-17",
       "start_location": "Dole",
@@ -1721,15 +3853,57 @@
       "distance": "155.3 km",
       "end_date": "2026-07-18",
       "finish_location": "Le Markstein Fellering",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "51:18:28",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+4:30",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+5:04",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Mulhouse → Le Markstein Fellering",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-14",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-14",
       "stage_name": "Mulhouse → Le Markstein Fellering",
       "stage_number": 14,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:00:07",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+38",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+38",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-18",
       "start_location": "Mulhouse",
@@ -1747,15 +3921,57 @@
       "distance": "183.9 km",
       "end_date": "2026-07-19",
       "finish_location": "Plateau de Solaison",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "55:41:31",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+5:00",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+5:58",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Champagnole → Plateau de Solaison",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-15",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-15",
       "stage_name": "Champagnole → Plateau de Solaison",
       "stage_number": 15,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:23:09",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+06",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-19",
       "start_location": "Champagnole",
@@ -1773,15 +3989,57 @@
       "distance": "26.1 km",
       "end_date": "2026-07-21",
       "finish_location": "Thonon-les-Bains",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "56:14:18",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+4:32",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+6:51",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Évian-les-Bains → Thonon-les-Bains",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-16",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-16",
       "stage_name": "Évian-les-Bains → Thonon-les-Bains",
       "stage_number": 16,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "32:19.33",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "+28",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "3",
+          "result": "+1:04",
+          "rider": "Mattias Skjelmose Jennow JENSEN",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "cronometro",
       "start": "2026-07-21",
       "start_location": "Évian-les-Bains",
@@ -1799,15 +4057,57 @@
       "distance": "174.7 km",
       "end_date": "2026-07-22",
       "finish_location": "Voiron",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "60:04:17",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+4:32",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+6:51",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Chambery → Voiron",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-17",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-17",
       "stage_name": "Chambery → Voiron",
       "stage_number": 17,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:41:13",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Mauro SCHMID",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Olav KOOIJ",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-22",
       "start_location": "Chambery",
@@ -1825,15 +4125,57 @@
       "distance": "185.2 km",
       "end_date": "2026-07-23",
       "finish_location": "Orcières-Merlette",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "64:35:13",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+4:32",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+6:51",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Voiron → Orcières-Merlette",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-18",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-18",
       "stage_name": "Voiron → Orcières-Merlette",
       "stage_number": 18,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:26:21",
+          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "2",
+          "result": "+45",
+          "rider": "Mauro SCHMID",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "3",
+          "result": "+45",
+          "rider": "Matteo JORGENSON",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-23",
       "start_location": "Voiron",
@@ -1851,15 +4193,57 @@
       "distance": "127.9 km",
       "end_date": "2026-07-24",
       "finish_location": "Alpe d'Huez",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "67:53:00",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+7:11",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+9:42",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Gap → Alpe d'Huez",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-19",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-19",
       "stage_name": "Gap → Alpe d'Huez",
       "stage_number": 19,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:17:57",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+06",
+          "rider": "Lenny Sydney MARTINEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+09",
+          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
+          "team": "EF EDUCATION - EASYPOST"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-24",
       "start_location": "Gap",
@@ -1877,15 +4261,57 @@
       "distance": "170.9 km",
       "end_date": "2026-07-25",
       "finish_location": "Alpe d'Huez",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "72:53:44",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+6:26",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+9:42",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Le Bourg d'Oisans → Alpe d'Huez",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-20",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-20",
       "stage_name": "Le Bourg d'Oisans → Alpe d'Huez",
       "stage_number": 20,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:59:39",
+          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "2",
+          "result": "+26",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+31",
+          "rider": "Sepp KUSS",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-07-25",
       "start_location": "Le Bourg d'Oisans",
@@ -1903,15 +4329,57 @@
       "distance": "88.7 km",
       "end_date": "2026-07-26",
       "finish_location": "Paris Champs-Élysées",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "73:56:26",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+6:26",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+9:42",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "location": "Thoiry → Paris Champs-Élysées",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.letour.fr/en/stage-21",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "source": "Sito ufficiale Tour de France",
       "source_url": "https://www.letour.fr/en/stage-21",
       "stage_name": "Thoiry → Paris Champs-Élysées",
       "stage_number": 21,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "1:58:49",
+          "rider": "Mathieu VAN DER POEL",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Mads PEDERSEN",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-07-26",
       "start_location": "Thoiry",
@@ -1930,10 +4398,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76936",
       "race_key": "clasica-san-sebastian",
       "race_name": "DSSK (Donostia San Sebastian Klasikoa)",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76936",
       "source": "UCI",
       "source_id": "76936",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76936",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:23:10",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
+          "team": "EF EDUCATION - EASYPOST"
+        },
+        {
+          "rank": "3",
+          "result": "+29''",
+          "rider": "Ben TULETT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "start": "2026-08-01",
       "title": "DSSK (Donostia San Sebastian Klasikoa)",
       "uci_class": "1.UWT",
@@ -1946,10 +4436,32 @@
       "circuit": "UCI WorldTour",
       "country": "POL",
       "end_date": "2026-08-09",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "24:33:49",
+          "rider": "Marco BRENNER",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+10''",
+          "rider": "Finn Lachlan Fox FISHER-BLACK",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+16''",
+          "rider": "Ivan ROMEO ABAD",
+          "team": "MOVISTAR TEAM"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76938",
       "race_key": "tour-de-pologne",
       "race_name": "Tour de Pologne",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76938",
       "source": "UCI",
       "source_id": "76938",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76938",
@@ -1986,10 +4498,32 @@
       "circuit": "UCI ProSeries",
       "country": "NOR",
       "end_date": "2026-08-16",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "15:34:12",
+          "rider": "Guillermo Thomas SILVA COUSSAN",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+14",
+          "rider": "Lennert VAN EETVELT",
+          "team": "LOTTO INTERMARCHÉ"
+        },
+        {
+          "rank": "3",
+          "result": "+25",
+          "rider": "Alessandro PINARELLO",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78339",
       "race_key": "arctic-race-of-norway",
       "race_name": "Arctic Race of Norway",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78339",
       "source": "UCI",
       "source_id": "78339",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78339",
@@ -2010,10 +4544,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76939",
       "race_key": "adac-cyclassics",
       "race_name": "ADAC Cyclassics",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76939",
       "source": "UCI",
       "source_id": "76939",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76939",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:17:55",
+          "rider": "Paul MAGNIER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Mike TEUNISSEN",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Laurence PITHIE",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "start": "2026-08-16",
       "title": "ADAC Cyclassics",
       "uci_class": "1.UWT",
@@ -2049,15 +4605,57 @@
       "distance": "9.4 km",
       "end_date": "2026-08-22",
       "finish_location": "Monaco",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "10:57",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Ethan Edward HAYTER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "3",
+          "result": "+4",
+          "rider": "Joshua Michael TARLING",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "location": "Monaco → Monaco",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-1",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-1",
       "stage_name": "Monaco → Monaco",
       "stage_number": 1,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "10:57.14",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+0.00",
+          "rider": "Ethan Edward HAYTER",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "3",
+          "result": "+4.00",
+          "rider": "Joshua Michael TARLING",
+          "team": "NETCOMPANY INEOS"
+        }
+      ],
       "stage_type": "cronometro",
       "start": "2026-08-22",
       "start_location": "Monaco",
@@ -2075,15 +4673,57 @@
       "distance": "214.3 km",
       "end_date": "2026-08-23",
       "finish_location": "Manosque",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "4:58:40",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+9",
+          "rider": "Wout VAN AERT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+10",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "location": "Monaco → Manosque",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-2",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-2",
       "stage_name": "Monaco → Manosque",
       "stage_number": 2,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:47:47",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Pau MIQUEL DELGADO",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-08-23",
       "start_location": "Monaco",
@@ -2101,11 +4741,33 @@
       "distance": "174 km",
       "end_date": "2026-08-24",
       "finish_location": "Font Romeu",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "4:58:40",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+9",
+          "rider": "Wout VAN AERT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "3",
+          "result": "+10",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "location": "Gruissan - Aude → Font Romeu",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-3",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-3",
       "stage_name": "Gruissan - Aude → Font Romeu",
@@ -2127,15 +4789,57 @@
       "distance": "104.8 km",
       "end_date": "2026-08-25",
       "finish_location": "Andorra la Vella",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "7:38:59",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:21",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+3:32",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        }
+      ],
       "location": "Andorra la Vella → Andorra la Vella",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-4",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-4",
       "stage_name": "Andorra la Vella → Andorra la Vella",
       "stage_number": 4,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "2:40:35",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+2:39",
+          "rider": "Jarno WIDAR",
+          "team": "LOTTO INTERMARCHÉ"
+        },
+        {
+          "rank": "3",
+          "result": "+2:39",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-08-25",
       "start_location": "Andorra la Vella",
@@ -2153,15 +4857,57 @@
       "distance": "173.3 km",
       "end_date": "2026-08-26",
       "finish_location": "Roquetes. Terres de l'Ebre",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "11:26:01",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:21",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+3:32",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        }
+      ],
       "location": "Falset . Costa Daurada → Roquetes. Terres de l'Ebre",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-5",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-5",
       "stage_name": "Falset . Costa Daurada → Roquetes. Terres de l'Ebre",
       "stage_number": 5,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:47:02",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jordi MEEUS",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Vincenzo ALBANESE",
+          "team": "EF EDUCATION - EASYPOST"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-08-26",
       "start_location": "Falset . Costa Daurada",
@@ -2179,15 +4925,57 @@
       "distance": "177.5 km",
       "end_date": "2026-08-27",
       "finish_location": "Castelló",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "15:38:27",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:34",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4:21",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Alcossebre → Castelló",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-6",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-6",
       "stage_name": "Alcossebre → Castelló",
       "stage_number": 6,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:12:40",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+46",
+          "rider": "Ramses DEBRUYNE",
+          "team": "ALPECIN-PREMIER TECH"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-08-27",
       "start_location": "Alcossebre",
@@ -2205,15 +4993,57 @@
       "distance": "149.8 km",
       "end_date": "2026-08-28",
       "finish_location": "Aramón Valdelinares",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "19:32:37",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+3:50",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+4:50",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "vall d'Alba → Aramón Valdelinares",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-7",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-7",
       "stage_name": "vall d'Alba → Aramón Valdelinares",
       "stage_number": 7,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:49:47",
+          "rider": "Andreas LEKNESSUND",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "2",
+          "result": "+34",
+          "rider": "Tobias Halland JOHANNESSEN",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+47",
+          "rider": "Wout VAN AERT",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-08-28",
       "start_location": "vall d'Alba",
@@ -2231,15 +5061,57 @@
       "distance": "171 km",
       "end_date": "2026-08-29",
       "finish_location": "Xeraco",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "23:23:33",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1:00",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+1:11",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Puçol → Xeraco",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-8",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-8",
       "stage_name": "Puçol → Xeraco",
       "stage_number": 8,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:47:06",
+          "rider": "Bryan COQUARD",
+          "team": "COFIDIS"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Mads PEDERSEN",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Jordi MEEUS",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-08-29",
       "start_location": "Puçol",
@@ -2258,10 +5130,32 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76944",
       "race_key": "bretagne-classic-cic",
       "race_name": "Bretagne Classic - CIC",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76944",
       "source": "UCI",
       "source_id": "76944",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76944",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "05:21:13",
+          "rider": "Alex ARANBURU DEVA",
+          "team": "COFIDIS"
+        },
+        {
+          "rank": "2",
+          "result": "+04",
+          "rider": "Alexander KAMP",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+10",
+          "rider": "Alessandro BORGO",
+          "team": "BAHRAIN VICTORIOUS"
+        }
+      ],
       "start": "2026-08-30",
       "title": "Bretagne Classic - CIC",
       "uci_class": "1.UWT",
@@ -2277,15 +5171,57 @@
       "distance": "187.4 km",
       "end_date": "2026-08-30",
       "finish_location": "Alto de Aitana.Costa Blanca",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "28:34:03",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1:18",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+1:39",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "La Vila Joiosa/ Villajoyosa → Alto de Aitana.Costa Blanca",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-9",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-9",
       "stage_name": "La Vila Joiosa/ Villajoyosa → Alto de Aitana.Costa Blanca",
       "stage_number": 9,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:10:40",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Oscar ONLEY",
+          "team": "NETCOMPANY INEOS"
+        },
+        {
+          "rank": "3",
+          "result": "+12",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-08-30",
       "start_location": "La Vila Joiosa/ Villajoyosa",
@@ -3626,7 +6562,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-08-24T14:28:09Z",
+  "generated_at": "2026-08-31T15:14:27Z",
   "source_errors": [],
   "successful_sources": [
     "UCI 1.UWT 2026",
