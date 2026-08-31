@@ -12,10 +12,12 @@ from cycling_calendar.generator import (
     GRAND_TOURS,
     UpdateError,
     _result_descriptor,
+    _mtb_result_descriptor,
     build_ical,
     deduplicate,
     fetch_remote_events,
     filter_calendar_window,
+    extract_mtb_specialties,
     parse_aso_route_html,
     parse_giro_route_html,
     parse_uci_calendar,
@@ -112,6 +114,33 @@ def test_final_gc_is_found_before_last_stage_group() -> None:
         {"label": "Stage 5", "results": [{"title": "Stage Classification", "eventCode": "STAGE-5"}]},
     ]
     assert _result_descriptor(groups, None, general=True) == final_gc
+
+
+def test_mtb_world_cup_is_split_by_specialty_and_venue() -> None:
+    payload = {"items": [{"items": [{"items": [{
+        "name": "UCI MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI",
+        "venue": "Lake Placid Olympic Sites, New York",
+        "country": "USA",
+        "dates": "02 Oct - 04 Oct 2026",
+        "detailsLink": {"url": "/competition-details/2026/MTB/77089"},
+    }]}]}]}
+    events = parse_uci_calendar(payload, "CDM", "MTB")
+    assert extract_mtb_specialties(payload["items"][0]["items"][0]["items"][0]["name"]) == ["XCO", "XCC", "DHI"]
+    assert {event["specialty"] for event in events} == {"XCO", "XCC", "DHI"}
+    assert len({event["race_key"] for event in events}) == 3
+    assert all(event["discipline"] == "MTB" for event in events)
+    assert all(event["location"] == "Lake Placid Olympic Sites, New York" for event in events)
+    assert all(event["all_day"] for event in events)
+
+
+def test_mtb_result_descriptor_selects_men_elite_specialty() -> None:
+    xcc = {"title": "General Classification", "eventCode": "MEN-XCC"}
+    groups = [
+        {"label": "Women Elite - Cross-country short circuit", "results": [{"title": "General Classification", "eventCode": "WOMEN-XCC"}]},
+        {"label": "Men Elite - Cross-country short circuit", "results": [xcc]},
+        {"label": "Men Elite - Cross-country Olympic", "results": [{"title": "General Classification", "eventCode": "MEN-XCO"}]},
+    ]
+    assert _mtb_result_descriptor(groups, "XCC") == xcc
 
 
 def test_fetch_includes_current_and_next_uci_season(monkeypatch: pytest.MonkeyPatch) -> None:
