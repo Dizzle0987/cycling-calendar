@@ -2,7 +2,7 @@
 
 Calendario iCalendar pubblico e sottoscrivibile dedicato alle principali corse maschili professionistiche su strada: UCI WorldTour, Grandi Giri, Monumento, classiche, semiclassiche, principali corse a tappe e campionati.
 
-Ogni aggiornamento interroga automaticamente la stagione corrente e quella successiva. Il passaggio di anno non richiede modifiche al codice: le nuove edizioni vengono aggiunte appena compaiono nel calendario UCI o nei siti ufficiali, mantenendo separate le edizioni tramite UID stabili. I nomi di Mondiali ed Europei restano generici e non incorporano l'anno dell'edizione.
+Ogni aggiornamento interroga automaticamente la stagione corrente e quella successiva. Il 1° gennaio la stagione appena conclusa viene rimossa dal feed, compresi eventuali eventi manuali, e si apre automaticamente la finestra sul nuovo anno successivo. Il passaggio di anno non richiede modifiche al codice: le nuove edizioni vengono aggiunte appena compaiono nel calendario UCI o nei siti ufficiali, mantenendo separate le edizioni tramite UID stabili. I nomi di Mondiali ed Europei restano generici e non incorporano l'anno dell'edizione.
 
 - Pagina: <https://dizzle0987.github.io/cycling-calendar/>
 - Feed HTTPS: <https://dizzle0987.github.io/cycling-calendar/calendar.ics>
