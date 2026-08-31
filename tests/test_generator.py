@@ -11,6 +11,7 @@ from cycling_calendar.generator import (
     FetchResult,
     GRAND_TOURS,
     UpdateError,
+    _result_descriptor,
     build_ical,
     deduplicate,
     fetch_remote_events,
@@ -92,6 +93,25 @@ def test_parse_official_uci_result_metadata_and_podium() -> None:
         {"headerType": "rider", "values": {"rank": "3", "firstname": "Three", "result": "+0"}},
     ]})
     assert zero_gap[1]["result"] == zero_gap[2]["result"] == "stesso tempo"
+    time_gaps = parse_uci_podium({"results": [
+        {"headerType": "rider", "values": {"rank": "1", "firstname": "One", "result": "19:00:00"}},
+        {"headerType": "rider", "values": {"rank": "2", "firstname": "Two", "result": "+0:40"}},
+        {"headerType": "rider", "values": {"rank": "3", "firstname": "Three", "result": "+4:23"}},
+    ]})
+    assert time_gaps[1]["result"] == "+40''"
+    assert time_gaps[2]["result"] == "+4' 23''"
+
+
+def test_final_gc_is_found_before_last_stage_group() -> None:
+    final_gc = {
+        "title": "General Classification", "eventCode": "FINAL-GC", "raceType": "A",
+    }
+    groups = [
+        {"label": "Stage 4", "results": [{"title": "Stage General Classification", "eventCode": "STAGE-4"}]},
+        {"label": "Final Classification", "results": [final_gc]},
+        {"label": "Stage 5", "results": [{"title": "Stage Classification", "eventCode": "STAGE-5"}]},
+    ]
+    assert _result_descriptor(groups, None, general=True) == final_gc
 
 
 def test_fetch_includes_current_and_next_uci_season(monkeypatch: pytest.MonkeyPatch) -> None:
