@@ -1,6 +1,6 @@
 # Cycling Calendar
 
-Calendario iCalendar pubblico e sottoscrivibile dedicato alle principali corse maschili professionistiche su strada: UCI WorldTour, Grandi Giri, Monumento, classiche, semiclassiche, principali corse a tappe e campionati.
+Calendario iCalendar pubblico e sottoscrivibile dedicato alle principali corse maschili professionistiche su strada e mountain bike: UCI WorldTour, Grandi Giri, classiche e campionati, oltre a Coppa del Mondo/World Series MTB, Mondiali, Europei e Campionati italiani MTB.
 
 Ogni aggiornamento interroga automaticamente la stagione corrente e quella successiva. Il 1° gennaio la stagione appena conclusa viene rimossa dal feed, compresi eventuali eventi manuali, e si apre automaticamente la finestra sul nuovo anno successivo. Il passaggio di anno non richiede modifiche al codice: le nuove edizioni vengono aggiunte appena compaiono nel calendario UCI o nei siti ufficiali, mantenendo separate le edizioni tramite UID stabili. I nomi di Mondiali ed Europei restano generici e non incorporano l'anno dell'edizione.
 
@@ -34,19 +34,20 @@ Una sottoscrizione, diversamente da un'importazione statica, riceve gli aggiorna
 
 La pipeline privilegia fonti pubbliche e strutturate:
 
-1. **UCI — fonte primaria di scoperta**: endpoint JSON pubblico del calendario Road, filtrato per categoria Men Elite e classi `1.UWT`, `2.UWT`, `1.Pro`, `2.Pro`, `CM`, `CC` e `CN`. Fornisce nome ufficiale, intervallo di date, nazione, classe e identificativo della competizione.
+1. **UCI — fonte primaria di scoperta**: endpoint JSON pubblico dei calendari Road e Mountain Bike, filtrato per categoria Men Elite. Per la strada usa le classi `1.UWT`, `2.UWT`, `1.Pro`, `2.Pro`, `CM`, `CC` e `CN`; per la MTB usa `CDM`, `CM`, `CC` e `CN`. Fornisce nome ufficiale, intervallo di date, località, nazione, classe e identificativo della competizione.
 2. **Siti ufficiali Giro d'Italia, Tour de France e La Vuelta — dettaglio tappe**: le tabelle di percorso pubblicate dagli organizzatori forniscono numero, data, partenza, arrivo, distanza e tipologia. Ogni tappa diventa un evento distinto.
-3. **UCI — risultati ufficiali**: la pagina della competizione espone identificativi strutturati per classifica di tappa e generale; l'endpoint JSON UCI associato fornisce i primi tre classificati. Le corse di un giorno ricevono il podio, mentre le tappe ricevono podio di giornata e top 3 della generale.
+3. **UCI — risultati ufficiali**: la pagina della competizione espone identificativi strutturati per classifica di tappa, generale e specialità MTB; l'endpoint JSON UCI associato fornisce i primi tre classificati. Le corse di un giorno e le gare MTB ricevono il podio maschile Elite, mentre le tappe ricevono podio di giornata e top 3 della generale.
 4. **Fallback**: se il dettaglio di un Grande Giro non è leggibile ma UCI risponde, rimane l'evento complessivo UCI della corsa; se una singola fonte fallisce, le altre continuano a essere usate. I risultati già confermati vengono conservati se il relativo endpoint è temporaneamente indisponibile.
 5. **Correzioni manuali**: `data/manual_events.json` integra o sovrascrive i dati remoti usando la stessa identità stabile.
 6. **Ultimo output valido**: se tutte le fonti remote falliscono, lo script termina prima di scrivere. `calendar.ics` e `data/events.json` restano intatti.
 
 Le pagine ufficiali dei Grandi Giri non espongono sempre gli orari nella tabella generale. In quel caso la tappa viene pubblicata correttamente come evento di giornata intera con una nota “orario da confermare”; non vengono dedotti orari da velocità media, palinsesti o edizioni precedenti. Le pagine dei singoli organizzatori sono volutamente un arricchimento: l'indice UCI resta il fallback stabile se il loro markup cambia.
 
-Per la copertura italiana vengono usati comunicati o palinsesti espliciti. Nel feed iniziale:
+Per la copertura italiana vengono usati comunicati o palinsesti espliciti. Nel feed:
 
 - Giro, Tour e Vuelta riportano Eurosport e le piattaforme Warner Bros. Discovery confermate per il 2026;
 - i Mondiali riportano l'accordo UCI–EBU per la RAI e la copertura Warner Bros. Discovery;
+- la World Series MTB indica Eurosport e le piattaforme Warner Bros. Discovery, lasciando da verificare il palinsesto della singola gara;
 - le altre gare indicano la piattaforma solo se la disponibilità è sufficientemente verificata; altrimenti compare **Da confermare**.
 
 Non vengono inventati canali, orari, percorsi o distanze.
@@ -63,6 +64,8 @@ Eurosport viene utilizzato come fonte editoriale secondaria per verificare podi 
 
 Sono inclusi automaticamente tutti gli eventi `1.UWT` e `2.UWT`, quindi i tre Grandi Giri e le cinque Monumento, più una selezione esplicita di corse `1.Pro` e `2.Pro` di grande rilevanza. Sono inclusi inoltre Mondiali UCI, Europei UEC e Campionati italiani maschili presenti nel calendario UCI. La selezione ProSeries è conservata nel codice e può essere estesa tramite pull request.
 
+Per la mountain bike sono incluse automaticamente le gare maschili Elite delle Coppe del Mondo UCI, dei Mondiali, degli Europei UEC e dei Campionati italiani nelle specialità pubblicate dalla fonte: XCO (cross-country olimpico), XCC (short track), XCM (marathon), XCE (eliminator), DHI (downhill), EDR (enduro), E-XC ed E-EDR. Una manifestazione con più specialità genera eventi distinti e UID distinti per località e formato. Se l'UCI pubblica soltanto l'intervallo del weekend, il feed non presume il giorno o l'ora della singola gara.
+
 ## UID e deduplicazione
 
 L'UID è un hash dell'edizione, dell'identità canonica della corsa e del numero di tappa. Data, ora, località, distanza, fonte e copertura TV non ne fanno parte. Un cambio di orario o percorso aggiorna quindi l'evento già sottoscritto.
@@ -71,7 +74,7 @@ Gli alias normalizzano i nomi alternativi pubblicati dall'UCI. Gli eventi con la
 
 ## Eventi senza orario
 
-Gli orari ISO 8601 con offset vengono convertiti in `Europe/Rome`. Un evento con sola data usa `VALUE=DATE` e non riceve un finto orario. Tutti gli eventi includono un `VALARM` 120 minuti prima; per un evento di giornata intera il client applica il promemoria rispetto all'inizio della giornata.
+Gli orari ISO 8601 con offset, inclusi quelli di eventi MTB disputati fuori dall'Italia, vengono convertiti in `Europe/Rome`. Un evento con sola data usa `VALUE=DATE` e non riceve un finto orario. Tutti gli eventi includono un `VALARM` 120 minuti prima; per un evento di giornata intera il client applica il promemoria rispetto all'inizio della giornata.
 
 ## Correzioni manuali
 

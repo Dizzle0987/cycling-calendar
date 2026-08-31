@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#102218">
   <title>Cycling Calendar</title>
-  <meta name="description" content="Calendario sottoscrivibile delle principali corse maschili di ciclismo su strada.">
+  <meta name="description" content="Calendario sottoscrivibile delle principali corse maschili di ciclismo su strada e mountain bike.">
   <style>
     :root{color-scheme:dark;--bg:#08110c;--card:#102218;--ink:#f4f7f5;--muted:#aebbb3;--lime:#a6f05f;--line:#294333}
     *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 90% 0,#1c3b29 0,transparent 38%),var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,sans-serif}
@@ -43,4 +43,3 @@
     document.querySelector('#competitions').innerHTML='<ul>'+data.competitions.map(name=>`<li>${name.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}</li>`).join('')+'</ul>';
   }).catch(()=>{document.querySelector('#updated').textContent='dato temporaneamente non disponibile';document.querySelector('#competitions').textContent='Consulta il feed iCalendar.'});
 </script></body></html>
-
