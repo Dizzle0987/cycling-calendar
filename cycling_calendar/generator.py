@@ -26,6 +26,8 @@ ROME = ZoneInfo("Europe/Rome")
 UCI_API = "https://www.uci.org/api/calendar/{period}"
 UCI_BASE = "https://www.uci.org"
 CALENDAR_URL = "https://dizzle0987.github.io/cycling-calendar/calendar.ics"
+RESULT_LOOKBACK_DAYS = 3
+RESULT_FIELDS = ("stage_podium", "general_classification", "results_source", "results_url")
 
 UCI_CLASSES = ("1.UWT", "2.UWT", "1.Pro", "2.Pro", "CM", "CC", "CN")
 ALWAYS_INCLUDE_CLASSES = {"1.UWT", "2.UWT"}
@@ -90,6 +92,118 @@ class FetchResult:
     events: list[dict[str, Any]]
     successful_sources: list[str]
     errors: list[str]
+
+
+def parse_uci_result_index(html: str) -> list[dict[str, Any]]:
+    """Read the structured result descriptors embedded by the official UCI page."""
+    soup = BeautifulSoup(html, "html.parser")
+    node = soup.select_one('[data-component="CompetitionDetailsModule"][data-props]')
+    if node is None:
+        return []
+    payload = json.loads(str(node.get("data-props") or "{}"))
+    accordion = (payload.get("results") or {}).get("accordion") or []
+    return [group for group in accordion if isinstance(group, dict)]
+
+
+def parse_uci_podium(payload: dict[str, Any]) -> list[dict[str, str]]:
+    raw_podium: list[dict[str, str]] = []
+    for item in payload.get("results") or []:
+        values = item.get("values") or {}
+        try:
+            rank = int(str(values.get("rank") or ""))
+        except ValueError:
+            continue
+        if rank > 3 or item.get("headerType") != "rider":
+            continue
+        rider = " ".join(
+            part.strip() for part in (str(values.get("firstname") or ""), str(values.get("lastname") or ""))
+            if part.strip()
+        )
+        if not rider:
+            continue
+        raw_podium.append({
+            "rank": str(rank),
+            "rider": rider,
+            "team": str(values.get("team") or "").strip(),
+            "result": str(values.get("result") or "").strip(),
+        })
+    podium = sorted(raw_podium, key=lambda row: int(row["rank"]))[:3]
+
+    def seconds(value: str) -> int | None:
+        parts = value.split(":")
+        if len(parts) not in {2, 3} or not all(part.isdigit() for part in parts):
+            return None
+        values = [int(part) for part in parts]
+        if len(values) == 2:
+            values.insert(0, 0)
+        return values[0] * 3600 + values[1] * 60 + values[2]
+
+    leader_seconds = seconds(podium[0]["result"]) if podium else None
+    for row in podium[1:]:
+        if re.fullmatch(r"\+?\s*0+(?::0+){0,2}", row["result"]):
+            row["result"] = "stesso tempo"
+            continue
+        raw_seconds = seconds(row["result"])
+        if raw_seconds is None:
+            continue
+        if leader_seconds is not None and raw_seconds >= leader_seconds:
+            raw_seconds -= leader_seconds
+        if raw_seconds == 0:
+            row["result"] = "stesso tempo"
+        else:
+            hours, remainder = divmod(raw_seconds, 3600)
+            minutes, value_seconds = divmod(remainder, 60)
+            row["result"] = f"+{hours}h {minutes:02d}' {value_seconds:02d}''" if hours else (
+                f"+{minutes}' {value_seconds:02d}''" if minutes else f"+{value_seconds}''"
+            )
+    return podium
+
+
+def _result_descriptor(
+    groups: list[dict[str, Any]], stage_number: int | None, general: bool,
+) -> dict[str, Any] | None:
+    candidates: list[dict[str, Any]] = []
+    if stage_number is not None:
+        wanted = re.compile(rf"(?:stage|tappa)\s*{stage_number}\b", re.IGNORECASE)
+        candidates = [group for group in groups if wanted.search(str(group.get("label") or ""))]
+        if general:
+            candidates.extend(
+                group for group in groups
+                if "final classification" in str(group.get("label") or "").casefold()
+                and group not in candidates
+            )
+    else:
+        candidates = groups[-1:] if groups else []
+    titles = (
+        ("Stage General Classification", "General Classification", "Final General Classification")
+        if general else ("Stage Classification", "General Classification", "Final Classification")
+    )
+    for title in titles:
+        for group in candidates:
+            for descriptor in group.get("results") or []:
+                if str(descriptor.get("title") or "").casefold() == title.casefold():
+                    return descriptor
+    return None
+
+
+def _fetch_uci_podium(
+    session: requests.Session, descriptor: dict[str, Any], source_url: str,
+) -> list[dict[str, str]]:
+    event_code = str(descriptor.get("eventCode") or "")
+    if not event_code:
+        return []
+    response = session.get(
+        f"{UCI_BASE}/api/calendar/results/{event_code}",
+        params={
+            "discipline": "ROA",
+            "raceType": descriptor.get("raceType") or "A",
+            "raceName": descriptor.get("title") or "",
+        },
+        headers={"Referer": source_url},
+        timeout=25,
+    )
+    response.raise_for_status()
+    return parse_uci_podium(response.json())
 
 
 def build_session() -> requests.Session:
@@ -377,6 +491,87 @@ def fetch_remote_events(session: requests.Session, year: int) -> FetchResult:
     return FetchResult(events, successes, errors)
 
 
+def enrich_with_uci_results(
+    session: requests.Session,
+    events: list[dict[str, Any]],
+    uci_events: list[dict[str, Any]],
+    today: date,
+    *,
+    backfill: bool = False,
+) -> list[str]:
+    """Add official top-three results without making result failures destructive."""
+    errors: list[str] = []
+    uci_by_race = {
+        (event_edition(event), str(event.get("race_key") or "")): event
+        for event in uci_events if event.get("source") == "UCI"
+    }
+    detailed_races = {
+        (event_edition(event), str(event.get("race_key") or ""))
+        for event in events if event.get("stage_number") is not None
+    }
+    cutoff = today - timedelta(days=RESULT_LOOKBACK_DAYS)
+    eligible: dict[tuple[str, str], list[dict[str, Any]]] = {}
+    for event in events:
+        try:
+            event_date = date.fromisoformat(str(event.get("start") or "")[:10])
+        except ValueError:
+            continue
+        race_id = (event_edition(event), str(event.get("race_key") or ""))
+        if race_id not in uci_by_race or event_date > today:
+            continue
+        if not backfill and event_date < cutoff:
+            continue
+        eligible.setdefault(race_id, []).append(event)
+
+    for race_id, race_events in eligible.items():
+        uci_event = uci_by_race[race_id]
+        source_url = str(uci_event.get("source_url") or "")
+        if not source_url:
+            continue
+        try:
+            response = session.get(source_url, timeout=25)
+            response.raise_for_status()
+            groups = parse_uci_result_index(response.text)
+            if not groups:
+                continue
+        except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
+            errors.append(f"Risultati UCI {uci_event.get('race_name')}: {exc}")
+            continue
+
+        for event in race_events:
+            stage = event.get("stage_number")
+            stage_number = int(stage) if stage not in (None, "") else None
+            has_detailed_stages = race_id in detailed_races
+            if stage_number is None and has_detailed_stages:
+                continue
+            try:
+                if stage_number is not None:
+                    stage_descriptor = _result_descriptor(groups, stage_number, general=False)
+                    general_descriptor = _result_descriptor(groups, stage_number, general=True)
+                    if stage_descriptor:
+                        podium = _fetch_uci_podium(session, stage_descriptor, source_url)
+                        if len(podium) == 3:
+                            event["stage_podium"] = podium
+                    if general_descriptor:
+                        general = _fetch_uci_podium(session, general_descriptor, source_url)
+                        if len(general) == 3:
+                            event["general_classification"] = general
+                else:
+                    descriptor = _result_descriptor(groups, None, general=True)
+                    if descriptor:
+                        podium = _fetch_uci_podium(session, descriptor, source_url)
+                        if len(podium) == 3:
+                            field = "stage_podium" if str(event.get("uci_class") or "").startswith("1.") else "general_classification"
+                            event[field] = podium
+                if event.get("stage_podium") or event.get("general_classification"):
+                    event["results_source"] = "UCI — risultati ufficiali"
+                    event["results_url"] = source_url
+            except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
+                label = f" tappa {stage_number}" if stage_number is not None else ""
+                errors.append(f"Risultati UCI {uci_event.get('race_name')}{label}: {exc}")
+    return errors
+
+
 def event_identity(event: dict[str, Any]) -> str:
     race_key = event.get("race_key") or canonical_race_key(str(event.get("race_name") or event.get("title") or ""))
     stage = event.get("stage_number")
@@ -454,6 +649,20 @@ def load_manual_events(path: Path) -> list[dict[str, Any]]:
     return validated
 
 
+def preserve_previous_results(path: Path, events: list[dict[str, Any]]) -> None:
+    """Carry confirmed results forward when a result source is temporarily unavailable."""
+    try:
+        previous = json.loads(path.read_text(encoding="utf-8")).get("events") or []
+    except (OSError, ValueError, TypeError):
+        return
+    previous_by_identity = {dedupe_identity(event): event for event in previous}
+    for event in events:
+        old = previous_by_identity.get(dedupe_identity(event)) or {}
+        for field in RESULT_FIELDS:
+            if field in old and field not in event:
+                event[field] = deepcopy(old[field])
+
+
 def _normalized_event(event: dict[str, Any]) -> dict[str, Any]:
     result = deepcopy(event)
     result["uid"] = stable_uid(result)
@@ -462,6 +671,18 @@ def _normalized_event(event: dict[str, Any]) -> dict[str, Any]:
     result.setdefault("notes", "")
     result.setdefault("broadcast_it", "Da confermare")
     return result
+
+
+def _format_classification(rows: Any) -> str | None:
+    if not isinstance(rows, list) or not rows:
+        return None
+    formatted = []
+    for row in rows[:3]:
+        if not isinstance(row, dict) or not row.get("rank") or not row.get("rider"):
+            continue
+        suffix = f" — {row.get('result')}" if row.get("result") else ""
+        formatted.append(f"{row['rank']}. {row['rider']}{suffix}")
+    return "; ".join(formatted) or None
 
 
 def _description(event: dict[str, Any]) -> str:
@@ -477,6 +698,9 @@ def _description(event: dict[str, Any]) -> str:
         ("Classe UCI", event.get("uci_class")),
         ("Circuito", event.get("circuit")),
         ("Dove vederla in Italia", event.get("broadcast_it")),
+        ("Podio di tappa", _format_classification(event.get("stage_podium"))),
+        ("Top 3 classifica generale", _format_classification(event.get("general_classification"))),
+        ("Fonte risultati", event.get("results_url")),
         ("Note", event.get("notes")),
         ("Fonte ufficiale", event.get("official_url") or event.get("source_url")),
         ("Fonte TV", event.get("broadcast_source_url")),
@@ -566,16 +790,26 @@ def update_calendar(
     root: Path, session: requests.Session | None = None, today: date | None = None,
 ) -> list[dict[str, Any]]:
     today = today or datetime.now(ROME).date()
-    result = fetch_remote_events(session or build_session(), today.year)
+    active_session = session or build_session()
+    result = fetch_remote_events(active_session, today.year)
     for error in result.errors:
         LOGGER.warning("%s", error)
     if not result.successful_sources:
         raise UpdateError("Tutte le fonti remote hanno fallito: output esistenti conservati")
     manual = load_manual_events(root / "data" / "manual_events.json")
-    events = [_normalized_event(event) for event in deduplicate([*result.events, *manual])]
+    remote_events = deduplicate(result.events)
+    events_path = root / "data" / "events.json"
+    preserve_previous_results(events_path, remote_events)
+    result.errors.extend(enrich_with_uci_results(
+        active_session,
+        remote_events,
+        result.events,
+        today,
+        backfill=os.getenv("CYCLING_RESULTS_BACKFILL") == "1",
+    ))
+    events = [_normalized_event(event) for event in deduplicate([*remote_events, *manual])]
     if not events:
         raise UpdateError("Le fonti non hanno prodotto eventi validi: output esistenti conservati")
-    events_path = root / "data" / "events.json"
     generated_at = _previous_generated_at(events_path, events) or datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     competitions = sorted({str(event.get("race_name") or "") for event in events if event.get("race_name")})
     payload = {
