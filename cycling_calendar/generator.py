@@ -663,6 +663,12 @@ def preserve_previous_results(path: Path, events: list[dict[str, Any]]) -> None:
                 event[field] = deepcopy(old[field])
 
 
+def filter_calendar_window(events: Iterable[dict[str, Any]], today: date) -> list[dict[str, Any]]:
+    """Keep the current cycling year and the next one; drop older editions on 1 January."""
+    allowed_years = {str(today.year), str(today.year + 1)}
+    return [event for event in events if event_edition(event) in allowed_years]
+
+
 def _normalized_event(event: dict[str, Any]) -> dict[str, Any]:
     result = deepcopy(event)
     result["uid"] = stable_uid(result)
@@ -807,7 +813,8 @@ def update_calendar(
         today,
         backfill=os.getenv("CYCLING_RESULTS_BACKFILL") == "1",
     ))
-    events = [_normalized_event(event) for event in deduplicate([*remote_events, *manual])]
+    combined = filter_calendar_window(deduplicate([*remote_events, *manual]), today)
+    events = [_normalized_event(event) for event in combined]
     if not events:
         raise UpdateError("Le fonti non hanno prodotto eventi validi: output esistenti conservati")
     generated_at = _previous_generated_at(events_path, events) or datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
