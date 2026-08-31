@@ -83,13 +83,13 @@
         },
         {
           "rank": "2",
-          "result": "+1:03",
+          "result": "+1' 03''",
           "rider": "Mauro SCHMID",
           "team": "TEAM JAYCO ALULA"
         },
         {
           "rank": "3",
-          "result": "+1:12",
+          "result": "+1' 12''",
           "rider": "Harrison SWEENY",
           "team": "EF EDUCATION - EASYPOST"
         }
@@ -200,10 +200,32 @@
       "circuit": "UCI ProSeries",
       "country": "OMA",
       "end_date": "2026-02-11",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "19:33:16",
+          "rider": "Christian SCARONI",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+24",
+          "rider": "Cristian RODRIGUEZ MARTIN",
+          "team": "XDS ASTANA TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+44",
+          "rider": "Adam Richard YATES",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/77987",
       "race_key": "tour-of-oman",
       "race_name": "Tour of Oman",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/77987",
       "source": "UCI",
       "source_id": "77987",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/77987",
@@ -220,10 +242,32 @@
       "circuit": "UCI WorldTour",
       "country": "UAE",
       "end_date": "2026-02-22",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "21:10:30",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+20''",
+          "rider": "Antonio TIBERI",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 14''",
+          "rider": "Lucas PLAPP",
+          "team": "TEAM JAYCO ALULA"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76894",
       "race_key": "uae-tour",
       "race_name": "UAE Tour",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76894",
       "source": "UCI",
       "source_id": "76894",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76894",
@@ -492,10 +536,32 @@
       "circuit": "UCI WorldTour",
       "country": "FRA",
       "end_date": "2026-03-15",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "25:25:11",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+4' 23''",
+          "rider": "Daniel Felipe MARTINEZ POVEDA",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+6' 07''",
+          "rider": "Georg STEINHAUSER",
+          "team": "EF EDUCATION - EASYPOST"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76899",
       "race_key": "paris-nice",
       "race_name": "Paris-Nice",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76899",
       "source": "UCI",
       "source_id": "76899",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76899",
@@ -638,10 +704,32 @@
       "circuit": "UCI WorldTour",
       "country": "ESP",
       "end_date": "2026-03-29",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "25:56:36",
+          "rider": "Jonas VINGEGAARD HANSEN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 22''",
+          "rider": "Lenny Sydney MARTINEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 30''",
+          "rider": "Florian LIPOWITZ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76904",
       "race_key": "volta-ciclista-a-catalunya",
       "race_name": "Volta Ciclista a Catalunya",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76904",
       "source": "UCI",
       "source_id": "76904",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76904",
@@ -851,7 +939,7 @@
         },
         {
           "rank": "3",
-          "result": "+1:11",
+          "result": "+1' 11''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -1019,7 +1107,7 @@
         },
         {
           "rank": "3",
-          "result": "+1:59",
+          "result": "+1' 59''",
           "rider": "Benoit COSNEFROY",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -1036,10 +1124,32 @@
       "circuit": "UCI ProSeries",
       "country": "ITA",
       "end_date": "2026-04-24",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "19:01:52",
+          "rider": "Giulio PELLIZZARI",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "+40''",
+          "rider": "Egan Arley BERNAL GOMEZ",
+          "team": "INEOS GRENADIERS"
+        },
+        {
+          "rank": "3",
+          "result": "+50''",
+          "rider": "Thymen ARENSMAN",
+          "team": "INEOS GRENADIERS"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78120",
       "race_key": "tour-of-the-alps",
       "race_name": "Tour of the Alps",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78120",
       "source": "UCI",
       "source_id": "78120",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78120",
@@ -1123,7 +1233,7 @@
         },
         {
           "rank": "3",
-          "result": "+1:42",
+          "result": "+1' 42''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -1182,10 +1292,32 @@
       "circuit": "UCI WorldTour",
       "country": "SUI",
       "end_date": "2026-05-03",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "20:05:42",
+          "rider": "Tadej POGAČAR",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+42",
+          "rider": "Florian LIPOWITZ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 44''",
+          "rider": "Lenny Sydney MARTINEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76923",
       "race_key": "tour-de-romandie",
       "race_name": "Tour de Romandie",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76923",
       "source": "UCI",
       "source_id": "76923",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76923",
@@ -2771,7 +2903,7 @@
         },
         {
           "rank": "3",
-          "result": "+1:17",
+          "result": "+1' 17''",
           "rider": "Juan AYUSO PESQUERA",
           "team": "LIDL-TREK"
         }
@@ -2891,13 +3023,13 @@
         },
         {
           "rank": "2",
-          "result": "+6:32",
+          "result": "+6' 32''",
           "rider": "Richard Antonio CARAPAZ MONTENEGRO",
           "team": "EF EDUCATION - EASYPOST"
         },
         {
           "rank": "3",
-          "result": "+6:53",
+          "result": "+6' 53''",
           "rider": "Mathias VACEK",
           "team": "LIDL-TREK"
         }
@@ -3188,7 +3320,7 @@
         },
         {
           "rank": "3",
-          "result": "+3:50",
+          "result": "+3' 50''",
           "rider": "Mathias VACEK",
           "team": "LIDL-TREK"
         }
@@ -3256,7 +3388,7 @@
         },
         {
           "rank": "3",
-          "result": "+3:50",
+          "result": "+3' 50''",
           "rider": "Mathias VACEK",
           "team": "LIDL-TREK"
         }
@@ -3318,13 +3450,13 @@
         },
         {
           "rank": "2",
-          "result": "+2:42",
+          "result": "+2' 42''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+3:27",
+          "result": "+3' 27''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -3349,13 +3481,13 @@
         },
         {
           "rank": "2",
-          "result": "+2:38",
+          "result": "+2' 38''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+2:57",
+          "result": "+2' 57''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -3386,13 +3518,13 @@
         },
         {
           "rank": "2",
-          "result": "+2:42",
+          "result": "+2' 42''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+3:27",
+          "result": "+3' 27''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -3454,13 +3586,13 @@
         },
         {
           "rank": "2",
-          "result": "+2:42",
+          "result": "+2' 42''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+3:27",
+          "result": "+3' 27''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -3522,13 +3654,13 @@
         },
         {
           "rank": "2",
-          "result": "+2:42",
+          "result": "+2' 42''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+3:27",
+          "result": "+3' 27''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -3590,13 +3722,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:36",
+          "result": "+3' 36''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+4:06",
+          "result": "+4' 06''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -3658,13 +3790,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:36",
+          "result": "+3' 36''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+4:06",
+          "result": "+4' 06''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -3726,13 +3858,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:36",
+          "result": "+3' 36''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+4:06",
+          "result": "+4' 06''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -3794,13 +3926,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:36",
+          "result": "+3' 36''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+4:06",
+          "result": "+4' 06''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -3862,13 +3994,13 @@
         },
         {
           "rank": "2",
-          "result": "+4:30",
+          "result": "+4' 30''",
           "rider": "Jonas VINGEGAARD HANSEN",
           "team": "TEAM VISMA | LEASE A BIKE"
         },
         {
           "rank": "3",
-          "result": "+5:04",
+          "result": "+5' 04''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -3930,13 +4062,13 @@
         },
         {
           "rank": "2",
-          "result": "+5:00",
+          "result": "+5' 00''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+5:58",
+          "result": "+5' 58''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -3998,13 +4130,13 @@
         },
         {
           "rank": "2",
-          "result": "+4:32",
+          "result": "+4' 32''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+6:51",
+          "result": "+6' 51''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -4035,7 +4167,7 @@
         },
         {
           "rank": "3",
-          "result": "+1:04",
+          "result": "+1' 04''",
           "rider": "Mattias Skjelmose Jennow JENSEN",
           "team": "LIDL-TREK"
         }
@@ -4066,13 +4198,13 @@
         },
         {
           "rank": "2",
-          "result": "+4:32",
+          "result": "+4' 32''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+6:51",
+          "result": "+6' 51''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -4134,13 +4266,13 @@
         },
         {
           "rank": "2",
-          "result": "+4:32",
+          "result": "+4' 32''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+6:51",
+          "result": "+6' 51''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -4202,13 +4334,13 @@
         },
         {
           "rank": "2",
-          "result": "+7:11",
+          "result": "+7' 11''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+9:42",
+          "result": "+9' 42''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -4270,13 +4402,13 @@
         },
         {
           "rank": "2",
-          "result": "+6:26",
+          "result": "+6' 26''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+9:42",
+          "result": "+9' 42''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -4338,13 +4470,13 @@
         },
         {
           "rank": "2",
-          "result": "+6:26",
+          "result": "+6' 26''",
           "rider": "Remco EVENEPOEL",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+9:42",
+          "result": "+9' 42''",
           "rider": "Isaac DEL TORO ROMERO",
           "team": "UAE TEAM EMIRATES XRG"
         }
@@ -4478,10 +4610,32 @@
       "circuit": "UCI ProSeries",
       "country": "ESP",
       "end_date": "2026-08-08",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "19:36:15",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+5''",
+          "rider": "Oscar ONLEY",
+          "team": "NETCOMPANY INEOS"
+        },
+        {
+          "rank": "3",
+          "result": "+12''",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78326",
       "race_key": "vuelta-a-burgos",
       "race_name": "Vuelta a Burgos",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78326",
       "source": "UCI",
       "source_id": "78326",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78326",
@@ -4582,10 +4736,32 @@
       "circuit": "UCI WorldTour",
       "country": "BEL",
       "end_date": "2026-08-23",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "19:28:57",
+          "rider": "Jasper PHILIPSEN",
+          "team": "ALPECIN-PREMIER TECH"
+        },
+        {
+          "rank": "2",
+          "result": "+14''",
+          "rider": "Jenno BERCKMOES",
+          "team": "LOTTO INTERMARCHÉ"
+        },
+        {
+          "rank": "3",
+          "result": "+20''",
+          "rider": "Olav KOOIJ",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76940",
       "race_key": "renewi-tour",
       "race_name": "Renewi Tour",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76940",
       "source": "UCI",
       "source_id": "76940",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76940",
@@ -4798,13 +4974,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:21",
+          "result": "+3' 21''",
           "rider": "Primož ROGLIČ",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+3:32",
+          "result": "+3' 32''",
           "rider": "Enric MAS NICOLAU",
           "team": "MOVISTAR TEAM"
         }
@@ -4829,13 +5005,13 @@
         },
         {
           "rank": "2",
-          "result": "+2:39",
+          "result": "+2' 39''",
           "rider": "Jarno WIDAR",
           "team": "LOTTO INTERMARCHÉ"
         },
         {
           "rank": "3",
-          "result": "+2:39",
+          "result": "+2' 39''",
           "rider": "Felix GALL",
           "team": "DECATHLON CMA CGM TEAM"
         }
@@ -4866,13 +5042,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:21",
+          "result": "+3' 21''",
           "rider": "Primož ROGLIČ",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+3:32",
+          "result": "+3' 32''",
           "rider": "Enric MAS NICOLAU",
           "team": "MOVISTAR TEAM"
         }
@@ -4934,13 +5110,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:34",
+          "result": "+3' 34''",
           "rider": "Enric MAS NICOLAU",
           "team": "MOVISTAR TEAM"
         },
         {
           "rank": "3",
-          "result": "+4:21",
+          "result": "+4' 21''",
           "rider": "Primož ROGLIČ",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -5002,13 +5178,13 @@
         },
         {
           "rank": "2",
-          "result": "+3:50",
+          "result": "+3' 50''",
           "rider": "Enric MAS NICOLAU",
           "team": "MOVISTAR TEAM"
         },
         {
           "rank": "3",
-          "result": "+4:50",
+          "result": "+4' 50''",
           "rider": "Primož ROGLIČ",
           "team": "RED BULL - BORA - HANSGROHE"
         }
@@ -5070,13 +5246,13 @@
         },
         {
           "rank": "2",
-          "result": "+1:00",
+          "result": "+1' 00''",
           "rider": "Primož ROGLIČ",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+1:11",
+          "result": "+1' 11''",
           "rider": "Felix GALL",
           "team": "DECATHLON CMA CGM TEAM"
         }
@@ -5180,13 +5356,13 @@
         },
         {
           "rank": "2",
-          "result": "+1:18",
+          "result": "+1' 18''",
           "rider": "Primož ROGLIČ",
           "team": "RED BULL - BORA - HANSGROHE"
         },
         {
           "rank": "3",
-          "result": "+1:39",
+          "result": "+1' 39''",
           "rider": "Felix GALL",
           "team": "DECATHLON CMA CGM TEAM"
         }
@@ -6562,7 +6738,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-08-31T15:14:27Z",
+  "generated_at": "2026-08-31T15:33:18Z",
   "source_errors": [],
   "successful_sources": [
     "UCI 1.UWT 2026",
