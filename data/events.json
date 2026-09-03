@@ -8006,15 +8006,57 @@
       "distance": "184.7 km",
       "end_date": "2026-09-01",
       "finish_location": "Elche de la Sierra",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "32:41:44",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 18''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 39''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Alcaraz → Elche de la Sierra",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-10",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-10",
       "stage_name": "Alcaraz → Elche de la Sierra",
       "stage_number": 10,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:07:41",
+          "rider": "Bastien TRONCHON",
+          "team": "GROUPAMA-FDJ UNITED"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Magnus NIELSEN",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Thibau NYS",
+          "team": "LIDL-TREK"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-09-01",
       "start_location": "Alcaraz",
@@ -8056,15 +8098,57 @@
       "distance": "153.8 km",
       "end_date": "2026-09-02",
       "finish_location": "Lorca",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "35:59:02",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 18''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 39''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Cartagena → Lorca",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-11",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-11",
       "stage_name": "Cartagena → Lorca",
       "stage_number": 11,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "3:17:18",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Bryan COQUARD",
+          "team": "COFIDIS"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Jordi MEEUS",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-09-02",
       "start_location": "Cartagena",
@@ -9782,7 +9866,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-08-31T16:03:19Z",
+  "generated_at": "2026-09-03T12:33:42Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
