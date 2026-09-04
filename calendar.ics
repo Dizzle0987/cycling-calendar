@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Santos Tour Down Under
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260126
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:78cc7d7620f6c0cd9b4568af@cycling-calendar
 DESCRIPTION:Corsa: Santos Tour Down Under\nNazione: AUS\nCategoria: UCI Wo
  rldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -20,7 +20,7 @@ DESCRIPTION:Corsa: Santos Tour Down Under\nNazione: AUS\nCategoria: UCI Wo
  ttps://www.uci.org/competition-details/2026/ROA/76890\nNote: Orari e detta
  gli del percorso non ancora confermati dalla fonte primaria.\nFonte uffici
  ale: https://www.uci.org/competition-details/2026/ROA/76890
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76890
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:AlUla Tour
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260201
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e7c75990a7cc487186657053@cycling-calendar
 DESCRIPTION:Corsa: AlUla Tour\nNazione: KSA\nCategoria: UCI ProSeries\nCla
  sse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da confer
@@ -41,7 +41,7 @@ DESCRIPTION:Corsa: AlUla Tour\nNazione: KSA\nCategoria: UCI ProSeries\nCla
  isultati: https://www.uci.org/competition-details/2026/ROA/77970\nNote: Or
  ari e dettagli del percorso non ancora confermati dalla fonte primaria.\nF
  onte ufficiale: https://www.uci.org/competition-details/2026/ROA/77970
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/77970
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Mapei Cadel Evans Great Ocean Road Race - Men
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d924803230ced0053c42a8f3@cycling-calendar
 DESCRIPTION:Corsa: Mapei Cadel Evans Great Ocean Road Race - Men\nNazione:
   AUS\nCategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour
@@ -64,7 +64,7 @@ DESCRIPTION:Corsa: Mapei Cadel Evans Great Ocean Road Race - Men\nNazione:
  ils/2026/ROA/76892\nNote: Orari e dettagli del percorso non ancora conferm
  ati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competitio
  n-details/2026/ROA/76892
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76892
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Tour of Oman
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:18ca8bbc035b160a74e7d697@cycling-calendar
 DESCRIPTION:Corsa: Tour of Oman\nNazione: OMA\nCategoria: UCI ProSeries\nC
  lasse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da conf
@@ -85,7 +85,7 @@ DESCRIPTION:Corsa: Tour of Oman\nNazione: OMA\nCategoria: UCI ProSeries\nC
  isultati: https://www.uci.org/competition-details/2026/ROA/77987\nNote: Or
  ari e dettagli del percorso non ancora confermati dalla fonte primaria.\nF
  onte ufficiale: https://www.uci.org/competition-details/2026/ROA/77987
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/77987
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:UAE Tour
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260223
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:de6bb8c89ee95e422b520a79@cycling-calendar
 DESCRIPTION:Corsa: UAE Tour\nNazione: UAE\nCategoria: UCI WorldTour\nClass
  e UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurosport /
@@ -107,7 +107,7 @@ DESCRIPTION:Corsa: UAE Tour\nNazione: UAE\nCategoria: UCI WorldTour\nClass
  /www.uci.org/competition-details/2026/ROA/76894\nNote: Orari e dettagli de
  l percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: h
  ttps://www.uci.org/competition-details/2026/ROA/76894
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76894
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCM — Calpe
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:044f888c4a5ab07106e0e1de@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  RO UCI Cross-country Marathon World Cup\nNazione: ESP\nDisciplina: Mountai
@@ -133,7 +133,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  allo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org
  /competition-details/2026/MTB/77198\nFonte TV: https://www.eurosport.it/wa
  tch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Calpe
 URL:https://www.uci.org/competition-details/2026/MTB/77198
 BEGIN:VALARM
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Faun-Ardèche Classic
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a57f1f3fdc587c7c394377fa@cycling-calendar
 DESCRIPTION:Corsa: Faun-Ardèche Classic\nNazione: FRA\nCategoria: UCI Pro
  Series\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia
@@ -155,7 +155,7 @@ DESCRIPTION:Corsa: Faun-Ardèche Classic\nNazione: FRA\nCategoria: UCI Pro
  : https://www.uci.org/competition-details/2026/ROA/78008\nNote: Orari e de
  ttagli del percorso non ancora confermati dalla fonte primaria.\nFonte uff
  iciale: https://www.uci.org/competition-details/2026/ROA/78008
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78008
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Omloop Nieuwsblad
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:67661051d0db2a14e27a0aec@cycling-calendar
 DESCRIPTION:Corsa: Omloop Nieuwsblad\nNazione: BEL\nCategoria: UCI WorldTo
  ur\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eu
@@ -177,7 +177,7 @@ DESCRIPTION:Corsa: Omloop Nieuwsblad\nNazione: BEL\nCategoria: UCI WorldTo
  uci.org/competition-details/2026/ROA/76896\nNote: Orari e dettagli del per
  corso non ancora confermati dalla fonte primaria.\nFonte ufficiale: https:
  //www.uci.org/competition-details/2026/ROA/76896
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76896
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Faun Drome Classic
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:85ddb397118dbe5b7c538a59@cycling-calendar
 DESCRIPTION:Corsa: Faun Drome Classic\nNazione: FRA\nCategoria: UCI ProSer
  ies\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: D
@@ -198,7 +198,7 @@ DESCRIPTION:Corsa: Faun Drome Classic\nNazione: FRA\nCategoria: UCI ProSer
  ltati: https://www.uci.org/competition-details/2026/ROA/78012\nNote: Orari
   e dettagli del percorso non ancora confermati dalla fonte primaria.\nFont
  e ufficiale: https://www.uci.org/competition-details/2026/ROA/78012
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78012
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Kuurne - Brussel - Kuurne
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ca4d508be8c0c292bf368ab5@cycling-calendar
 DESCRIPTION:Corsa: Kuurne - Brussel - Kuurne\nNazione: BEL\nCategoria: UCI
   ProSeries\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in It
@@ -220,7 +220,7 @@ DESCRIPTION:Corsa: Kuurne - Brussel - Kuurne\nNazione: BEL\nCategoria: UCI
  ote: Orari e dettagli del percorso non ancora confermati dalla fonte prima
  ria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA/78
  014
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78014
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Trofeo Laigueglia
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:489b8f14aab893c53cf2074f@cycling-calendar
 DESCRIPTION:Corsa: Trofeo Laigueglia\nNazione: ITA\nCategoria: UCI ProSeri
  es\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da
@@ -241,7 +241,7 @@ DESCRIPTION:Corsa: Trofeo Laigueglia\nNazione: ITA\nCategoria: UCI ProSeri
  : https://www.uci.org/competition-details/2026/ROA/78020\nNote: Orari e de
  ttagli del percorso non ancora confermati dalla fonte primaria.\nFonte uff
  iciale: https://www.uci.org/competition-details/2026/ROA/78020
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78020
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Strade Bianche
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:cfeba05112e8e54d12e59146@cycling-calendar
 DESCRIPTION:Corsa: Strade Bianche\nNazione: ITA\nCategoria: UCI WorldTour\
  nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -263,7 +263,7 @@ DESCRIPTION:Corsa: Strade Bianche\nNazione: ITA\nCategoria: UCI WorldTour\
  w.uci.org/competition-details/2026/ROA/76897\nNote: Orari e dettagli del p
  ercorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: http
  s://www.uci.org/competition-details/2026/ROA/76897
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76897
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Paris-Nice
 DTSTART;VALUE=DATE:20260308
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:9dc7cd6f8aa5fb603371f881@cycling-calendar
 DESCRIPTION:Corsa: Paris-Nice\nNazione: FRA\nCategoria: UCI WorldTour\nCla
  sse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurosport
@@ -286,7 +286,7 @@ DESCRIPTION:Corsa: Paris-Nice\nNazione: FRA\nCategoria: UCI WorldTour\nCla
  9\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte p
  rimaria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/RO
  A/76899
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76899
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Tirreno-Adriatico
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:de67aa78a396dc373e4b619f@cycling-calendar
 DESCRIPTION:Corsa: Tirreno-Adriatico\nNazione: ITA\nCategoria: UCI WorldTo
  ur\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eu
@@ -308,7 +308,7 @@ DESCRIPTION:Corsa: Tirreno-Adriatico\nNazione: ITA\nCategoria: UCI WorldTo
  ltati: https://www.uci.org/competition-details/2026/ROA/76900\nNote: Orari
   e dettagli del percorso non ancora confermati dalla fonte primaria.\nFont
  e ufficiale: https://www.uci.org/competition-details/2026/ROA/76900
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76900
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Milano - Torino
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:99647efa6a7495fffd5e22d0@cycling-calendar
 DESCRIPTION:Corsa: Milano - Torino\nNazione: ITA\nCategoria: UCI ProSeries
  \nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da c
@@ -329,7 +329,7 @@ DESCRIPTION:Corsa: Milano - Torino\nNazione: ITA\nCategoria: UCI ProSeries
  tps://www.uci.org/competition-details/2026/ROA/78046\nNote: Orari e dettag
  li del percorso non ancora confermati dalla fonte primaria.\nFonte ufficia
  le: https://www.uci.org/competition-details/2026/ROA/78046
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78046
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Milano-Sanremo
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:469ca9f2dd8998a689b8919f@cycling-calendar
 DESCRIPTION:Corsa: Milano-Sanremo\nNazione: ITA\nCategoria: UCI WorldTour\
  nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -351,7 +351,7 @@ DESCRIPTION:Corsa: Milano-Sanremo\nNazione: ITA\nCategoria: UCI WorldTour\
  .org/competition-details/2026/ROA/76902\nNote: Orari e dettagli del percor
  so non ancora confermati dalla fonte primaria.\nFonte ufficiale: https://w
  ww.uci.org/competition-details/2026/ROA/76902
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76902
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Volta Ciclista a Catalunya
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1e180775ce67824185db7ac5@cycling-calendar
 DESCRIPTION:Corsa: Volta Ciclista a Catalunya\nNazione: ESP\nCategoria: UC
  I WorldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in I
@@ -374,7 +374,7 @@ DESCRIPTION:Corsa: Volta Ciclista a Catalunya\nNazione: ESP\nCategoria: UC
  OA/76904\nNote: Orari e dettagli del percorso non ancora confermati dalla 
  fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/
  2026/ROA/76904
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76904
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Ronde Van Brugge - Tour of Bruges
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:babfe0e783c000f6ea00b01b@cycling-calendar
 DESCRIPTION:Corsa: Ronde Van Brugge - Tour of Bruges\nNazione: BEL\nCatego
  ria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove veder
@@ -396,7 +396,7 @@ DESCRIPTION:Corsa: Ronde Van Brugge - Tour of Bruges\nNazione: BEL\nCatego
  te risultati: https://www.uci.org/competition-details/2026/ROA/76905\nNote
  : Orari e dettagli del percorso non ancora confermati dalla fonte primaria
  .\nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA/76905
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76905
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -408,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:E3 Saxo Classic
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a18bbe36357bb1d1b0f250dc@cycling-calendar
 DESCRIPTION:Corsa: E3 Saxo Classic\nNazione: BEL\nCategoria: UCI WorldTour
  \nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -418,7 +418,7 @@ DESCRIPTION:Corsa: E3 Saxo Classic\nNazione: BEL\nCategoria: UCI WorldTour
  //www.uci.org/competition-details/2026/ROA/76907\nNote: Orari e dettagli d
  el percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: 
  https://www.uci.org/competition-details/2026/ROA/76907
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76907
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:In Flanders Fields - From Middelkerke to Wevelgem
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:3a807081476749aad09fbdda@cycling-calendar
 DESCRIPTION:Corsa: In Flanders Fields - From Middelkerke to Wevelgem\nNazi
  one: BEL\nCategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI World
@@ -441,7 +441,7 @@ DESCRIPTION:Corsa: In Flanders Fields - From Middelkerke to Wevelgem\nNazi
  etails/2026/ROA/76909\nNote: Orari e dettagli del percorso non ancora conf
  ermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competi
  tion-details/2026/ROA/76909
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76909
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:Dwars door Vlaanderen - A travers la Flandre
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:92492281b676fff3f34145d4@cycling-calendar
 DESCRIPTION:Corsa: Dwars door Vlaanderen - A travers la Flandre\nNazione: 
  BEL\nCategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\
@@ -464,7 +464,7 @@ DESCRIPTION:Corsa: Dwars door Vlaanderen - A travers la Flandre\nNazione:
  A/76910\nNote: Orari e dettagli del percorso non ancora confermati dalla f
  onte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2
  026/ROA/76910
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76910
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Ronde van Vlaanderen
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:43f2797f79f53d2066c993d2@cycling-calendar
 DESCRIPTION:Corsa: Ronde van Vlaanderen\nNazione: BEL\nCategoria: UCI Worl
  dTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia:
@@ -486,7 +486,7 @@ DESCRIPTION:Corsa: Ronde van Vlaanderen\nNazione: BEL\nCategoria: UCI Worl
  //www.uci.org/competition-details/2026/ROA/76912\nNote: Orari e dettagli d
  el percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: 
  https://www.uci.org/competition-details/2026/ROA/76912
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76912
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Itzulia Basque Country
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:13d5db6533c7e115650ea899@cycling-calendar
 DESCRIPTION:Corsa: Itzulia Basque Country\nNazione: ESP\nCategoria: UCI Wo
  rldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -509,7 +509,7 @@ DESCRIPTION:Corsa: Itzulia Basque Country\nNazione: ESP\nCategoria: UCI Wo
  ote: Orari e dettagli del percorso non ancora confermati dalla fonte prima
  ria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA/76
  914
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76914
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Scheldeprijs
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:afcd039a0cdefd7ccc82907f@cycling-calendar
 DESCRIPTION:Corsa: Scheldeprijs\nNazione: BEL\nCategoria: UCI ProSeries\nC
  lasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da conf
@@ -530,7 +530,7 @@ DESCRIPTION:Corsa: Scheldeprijs\nNazione: BEL\nCategoria: UCI ProSeries\nC
  ps://www.uci.org/competition-details/2026/ROA/78089\nNote: Orari e dettagl
  i del percorso non ancora confermati dalla fonte primaria.\nFonte ufficial
  e: https://www.uci.org/competition-details/2026/ROA/78089
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78089
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:Paris-Roubaix Hauts-de-France
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4d94f8a074cbc486476c3d08@cycling-calendar
 DESCRIPTION:Corsa: Paris-Roubaix Hauts-de-France\nNazione: FRA\nCategoria:
   UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla i
@@ -552,7 +552,7 @@ DESCRIPTION:Corsa: Paris-Roubaix Hauts-de-France\nNazione: FRA\nCategoria:
  ttps://www.uci.org/competition-details/2026/ROA/76916\nNote: Orari e detta
  gli del percorso non ancora confermati dalla fonte primaria.\nFonte uffici
  ale: https://www.uci.org/competition-details/2026/ROA/76916
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76916
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — XCE — Barcelona
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:db5161dfcecf1ddb970fcbbf@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — XCE\nNome uff
  iciale: UCI MTB ELIMINATOR WORLD CHAMPIONSHIPS - XCE\nNazione: ESP\nDiscip
@@ -578,7 +578,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — XCE\nNome uff
  lla manifestazione.\nFonte ufficiale: https://www.uci.org/competition-deta
  ils/2026/MTB/77099\nFonte TV: https://www.uci.org/pressrelease/where-to-wa
  tch-the-uci-mountain-bike-world-championships/5bA7imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Barcelona
 URL:https://www.uci.org/competition-details/2026/MTB/77099
 BEGIN:VALARM
@@ -592,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:Amstel Gold Race
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c8d1f9f8101ad76fab3736fe@cycling-calendar
 DESCRIPTION:Corsa: Amstel Gold Race\nNazione: NED\nCategoria: UCI WorldTou
  r\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eur
@@ -602,7 +602,7 @@ DESCRIPTION:Corsa: Amstel Gold Race\nNazione: NED\nCategoria: UCI WorldTou
  i: https://www.uci.org/competition-details/2026/ROA/76917\nNote: Orari e d
  ettagli del percorso non ancora confermati dalla fonte primaria.\nFonte uf
  ficiale: https://www.uci.org/competition-details/2026/ROA/76917
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76917
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:Tour of the Alps
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:3cc10649832a257ef264ae5a@cycling-calendar
 DESCRIPTION:Corsa: Tour of the Alps\nNazione: ITA\nCategoria: UCI ProSerie
  s\nClasse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da 
@@ -623,7 +623,7 @@ DESCRIPTION:Corsa: Tour of the Alps\nNazione: ITA\nCategoria: UCI ProSerie
  e risultati: https://www.uci.org/competition-details/2026/ROA/78120\nNote:
   Orari e dettagli del percorso non ancora confermati dalla fonte primaria.
  \nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA/78120
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78120
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:La Flèche Wallonne
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4d7cd31ed190c6ff0b6b05c6@cycling-calendar
 DESCRIPTION:Corsa: La Flèche Wallonne\nNazione: BEL\nCategoria: UCI World
  Tour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: 
@@ -645,7 +645,7 @@ DESCRIPTION:Corsa: La Flèche Wallonne\nNazione: BEL\nCategoria: UCI World
  ion-details/2026/ROA/76920\nNote: Orari e dettagli del percorso non ancora
   confermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/co
  mpetition-details/2026/ROA/76920
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76920
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Liège-Bastogne-Liège
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:9ab0cb62bdad25c0ad8c4480@cycling-calendar
 DESCRIPTION:Corsa: Liège-Bastogne-Liège\nNazione: BEL\nCategoria: UCI Wo
  rldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -667,7 +667,7 @@ DESCRIPTION:Corsa: Liège-Bastogne-Liège\nNazione: BEL\nCategoria: UCI Wo
  ci.org/competition-details/2026/ROA/76922\nNote: Orari e dettagli del perc
  orso non ancora confermati dalla fonte primaria.\nFonte ufficiale: https:/
  /www.uci.org/competition-details/2026/ROA/76922
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76922
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:Presidential Cycling Tour of Turkiye
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:19484d1d722a43a4f66ee1a9@cycling-calendar
 DESCRIPTION:Corsa: Presidential Cycling Tour of Turkiye\nNazione: TUR\nCat
  egoria: UCI ProSeries\nClasse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove ve
@@ -689,7 +689,7 @@ DESCRIPTION:Corsa: Presidential Cycling Tour of Turkiye\nNazione: TUR\nCat
  A/78135\nNote: Orari e dettagli del percorso non ancora confermati dalla f
  onte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2
  026/ROA/78135
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78135
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Romandie
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b8e82198cec376500b34d306@cycling-calendar
 DESCRIPTION:Corsa: Tour de Romandie\nNazione: SUI\nCategoria: UCI WorldTou
  r\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eur
@@ -711,7 +711,7 @@ DESCRIPTION:Corsa: Tour de Romandie\nNazione: SUI\nCategoria: UCI WorldTou
  ti: https://www.uci.org/competition-details/2026/ROA/76923\nNote: Orari e 
  dettagli del percorso non ancora confermati dalla fonte primaria.\nFonte u
  fficiale: https://www.uci.org/competition-details/2026/ROA/76923
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76923
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -723,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:Eschborn-Frankfurt
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:464f597533865ee885d60028@cycling-calendar
 DESCRIPTION:Corsa: Eschborn-Frankfurt\nNazione: GER\nCategoria: UCI WorldT
  our\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: E
@@ -733,7 +733,7 @@ DESCRIPTION:Corsa: Eschborn-Frankfurt\nNazione: GER\nCategoria: UCI WorldT
  s://www.uci.org/competition-details/2026/ROA/76924\nNote: Orari e dettagli
   del percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale
  : https://www.uci.org/competition-details/2026/ROA/76924
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76924
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -745,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — DHI — YongPyong
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:385345a8de01a366c69dc1f9@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: KOR\nDisciplina: Mount
@@ -759,7 +759,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  rvallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.o
  rg/competition-details/2026/MTB/77093\nFonte TV: https://www.eurosport.it/
  watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:YongPyong
 URL:https://www.uci.org/competition-details/2026/MTB/77093
 BEGIN:VALARM
@@ -772,7 +772,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCC — YongPyong
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:9770a2af337457dafaf05905@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: KOR\nDisciplina: Mount
@@ -786,7 +786,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  ella manifestazione.\nFonte ufficiale: https://www.uci.org/competition-det
  ails/2026/MTB/77093\nFonte TV: https://www.eurosport.it/watch/mountain-bik
  e/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:YongPyong
 URL:https://www.uci.org/competition-details/2026/MTB/77093
 BEGIN:VALARM
@@ -799,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCO — YongPyong
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:62f6e4a0d7e5b45e1a3b0e65@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: KOR\nDisciplina: Mount
@@ -813,7 +813,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  iale della manifestazione.\nFonte ufficiale: https://www.uci.org/competiti
  on-details/2026/MTB/77093\nFonte TV: https://www.eurosport.it/watch/mounta
  in-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:YongPyong
 URL:https://www.uci.org/competition-details/2026/MTB/77093
 BEGIN:VALARM
@@ -827,7 +827,7 @@ SUMMARY:Giro d'Italia — Tappa 1: Nessebar / Несебър → Burgas /
  Бургас
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:cf32528b5c4e43168228ad3e@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 1 — Nessebar / Несебър 
  → Burgas / Бургас\nPartenza: Nessebar / Несебър\nArrivo: Bu
@@ -844,7 +844,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 1 — Nessebar / Несебър
  -the-giro-ditalia-2026-nessebar-burgas/\nFonte TV: https://www.eurosport.i
  t/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in-d
  iretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Nessebar / Несебър → Burgas / Бургас
 URL:https://www.giroditalia.it/en/tappe/stage-1-of-the-giro-ditalia-2026-n
  essebar-burgas/
@@ -860,7 +860,7 @@ SUMMARY:Giro d'Italia — Tappa 2: Burgas / Бургас → Veliko Tarnov
  o / Велико Търново
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:03c96ccce3fd2fe99d57cd69@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 2 — Burgas / Бургас → V
  eliko Tarnovo / Велико Търново\nPartenza: Burgas / Бурга
@@ -878,7 +878,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 2 — Burgas / Бургас → V
  ditalia-2026-burgas-veliko-tarnovo/\nFonte TV: https://www.eurosport.it/ci
  clismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in-diret
  ta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Burgas / Бургас → Veliko Tarnovo / Велико Търн
  ово
 URL:https://www.giroditalia.it/en/tappe/stage-2-of-the-giro-ditalia-2026-b
@@ -894,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCM — Capoliveri - Elba Island
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:8e4fa413ce4bd9dd291b8719@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  RO UCI Cross-country Marathon World Cup\nNazione: ITA\nDisciplina: Mountai
@@ -908,7 +908,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  ciale della manifestazione.\nFonte ufficiale: https://www.uci.org/competit
  ion-details/2026/MTB/77073\nFonte TV: https://www.eurosport.it/watch/mount
  ain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Capoliveri - Elba Island
 URL:https://www.uci.org/competition-details/2026/MTB/77073
 BEGIN:VALARM
@@ -923,7 +923,7 @@ SUMMARY:Giro d'Italia — Tappa 3: Plovdiv / Пловдив → Sofia / С
  офия
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:93634acca30117b62ca93629@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 3 — Plovdiv / Пловдив 
  → Sofia / София\nPartenza: Plovdiv / Пловдив\nArrivo: Sofia 
@@ -940,7 +940,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 3 — Plovdiv / Пловдив
  -3-of-the-giro-ditalia-2026-plovdiv-sofia/\nFonte TV: https://www.eurospor
  t.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-i
  n-diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Plovdiv / Пловдив → Sofia / София
 URL:https://www.giroditalia.it/en/tappe/stage-3-of-the-giro-ditalia-2026-p
  lovdiv-sofia/
@@ -955,7 +955,7 @@ BEGIN:VEVENT
 SUMMARY:Tro-Bro Léon
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4b2e01e6e6f4e6758c37f33f@cycling-calendar
 DESCRIPTION:Corsa: Tro-Bro Léon\nNazione: FRA\nCategoria: UCI ProSeries\n
  Classe UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da con
@@ -964,7 +964,7 @@ DESCRIPTION:Corsa: Tro-Bro Léon\nNazione: FRA\nCategoria: UCI ProSeries\n
  ps://www.uci.org/competition-details/2026/ROA/78171\nNote: Orari e dettagl
  i del percorso non ancora confermati dalla fonte primaria.\nFonte ufficial
  e: https://www.uci.org/competition-details/2026/ROA/78171
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78171
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 4: Catanzaro → Cosenza
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:2e43d1bf225669221d79ca33@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 4 — Catanzaro → Cosenza\nPart
  enza: Catanzaro\nArrivo: Cosenza\nNazione: Italia\nDistanza: 138 km\nTipol
@@ -993,7 +993,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 4 — Catanzaro → Cosenza\nPart
  ttps://www.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-
  giro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/
  story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Catanzaro → Cosenza
 URL:https://www.giroditalia.it/en/tappe/stage-4-of-the-giro-ditalia-2026-c
  atanzaro-cosenza/
@@ -1007,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 5: Praia a Mare → Potenza
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a225606fa994afafce5fd8c2@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 5 — Praia a Mare → Potenza\nP
  artenza: Praia a Mare\nArrivo: Potenza\nNazione: Italia\nDistanza: 203 km\
@@ -1024,7 +1024,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 5 — Praia a Mare → Potenza\nP
  potenza/\nFonte TV: https://www.eurosport.it/ciclismo/giro-d-italia/2026/e
  urosport-presenta-il-giro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-d
  iscovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Praia a Mare → Potenza
 URL:https://www.giroditalia.it/en/tappe/stage-5-of-the-giro-ditalia-2026-p
  raia-a-mare-potenza/
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 6: Paestum → Napoli
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c6327ee87e1d3ff15db21e10@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 6 — Paestum → Napoli\nPartenz
  a: Paestum\nArrivo: Napoli\nNazione: Italia\nDistanza: 142 km\nTipologia: 
@@ -1055,7 +1055,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 6 — Paestum → Napoli\nPartenz
  w.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-dita
  lia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.sht
  ml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Paestum → Napoli
 URL:https://www.giroditalia.it/en/tappe/stage-6-of-the-giro-ditalia-2026-p
  aestum-napoli/
@@ -1069,7 +1069,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 7: Formia → Blockhaus
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c113f63aedc1a800ef37c13c@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 7 — Formia → Blockhaus\nParte
  nza: Formia\nArrivo: Blockhaus\nNazione: Italia\nDistanza: 245 km\nTipolog
@@ -1085,7 +1085,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 7 — Formia → Blockhaus\nParte
  7-of-the-giro-ditalia-2026-formia-blockhaus/\nFonte TV: https://www.eurosp
  ort.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026
  -in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Formia → Blockhaus
 URL:https://www.giroditalia.it/en/tappe/stage-7-of-the-giro-ditalia-2026-f
  ormia-blockhaus/
@@ -1099,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 8: Chieti → Fermo
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:0d6745720e0a623ebaa44816@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 8 — Chieti → Fermo\nPartenza:
   Chieti\nArrivo: Fermo\nNazione: Italia\nDistanza: 156 km\nTipologia: coll
@@ -1115,7 +1115,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 8 — Chieti → Fermo\nPartenza:
  -8-of-the-giro-ditalia-2026-chieti-fermo/\nFonte TV: https://www.eurosport
  .it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in
  -diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Chieti → Fermo
 URL:https://www.giroditalia.it/en/tappe/stage-8-of-the-giro-ditalia-2026-c
  hieti-fermo/
@@ -1129,7 +1129,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 9: Cervia → Corno alle Scale
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:23c1a6f34280d7dd8984cd0f@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 9 — Cervia → Corno alle Scale
  \nPartenza: Cervia\nArrivo: Corno alle Scale\nNazione: Italia\nDistanza: 1
@@ -1146,7 +1146,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 9 — Cervia → Corno alle Scale
  te TV: https://www.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-pres
  enta-il-giro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto2
  3296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Cervia → Corno alle Scale
 URL:https://www.giroditalia.it/en/tappe/stage-9-of-the-giro-ditalia-2026-c
  ervia-corno-alle-scale/
@@ -1161,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 10: Viareggio → Massa TUDOR ITT
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d0b4313983cfbf58ef027cd3@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 10 — Viareggio → Massa TUDOR 
  ITT\nPartenza: Viareggio\nArrivo: Massa TUDOR ITT\nNazione: Italia\nDistan
@@ -1178,7 +1178,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 10 — Viareggio → Massa TUDOR
  t/\nFonte TV: https://www.eurosport.it/ciclismo/giro-d-italia/2026/eurospo
  rt-presenta-il-giro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discove
  ry_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Viareggio → Massa TUDOR ITT
 URL:https://www.giroditalia.it/en/tappe/stage-10-of-the-giro-ditalia-2026-
  viareggio-massa-tudor-itt/
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 11: Porcari (Paper District) → Chiavari
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4aa48fa45cbc0a6ff9276188@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 11 — Porcari (Paper District) 
  → Chiavari\nPartenza: Porcari (Paper District)\nArrivo: Chiavari\nNazion
@@ -1210,7 +1210,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 11 — Porcari (Paper District)
  026-porcari-paper-district-chiavari/\nFonte TV: https://www.eurosport.it/c
  iclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in-dire
  tta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Porcari (Paper District) → Chiavari
 URL:https://www.giroditalia.it/en/tappe/stage-11-of-the-giro-ditalia-2026-
  porcari-paper-district-chiavari/
@@ -1225,7 +1225,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 12: Imperia → Novi Ligure
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:423a56484b0e84d57987aafd@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 12 — Imperia → Novi Ligure\nP
  artenza: Imperia\nArrivo: Novi Ligure\nNazione: Italia\nDistanza: 175 km\n
@@ -1242,7 +1242,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 12 — Imperia → Novi Ligure\nP
  ps://www.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-gi
  ro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/st
  ory.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Imperia → Novi Ligure
 URL:https://www.giroditalia.it/en/tappe/stage-12-of-the-giro-ditalia-2026-
  imperia-novi-ligure/
@@ -1256,7 +1256,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 13: Alessandria → Verbania
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:bb8727ae9c0af93a5cfad34d@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 13 — Alessandria → Verbania\n
  Partenza: Alessandria\nArrivo: Verbania\nNazione: Italia\nDistanza: 189 km
@@ -1273,7 +1273,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 13 — Alessandria → Verbania\n
  ps://www.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-gi
  ro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/st
  ory.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Alessandria → Verbania
 URL:https://www.giroditalia.it/en/tappe/stage-13-of-the-giro-ditalia-2026-
  alessandria-verbania/
@@ -1288,7 +1288,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCC — Nove Mesto Na Morave
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:77184b0a5852a2d088b8aa62@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC\nNazione: CZE\nDisciplina: Mountain 
@@ -1302,7 +1302,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  anifestazione.\nFonte ufficiale: https://www.uci.org/competition-details/2
  026/MTB/77080\nFonte TV: https://www.eurosport.it/watch/mountain-bike/uci-
  mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Nove Mesto Na Morave
 URL:https://www.uci.org/competition-details/2026/MTB/77080
 BEGIN:VALARM
@@ -1316,7 +1316,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCO — Nove Mesto Na Morave
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:bf26633031cf4af850631f1e@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC\nNazione: CZE\nDisciplina: Mountain 
@@ -1330,7 +1330,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  della manifestazione.\nFonte ufficiale: https://www.uci.org/competition-de
  tails/2026/MTB/77080\nFonte TV: https://www.eurosport.it/watch/mountain-bi
  ke/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Nove Mesto Na Morave
 URL:https://www.uci.org/competition-details/2026/MTB/77080
 BEGIN:VALARM
@@ -1344,7 +1344,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 14: Aosta → Pila (Gressan)
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:93df004816c4472a20a81d2e@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 14 — Aosta → Pila (Gressan)\n
  Partenza: Aosta\nArrivo: Pila (Gressan)\nNazione: Italia\nDistanza: 133 km
@@ -1360,7 +1360,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 14 — Aosta → Pila (Gressan)\n
  stage-14-of-the-giro-ditalia-2026-aosta-pila/\nFonte TV: https://www.euros
  port.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-202
  6-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Aosta → Pila (Gressan)
 URL:https://www.giroditalia.it/en/tappe/stage-14-of-the-giro-ditalia-2026-
  aosta-pila/
@@ -1375,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 15: Voghera → Milano
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d3f8c4a886ebe021567bb17e@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 15 — Voghera → Milano\nParten
  za: Voghera\nArrivo: Milano\nNazione: Italia\nDistanza: 157 km\nTipologia:
@@ -1392,7 +1392,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 15 — Voghera → Milano\nParten
  w.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-dita
  lia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.sht
  ml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Voghera → Milano
 URL:https://www.giroditalia.it/en/tappe/stage-15-of-the-giro-ditalia-2026-
  voghera-milano/
@@ -1406,7 +1406,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — XCM — Reggio Calabria Rc
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:265e187a604d3aacb82f4cf9@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — XCM\nNome ufficiale: Italia
  n National Championships - XCM\nNazione: ITA\nDisciplina: Mountain bike\nS
@@ -1418,7 +1418,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — XCM\nNome ufficiale: Italia
   Elite. Giorno e orario specifici non ancora confermati: è mostrato l'int
  ervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.
  org/competition-details/2026/MTB/77947
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Reggio Calabria Rc
 URL:https://www.uci.org/competition-details/2026/MTB/77947
 BEGIN:VALARM
@@ -1432,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 16: Bellinzona → Carì
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:bd4b835cbe90d5e93129f514@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 16 — Bellinzona → Carì\nPart
  enza: Bellinzona\nArrivo: Carì\nNazione: Italia\nDistanza: 113 km\nTipolo
@@ -1448,7 +1448,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 16 — Bellinzona → Carì\nPart
  age-16-of-the-giro-ditalia-2026-bellinzona-cari/\nFonte TV: https://www.eu
  rosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-
  2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Bellinzona → Carì
 URL:https://www.giroditalia.it/en/tappe/stage-16-of-the-giro-ditalia-2026-
  bellinzona-cari/
@@ -1462,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 17: Cassano d'Adda → Andalo
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c7d29269de68acd6f63361e5@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 17 — Cassano d'Adda → Andalo\
  nPartenza: Cassano d'Adda\nArrivo: Andalo\nNazione: Italia\nDistanza: 202 
@@ -1479,7 +1479,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 17 — Cassano d'Adda → Andalo\
  ps://www.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-gi
  ro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23296443/st
  ory.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Cassano d'Adda → Andalo
 URL:https://www.giroditalia.it/en/tappe/stage-17-of-the-giro-ditalia-2026-
  cassano-dadda-andalo/
@@ -1495,7 +1495,7 @@ SUMMARY:Giro d'Italia — Tappa 18: Fai della Paganella → Pieve di Solig
  o
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:9b35a95a813f7f6cee1e9f57@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 18 — Fai della Paganella → Pi
  eve di Soligo\nPartenza: Fai della Paganella\nArrivo: Pieve di Soligo\nNaz
@@ -1512,7 +1512,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 18 — Fai della Paganella → Pi
  26-fai-della-paganella-pieve-di-soligo/\nFonte TV: https://www.eurosport.i
  t/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in-d
  iretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Fai della Paganella → Pieve di Soligo
 URL:https://www.giroditalia.it/en/tappe/stage-18-of-the-giro-ditalia-2026-
  fai-della-paganella-pieve-di-soligo/
@@ -1527,7 +1527,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 19: Feltre → Alleghe (Piani di Pezzè)
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:f226d572c5b5345de18b3dfb@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 19 — Feltre → Alleghe (Piani 
  di Pezzè)\nPartenza: Feltre\nArrivo: Alleghe (Piani di Pezzè)\nNazione: 
@@ -1544,7 +1544,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 19 — Feltre → Alleghe (Piani
  nFonte TV: https://www.eurosport.it/ciclismo/giro-d-italia/2026/eurosport-
  presenta-il-giro-ditalia-2026-in-diretta-integrale-su-hbo-max-e-discovery_
  sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Feltre → Alleghe (Piani di Pezzè)
 URL:https://www.giroditalia.it/en/tappe/stage-19-of-the-giro-ditalia-2026-
  feltre-alleghe-piani-di-pezze/
@@ -1559,7 +1559,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — XCC — Courmayeur
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e54d01da47dd9951560fada8@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — XCC\nNome ufficiale: Italia
  n National Championships - XCC\nNazione: ITA\nDisciplina: Mountain bike\nS
@@ -1571,7 +1571,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — XCC\nNome ufficiale: Italia
  lite. Giorno e orario specifici non ancora confermati: è mostrato l'inter
  vallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.or
  g/competition-details/2026/MTB/79397
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Courmayeur
 URL:https://www.uci.org/competition-details/2026/MTB/79397
 BEGIN:VALARM
@@ -1584,7 +1584,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — DHI — Loudenvielle-Peyragudes
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ac5d01c61aaaf8e1ca73beec@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – DHI/EDR\nNazione: FRA\nDisciplina: Mountain 
@@ -1598,7 +1598,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  ervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.
  org/competition-details/2026/MTB/77094\nFonte TV: https://www.eurosport.it
  /watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Loudenvielle-Peyragudes
 URL:https://www.uci.org/competition-details/2026/MTB/77094
 BEGIN:VALARM
@@ -1612,7 +1612,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — EDR — Loudenvielle-Peyragudes
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ef1f441b951bbfc7d5a1f045@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – DHI/EDR\nNazione: FRA\nDisciplina: Mountain 
@@ -1626,7 +1626,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  iciale della manifestazione.\nFonte ufficiale: https://www.uci.org/competi
  tion-details/2026/MTB/77094\nFonte TV: https://www.eurosport.it/watch/moun
  tain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Loudenvielle-Peyragudes
 URL:https://www.uci.org/competition-details/2026/MTB/77094
 BEGIN:VALARM
@@ -1641,7 +1641,7 @@ SUMMARY:Giro d'Italia — Tappa 20: Gemona del Friuli 1976-2026 → Pianca
  vallo
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:f364855c95345f328e5a162e@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 20 — Gemona del Friuli 1976-202
  6 → Piancavallo\nPartenza: Gemona del Friuli 1976-2026\nArrivo: Piancava
@@ -1658,7 +1658,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 20 — Gemona del Friuli 1976-202
  gemona-del-friuli-1976-2026-piancavallo/\nFonte TV: https://www.eurosport.
  it/ciclismo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in-
  diretta-integrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Gemona del Friuli 1976-2026 → Piancavallo
 URL:https://www.giroditalia.it/en/tappe/stage-20-of-the-giro-ditalia-2026-
  gemona-del-friuli-1976-2026-piancavallo/
@@ -1673,7 +1673,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia — Tappa 21: Roma → Roma
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:aaa6ab7c778b1d4ecdd1bdbe@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nTappa: 21 — Roma → Roma\nPartenza: R
  oma\nArrivo: Roma\nNazione: Italia\nDistanza: 131 km\nTipologia: pianura\n
@@ -1689,7 +1689,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nTappa: 21 — Roma → Roma\nPartenza: R
  he-giro-ditalia-2026-roma-roma/\nFonte TV: https://www.eurosport.it/ciclis
  mo/giro-d-italia/2026/eurosport-presenta-il-giro-ditalia-2026-in-diretta-i
  ntegrale-su-hbo-max-e-discovery_sto23296443/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Roma → Roma
 URL:https://www.giroditalia.it/en/tappe/stage-21-of-the-giro-ditalia-2026-
  roma-roma/
@@ -1704,7 +1704,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCM — Sant Julià De Lòria - La
   Rabassa
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:eb54f213a86a6781ccfa0f4c@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  RO UCI Cross-country Marathon World Cup\nNazione: AND\nDisciplina: Mountai
@@ -1718,7 +1718,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
   mostrato l'intervallo ufficiale della manifestazione.\nFonte ufficiale: h
  ttps://www.uci.org/competition-details/2026/MTB/77074\nFonte TV: https://w
  ww.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Sant Julià De Lòria - La Rabassa
 URL:https://www.uci.org/competition-details/2026/MTB/77074
 BEGIN:VALARM
@@ -1732,7 +1732,7 @@ BEGIN:VEVENT
 SUMMARY:Brussels Cycling Classic
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:396ee9877a81f60c2f017f52@cycling-calendar
 DESCRIPTION:Corsa: Brussels Cycling Classic\nNazione: BEL\nCategoria: UCI 
  ProSeries\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Ita
@@ -1741,7 +1741,7 @@ DESCRIPTION:Corsa: Brussels Cycling Classic\nNazione: BEL\nCategoria: UCI
  ti: https://www.uci.org/competition-details/2026/ROA/78243\nNote: Orari e 
  dettagli del percorso non ancora confermati dalla fonte primaria.\nFonte u
  fficiale: https://www.uci.org/competition-details/2026/ROA/78243
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78243
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1753,7 +1753,7 @@ BEGIN:VEVENT
 SUMMARY:Tour Auvergne - Rhône-Alpes
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:03d2ad3ae67c1f0fdb4df573@cycling-calendar
 DESCRIPTION:Corsa: Tour Auvergne - Rhône-Alpes\nNazione: FRA\nCategoria: 
  UCI WorldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in
@@ -1764,7 +1764,7 @@ DESCRIPTION:Corsa: Tour Auvergne - Rhône-Alpes\nNazione: FRA\nCategoria:
  Note: Orari e dettagli del percorso non ancora confermati dalla fonte prim
  aria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA/7
  6930
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76930
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1776,7 +1776,7 @@ BEGIN:VEVENT
 SUMMARY:UEC Mountain Bike European Championships — XCE — Sakarya
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b10c27ea9430a84d6b0e62cc@cycling-calendar
 DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCE\nNome 
  ufficiale: UEC Mountainbike European Continental Championships - XCE\nNazi
@@ -1788,7 +1788,7 @@ DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCE\nNome
  ite. Giorno e orario specifici non ancora confermati: è mostrato l'interv
  allo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org
  /competition-details/2026/MTB/78821
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Sakarya
 URL:https://www.uci.org/competition-details/2026/MTB/78821
 BEGIN:VALARM
@@ -1802,7 +1802,7 @@ BEGIN:VEVENT
 SUMMARY:Circuit Franco-Belge
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:642e8555027a703dec6f72f6@cycling-calendar
 DESCRIPTION:Corsa: Circuit Franco-Belge\nNazione: BEL\nCategoria: UCI ProS
  eries\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia:
@@ -1811,7 +1811,7 @@ DESCRIPTION:Corsa: Circuit Franco-Belge\nNazione: BEL\nCategoria: UCI ProS
  isultati: https://www.uci.org/competition-details/2026/ROA/78248\nNote: Or
  ari e dettagli del percorso non ancora confermati dalla fonte primaria.\nF
  onte ufficiale: https://www.uci.org/competition-details/2026/ROA/78248
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78248
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1824,7 +1824,7 @@ SUMMARY:UCI Mountain Bike World Cup — DHI — Saalfelden-Leogang Salzbur
  gerland
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4a7ec60883bf7efcdfdfebd0@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: AUT\nDisciplina: M
@@ -1838,7 +1838,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  'intervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.
  uci.org/competition-details/2026/MTB/77081\nFonte TV: https://www.eurospor
  t.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Saalfelden-Leogang Salzburgerland
 URL:https://www.uci.org/competition-details/2026/MTB/77081
 BEGIN:VALARM
@@ -1853,7 +1853,7 @@ SUMMARY:UCI Mountain Bike World Cup — EDR — Saalfelden-Leogang Salzbur
  gerland
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ad744b037a3cd4a959268a2e@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: AUT\nDisciplina: M
@@ -1867,7 +1867,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  l'intervallo ufficiale della manifestazione.\nFonte ufficiale: https://www
  .uci.org/competition-details/2026/MTB/77081\nFonte TV: https://www.eurospo
  rt.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Saalfelden-Leogang Salzburgerland
 URL:https://www.uci.org/competition-details/2026/MTB/77081
 BEGIN:VALARM
@@ -1882,7 +1882,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCC — Saalfelden-Leogang Salzbur
  gerland
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:7dba925759e9f4a5a511c54e@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: AUT\nDisciplina: M
@@ -1896,7 +1896,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  iale della manifestazione.\nFonte ufficiale: https://www.uci.org/competiti
  on-details/2026/MTB/77081\nFonte TV: https://www.eurosport.it/watch/mounta
  in-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Saalfelden-Leogang Salzburgerland
 URL:https://www.uci.org/competition-details/2026/MTB/77081
 BEGIN:VALARM
@@ -1911,7 +1911,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCO — Saalfelden-Leogang Salzbur
  gerland
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b7c77a7293eba0c7e5c47ac8@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: AUT\nDisciplina: M
@@ -1925,7 +1925,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  lo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org/c
  ompetition-details/2026/MTB/77081\nFonte TV: https://www.eurosport.it/watc
  h/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Saalfelden-Leogang Salzburgerland
 URL:https://www.uci.org/competition-details/2026/MTB/77081
 BEGIN:VALARM
@@ -1939,7 +1939,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCM — Selva Val Gardena
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:937975e9cc407d54b9fb8d5b@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  RO UCI Cross-country Marathon World Cup\nNazione: ITA\nDisciplina: Mountai
@@ -1953,7 +1953,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  lo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org/c
  ompetition-details/2026/MTB/77075\nFonte TV: https://www.eurosport.it/watc
  h/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Selva Val Gardena
 URL:https://www.uci.org/competition-details/2026/MTB/77075
 BEGIN:VALARM
@@ -1967,7 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:Copenhagen Sprint
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:fa0a26b011163f1d3b7da97f@cycling-calendar
 DESCRIPTION:Corsa: Copenhagen Sprint\nNazione: DEN\nCategoria: UCI WorldTo
  ur\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eu
@@ -1977,7 +1977,7 @@ DESCRIPTION:Corsa: Copenhagen Sprint\nNazione: DEN\nCategoria: UCI WorldTo
  ltati: https://www.uci.org/competition-details/2026/ROA/76934\nNote: Orari
   e dettagli del percorso non ancora confermati dalla fonte primaria.\nFont
  e ufficiale: https://www.uci.org/competition-details/2026/ROA/76934
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76934
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1989,7 +1989,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCE — Sakarya
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:cd6ee8ad84f4cd88289dd64e@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCE\nNome ufficiale: UC
  I MTB Eliminator World Cup powered by citymountainbike.com - XCE\nNazione:
@@ -2003,7 +2003,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCE\nNome ufficiale: UC
  nifestazione.\nFonte ufficiale: https://www.uci.org/competition-details/20
  26/MTB/77282\nFonte TV: https://www.eurosport.it/watch/mountain-bike/uci-m
  ountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Sakarya
 URL:https://www.uci.org/competition-details/2026/MTB/77282
 BEGIN:VALARM
@@ -2016,7 +2016,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Suisse
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260622
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:826be9eeb1cff3db09a2b929@cycling-calendar
 DESCRIPTION:Corsa: Tour de Suisse\nNazione: SUI\nCategoria: UCI WorldTour\
  nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -2027,7 +2027,7 @@ DESCRIPTION:Corsa: Tour de Suisse\nNazione: SUI\nCategoria: UCI WorldTour\
  ote: Orari e dettagli del percorso non ancora confermati dalla fonte prima
  ria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA/76
  932
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76932
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2039,7 +2039,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — DHI — Lenzerheide
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260622
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:91e2f5848bd89a211211bd6b@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: SUI\nDisciplina: Mount
@@ -2053,7 +2053,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  ervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.
  org/competition-details/2026/MTB/77083\nFonte TV: https://www.eurosport.it
  /watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lenzerheide
 URL:https://www.uci.org/competition-details/2026/MTB/77083
 BEGIN:VALARM
@@ -2066,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCC — Lenzerheide
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260622
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1e16cd16209540c5d30e6ef0@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: SUI\nDisciplina: Mount
@@ -2080,7 +2080,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  iciale della manifestazione.\nFonte ufficiale: https://www.uci.org/competi
  tion-details/2026/MTB/77083\nFonte TV: https://www.eurosport.it/watch/moun
  tain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lenzerheide
 URL:https://www.uci.org/competition-details/2026/MTB/77083
 BEGIN:VALARM
@@ -2093,7 +2093,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCO — Lenzerheide
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260622
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d2ab703de136c1e33782ba5a@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: SUI\nDisciplina: Mount
@@ -2107,7 +2107,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  fficiale della manifestazione.\nFonte ufficiale: https://www.uci.org/compe
  tition-details/2026/MTB/77083\nFonte TV: https://www.eurosport.it/watch/mo
  untain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lenzerheide
 URL:https://www.uci.org/competition-details/2026/MTB/77083
 BEGIN:VALARM
@@ -2120,7 +2120,7 @@ BEGIN:VEVENT
 SUMMARY:National Road Championships - Italy
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:76ea202d2d9f6a9f0bbaa596@cycling-calendar
 DESCRIPTION:Corsa: National Road Championships - Italy\nNazione: ITA\nCate
  goria: Campionato\nClasse UCI: CN\nCircuito: UCI Road International Calend
@@ -2130,7 +2130,7 @@ DESCRIPTION:Corsa: National Road Championships - Italy\nNazione: ITA\nCate
  on-details/2026/ROA/78509\nNote: Campionati italiani: programma maschile e
   orari da confermare.\nFonte ufficiale: https://www.uci.org/competition-de
  tails/2026/ROA/78509
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78509
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2142,7 +2142,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — XCE — Chies D'alpago Bl
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:bd8d117eb5cd2ca368854f75@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — XCE\nNome ufficiale: Italia
  n National Championships - XCE\nNazione: ITA\nDisciplina: Mountain bike\nS
@@ -2153,7 +2153,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — XCE\nNome ufficiale: Italia
  49\nNote: Gara maschile Elite. Giorno e orario specifici non ancora confer
  mati: è mostrato l'intervallo ufficiale della manifestazione.\nFonte uffi
  ciale: https://www.uci.org/competition-details/2026/MTB/77949
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Chies D'alpago Bl
 URL:https://www.uci.org/competition-details/2026/MTB/77949
 BEGIN:VALARM
@@ -2167,7 +2167,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — EDR — Val di Fassa - Trentino
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b14dd600b20911dd53d2358f@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – EDR\nNazione: ITA\nDisciplina: Mountain bike
@@ -2181,7 +2181,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  llo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org/
  competition-details/2026/MTB/77084\nFonte TV: https://www.eurosport.it/wat
  ch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Val di Fassa - Trentino
 URL:https://www.uci.org/competition-details/2026/MTB/77084
 BEGIN:VALARM
@@ -2195,7 +2195,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCE — Gdynia
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:45bcf7f2a7fed8d8620c82b8@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCE\nNome ufficiale: UC
  I MTB Eliminator World Cup powered by citymountainbike.com - XCE\nNazione:
@@ -2209,7 +2209,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCE\nNome ufficiale: UC
  ciale della manifestazione.\nFonte ufficiale: https://www.uci.org/competit
  ion-details/2026/MTB/77283\nFonte TV: https://www.eurosport.it/watch/mount
  ain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Gdynia
 URL:https://www.uci.org/competition-details/2026/MTB/77283
 BEGIN:VALARM
@@ -2222,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — DHI — La Thuile - Valle d'Aosta
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ec58e616ccd5967e97d59cda@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: ITA\nDisciplina: M
@@ -2236,7 +2236,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  rato l'intervallo ufficiale della manifestazione.\nFonte ufficiale: https:
  //www.uci.org/competition-details/2026/MTB/77085\nFonte TV: https://www.eu
  rosport.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:La Thuile - Valle d'Aosta
 URL:https://www.uci.org/competition-details/2026/MTB/77085
 BEGIN:VALARM
@@ -2250,7 +2250,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — EDR — La Thuile - Valle d'Aosta
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:954ab8d17ccbfdfd21b1ff6c@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: ITA\nDisciplina: M
@@ -2264,7 +2264,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  llo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org/
  competition-details/2026/MTB/77085\nFonte TV: https://www.eurosport.it/wat
  ch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:La Thuile - Valle d'Aosta
 URL:https://www.uci.org/competition-details/2026/MTB/77085
 BEGIN:VALARM
@@ -2278,7 +2278,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCC — La Thuile - Valle d'Aosta
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c7a1fb38434a216de5b7fcb5@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: ITA\nDisciplina: M
@@ -2292,7 +2292,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  rvallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.o
  rg/competition-details/2026/MTB/77085\nFonte TV: https://www.eurosport.it/
  watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:La Thuile - Valle d'Aosta
 URL:https://www.uci.org/competition-details/2026/MTB/77085
 BEGIN:VALARM
@@ -2306,7 +2306,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCO — La Thuile - Valle d'Aosta
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b37986e6b0acb2864a9f5b97@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI/EDR\nNazione: ITA\nDisciplina: M
@@ -2320,7 +2320,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  intervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.u
  ci.org/competition-details/2026/MTB/77085\nFonte TV: https://www.eurosport
  .it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:La Thuile - Valle d'Aosta
 URL:https://www.uci.org/competition-details/2026/MTB/77085
 BEGIN:VALARM
@@ -2334,7 +2334,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 1: Barcelone → Barcelone
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:de5d303eaf82dfc2c5765a91@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 1 — Barcelone → Barcelone\nP
  artenza: Barcelone\nArrivo: Barcelone\nNazione: Francia\nDistanza: 19.6 km
@@ -2350,7 +2350,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 1 — Barcelone → Barcelone\nP
  \nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france/2026/eurospor
  t-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discov
  ery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Barcelone → Barcelone
 URL:https://www.letour.fr/en/stage-1
 BEGIN:VALARM
@@ -2363,7 +2363,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 2: Tarragone → Barcelone
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:047d198186f2e1c96c3015c0@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 2 — Tarragone → Barcelone\nP
  artenza: Tarragone\nArrivo: Barcelone\nNazione: Francia\nDistanza: 168.5 k
@@ -2379,7 +2379,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 2 — Tarragone → Barcelone\nP
  /en/stage-2\nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france/20
  26/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-m
  ax-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Tarragone → Barcelone
 URL:https://www.letour.fr/en/stage-2
 BEGIN:VALARM
@@ -2392,7 +2392,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 3: Granollers → Les Angles
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:41153d671098e0468d8dd80d@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 3 — Granollers → Les Angles\
  nPartenza: Granollers\nArrivo: Les Angles\nNazione: Francia\nDistanza: 195
@@ -2408,7 +2408,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 3 — Granollers → Les Angles\
  //www.letour.fr/en/stage-3\nFonte TV: https://www.eurosport.it/ciclismo/to
  ur-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-int
  egrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Granollers → Les Angles
 URL:https://www.letour.fr/en/stage-3
 BEGIN:VALARM
@@ -2422,7 +2422,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 4: Carcassonne → Foix
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:dd6b6fea894903f79b68f3c4@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 4 — Carcassonne → Foix\nPart
  enza: Carcassonne\nArrivo: Foix\nNazione: Francia\nDistanza: 181.9 km\nTip
@@ -2438,7 +2438,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 4 — Carcassonne → Foix\nPart
  TV: https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presen
  ta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto2
  3315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Carcassonne → Foix
 URL:https://www.letour.fr/en/stage-4
 BEGIN:VALARM
@@ -2451,7 +2451,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 5: Lannemezan → Pau
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1d62f9970ff84a7542c1900c@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 5 — Lannemezan → Pau\nParten
  za: Lannemezan\nArrivo: Pau\nNazione: Francia\nDistanza: 158.3 km\nTipolog
@@ -2466,7 +2466,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 5 — Lannemezan → Pau\nParten
  te ufficiale: https://www.letour.fr/en/stage-5\nFonte TV: https://www.euro
  sport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france
  -2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lannemezan → Pau
 URL:https://www.letour.fr/en/stage-5
 BEGIN:VALARM
@@ -2479,7 +2479,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 6: Pau → Gavarnie-Gèdre
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ed7694a788074e889a725bef@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 6 — Pau → Gavarnie-Gèdre\nP
  artenza: Pau\nArrivo: Gavarnie-Gèdre\nNazione: Francia\nDistanza: 186.2 k
@@ -2495,7 +2495,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 6 — Pau → Gavarnie-Gèdre\nP
  ://www.letour.fr/en/stage-6\nFonte TV: https://www.eurosport.it/ciclismo/t
  our-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-in
  tegrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Pau → Gavarnie-Gèdre
 URL:https://www.letour.fr/en/stage-6
 BEGIN:VALARM
@@ -2508,7 +2508,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 7: Hagetmau → Bordeaux
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:8acc9c3b87a6f42dffd7312a@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 7 — Hagetmau → Bordeaux\nPar
  tenza: Hagetmau\nArrivo: Bordeaux\nNazione: Francia\nDistanza: 175.1 km\nT
@@ -2524,7 +2524,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 7 — Hagetmau → Bordeaux\nPar
  r.fr/en/stage-7\nFonte TV: https://www.eurosport.it/ciclismo/tour-de-franc
  e/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-h
  bo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Hagetmau → Bordeaux
 URL:https://www.letour.fr/en/stage-7
 BEGIN:VALARM
@@ -2537,7 +2537,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — DHI — Pal Arinsal
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:47bdda8d8c46b04ee6a6a27d@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: AND\nDisciplina: Mount
@@ -2551,7 +2551,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
   l'intervallo ufficiale della manifestazione.\nFonte ufficiale: https://ww
  w.uci.org/competition-details/2026/MTB/77086\nFonte TV: https://www.eurosp
  ort.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Pal Arinsal
 URL:https://www.uci.org/competition-details/2026/MTB/77086
 BEGIN:VALARM
@@ -2564,7 +2564,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCC — Pal Arinsal
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:32a7b565447d4559576059c7@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: AND\nDisciplina: Mount
@@ -2578,7 +2578,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  allo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.org
  /competition-details/2026/MTB/77086\nFonte TV: https://www.eurosport.it/wa
  tch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Pal Arinsal
 URL:https://www.uci.org/competition-details/2026/MTB/77086
 BEGIN:VALARM
@@ -2591,7 +2591,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCO — Pal Arinsal
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c3adcd3642aba24ddcacf954@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: AND\nDisciplina: Mount
@@ -2605,7 +2605,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  ntervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uc
  i.org/competition-details/2026/MTB/77086\nFonte TV: https://www.eurosport.
  it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Pal Arinsal
 URL:https://www.uci.org/competition-details/2026/MTB/77086
 BEGIN:VALARM
@@ -2618,7 +2618,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 8: Périgueux → Bergerac
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:118a647ba41111bdd9c58360@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 8 — Périgueux → Bergerac\nP
  artenza: Périgueux\nArrivo: Bergerac\nNazione: Francia\nDistanza: 180.4 k
@@ -2634,7 +2634,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 8 — Périgueux → Bergerac\nP
  en/stage-8\nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france/202
  6/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-ma
  x-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Périgueux → Bergerac
 URL:https://www.letour.fr/en/stage-8
 BEGIN:VALARM
@@ -2647,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCE — Aalen
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:5d6395dfea49c27170beca62@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCE\nNome ufficiale: UC
  I MTB Eliminator World Cup powered by citymountainbike.com - XCE\nNazione:
@@ -2661,7 +2661,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCE\nNome ufficiale: UC
  la manifestazione.\nFonte ufficiale: https://www.uci.org/competition-detai
  ls/2026/MTB/77286\nFonte TV: https://www.eurosport.it/watch/mountain-bike/
  uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Aalen
 URL:https://www.uci.org/competition-details/2026/MTB/77286
 BEGIN:VALARM
@@ -2675,7 +2675,7 @@ SUMMARY:UEC Mountain Bike European Championships — XCM — Ramales de la
   Victoria
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b8f4dfa2004155156c410b73@cycling-calendar
 DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCM\nNome 
  ufficiale: UEC Mountainbike European Continental Championships - XCM\nNazi
@@ -2688,7 +2688,7 @@ DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCM\nNome
  ici non ancora confermati: è mostrato l'intervallo ufficiale della manife
  stazione.\nFonte ufficiale: https://www.uci.org/competition-details/2026/M
  TB/77021
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Ramales de la Victoria
 URL:https://www.uci.org/competition-details/2026/MTB/77021
 BEGIN:VALARM
@@ -2702,7 +2702,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 9: Malemort → Ussel
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:06216de5d060f0a82298f6da@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 9 — Malemort → Ussel\nParten
  za: Malemort\nArrivo: Ussel\nNazione: Francia\nDistanza: 154.6 km\nTipolog
@@ -2718,7 +2718,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 9 — Malemort → Ussel\nParten
  s://www.letour.fr/en/stage-9\nFonte TV: https://www.eurosport.it/ciclismo/
  tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-i
  ntegrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Malemort → Ussel
 URL:https://www.letour.fr/en/stage-9
 BEGIN:VALARM
@@ -2731,7 +2731,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 10: Aurillac → Le Lioran
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6a04962af3f6f41f1cb2821a@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 10 — Aurillac → Le Lioran\nP
  artenza: Aurillac\nArrivo: Le Lioran\nNazione: Francia\nDistanza: 166.6 km
@@ -2747,7 +2747,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 10 — Aurillac → Le Lioran\nP
   TV: https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-prese
  nta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto
  23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Aurillac → Le Lioran
 URL:https://www.letour.fr/en/stage-10
 BEGIN:VALARM
@@ -2760,7 +2760,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 11: Vichy → Nevers
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:005c6e95bb98c03c27d670d2@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 11 — Vichy → Nevers\nPartenz
  a: Vichy\nArrivo: Nevers\nNazione: Francia\nDistanza: 161.3 km\nTipologia:
@@ -2776,7 +2776,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 11 — Vichy → Nevers\nPartenz
  -11\nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france/2026/euros
  port-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-dis
  covery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Vichy → Nevers
 URL:https://www.letour.fr/en/stage-11
 BEGIN:VALARM
@@ -2790,7 +2790,7 @@ SUMMARY:Tour de France — Tappa 12: Circuit Nevers Magny-Cours → Chalon
  -sur-Saône
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:7d1d99eca8d6e512e33557a9@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 12 — Circuit Nevers Magny-Cour
  s → Chalon-sur-Saône\nPartenza: Circuit Nevers Magny-Cours\nArrivo: Cha
@@ -2807,7 +2807,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 12 — Circuit Nevers Magny-Cour
  ps://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-t
  our-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058
  /story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Circuit Nevers Magny-Cours → Chalon-sur-Saône
 URL:https://www.letour.fr/en/stage-12
 BEGIN:VALARM
@@ -2821,7 +2821,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 13: Dole → Belfort
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:68b6f96d057b334a6c9cd6f4@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 13 — Dole → Belfort\nPartenz
  a: Dole\nArrivo: Belfort\nNazione: Francia\nDistanza: 205.8 km\nTipologia:
@@ -2837,7 +2837,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 13 — Dole → Belfort\nPartenz
  stage-13\nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france/2026/
  eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-
  e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Dole → Belfort
 URL:https://www.letour.fr/en/stage-13
 BEGIN:VALARM
@@ -2851,7 +2851,7 @@ SUMMARY:UCI Mountain Bike World Cup — EDR — Aletsch Arena - Bellwald\,
   Valais
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6e1c0716acd4db230a6aef4a@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – EDR\nNazione: SUI\nDisciplina: Mountain bike
@@ -2865,7 +2865,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  e della manifestazione.\nFonte ufficiale: https://www.uci.org/competition-
  details/2026/MTB/77095\nFonte TV: https://www.eurosport.it/watch/mountain-
  bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Aletsch Arena - Bellwald\, Valais
 URL:https://www.uci.org/competition-details/2026/MTB/77095
 BEGIN:VALARM
@@ -2879,7 +2879,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — E-XC — Nervesa della battaglia Tv
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c496f36961ba14c21bebd037@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — E-XC\nNome ufficiale: Itali
  an National Championships - XCO/E-XC\nNazione: ITA\nDisciplina: Mountain b
@@ -2891,7 +2891,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — E-XC\nNome ufficiale: Itali
   maschile Elite. Giorno e orario specifici non ancora confermati: è mostr
  ato l'intervallo ufficiale della manifestazione.\nFonte ufficiale: https:/
  /www.uci.org/competition-details/2026/MTB/79313
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Nervesa della battaglia Tv
 URL:https://www.uci.org/competition-details/2026/MTB/79313
 BEGIN:VALARM
@@ -2905,7 +2905,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — XCO — Nervesa della battaglia Tv
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:126562b2bec8eb2db833f075@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — XCO\nNome ufficiale: Italia
  n National Championships - XCO/E-XC\nNazione: ITA\nDisciplina: Mountain bi
@@ -2917,7 +2917,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — XCO\nNome ufficiale: Italia
  maschile Elite. Giorno e orario specifici non ancora confermati: è mostra
  to l'intervallo ufficiale della manifestazione.\nFonte ufficiale: https://
  www.uci.org/competition-details/2026/MTB/79313
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Nervesa della battaglia Tv
 URL:https://www.uci.org/competition-details/2026/MTB/79313
 BEGIN:VALARM
@@ -2931,7 +2931,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — DHI — Priali To
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:b1173512d05e06bfd375ad3b@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — DHI\nNome ufficiale: Italia
  n National Championships - DHI\nNazione: ITA\nDisciplina: Mountain bike\nS
@@ -2943,7 +2943,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — DHI\nNome ufficiale: Italia
  Elite. Giorno e orario specifici non ancora confermati: è mostrato l'inte
  rvallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.o
  rg/competition-details/2026/MTB/77950
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Priali To
 URL:https://www.uci.org/competition-details/2026/MTB/77950
 BEGIN:VALARM
@@ -2956,7 +2956,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 14: Mulhouse → Le Markstein Fellering
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:16761e97f1f796737719ce79@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 14 — Mulhouse → Le Markstein
   Fellering\nPartenza: Mulhouse\nArrivo: Le Markstein Fellering\nNazione: F
@@ -2972,7 +2972,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 14 — Mulhouse → Le Markstein
  www.letour.fr/en/stage-14\nFonte TV: https://www.eurosport.it/ciclismo/tou
  r-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-inte
  grale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Mulhouse → Le Markstein Fellering
 URL:https://www.letour.fr/en/stage-14
 BEGIN:VALARM
@@ -2986,7 +2986,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 15: Champagnole → Plateau de Solaison
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:747d75ae152a078c02f8b817@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 15 — Champagnole → Plateau d
  e Solaison\nPartenza: Champagnole\nArrivo: Plateau de Solaison\nNazione: F
@@ -3002,7 +3002,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 15 — Champagnole → Plateau d
  e: https://www.letour.fr/en/stage-15\nFonte TV: https://www.eurosport.it/c
  iclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-d
  iretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Champagnole → Plateau de Solaison
 URL:https://www.letour.fr/en/stage-15
 BEGIN:VALARM
@@ -3016,7 +3016,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 16: Évian-les-Bains → Thonon-les-Bains
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:66dedcb9d5adcd035c015c7b@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 16 — Évian-les-Bains → Thon
  on-les-Bains\nPartenza: Évian-les-Bains\nArrivo: Thonon-les-Bains\nNazion
@@ -3033,7 +3033,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 16 — Évian-les-Bains → Thon
  rosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-fran
  ce-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtm
  l
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Évian-les-Bains → Thonon-les-Bains
 URL:https://www.letour.fr/en/stage-16
 BEGIN:VALARM
@@ -3047,7 +3047,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 17: Chambery → Voiron
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:750339b5d235e3fcc5f85e21@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 17 — Chambery → Voiron\nPart
  enza: Chambery\nArrivo: Voiron\nNazione: Francia\nDistanza: 174.7 km\nTipo
@@ -3063,7 +3063,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 17 — Chambery → Voiron\nPart
  \nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france/2026/eurospor
  t-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discov
  ery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Chambery → Voiron
 URL:https://www.letour.fr/en/stage-17
 BEGIN:VALARM
@@ -3076,7 +3076,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 18: Voiron → Orcières-Merlette
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:17159e535e6f91fd1906e423@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 18 — Voiron → Orcières-Merl
  ette\nPartenza: Voiron\nArrivo: Orcières-Merlette\nNazione: Francia\nDist
@@ -3092,7 +3092,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 18 — Voiron → Orcières-Merl
  //www.letour.fr/en/stage-18\nFonte TV: https://www.eurosport.it/ciclismo/t
  our-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-in
  tegrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Voiron → Orcières-Merlette
 URL:https://www.letour.fr/en/stage-18
 BEGIN:VALARM
@@ -3106,7 +3106,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 19: Gap → Alpe d'Huez
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4365272e5f75f74e968f2744@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 19 — Gap → Alpe d'Huez\nPart
  enza: Gap\nArrivo: Alpe d'Huez\nNazione: Francia\nDistanza: 127.9 km\nTipo
@@ -3122,7 +3122,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 19 — Gap → Alpe d'Huez\nPart
  fr/en/stage-19\nFonte TV: https://www.eurosport.it/ciclismo/tour-de-france
  /2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hb
  o-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Gap → Alpe d'Huez
 URL:https://www.letour.fr/en/stage-19
 BEGIN:VALARM
@@ -3135,7 +3135,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 20: Le Bourg d'Oisans → Alpe d'Huez
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:09b7966dfcde41b70ad37416@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 20 — Le Bourg d'Oisans → Alp
  e d'Huez\nPartenza: Le Bourg d'Oisans\nArrivo: Alpe d'Huez\nNazione: Franc
@@ -3151,7 +3151,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 20 — Le Bourg d'Oisans → Alp
  tps://www.letour.fr/en/stage-20\nFonte TV: https://www.eurosport.it/ciclis
  mo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-dirett
  a-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Le Bourg d'Oisans → Alpe d'Huez
 URL:https://www.letour.fr/en/stage-20
 BEGIN:VALARM
@@ -3165,7 +3165,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France — Tappa 21: Thoiry → Paris Champs-Élysées
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:5334ae147299eb7611c56203@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nTappa: 21 — Thoiry → Paris Champs-
  Élysées\nPartenza: Thoiry\nArrivo: Paris Champs-Élysées\nNazione: Fran
@@ -3181,7 +3181,7 @@ DESCRIPTION:Corsa: Tour de France\nTappa: 21 — Thoiry → Paris Champs-
  iale: https://www.letour.fr/en/stage-21\nFonte TV: https://www.eurosport.i
  t/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-i
  n-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Thoiry → Paris Champs-Élysées
 URL:https://www.letour.fr/en/stage-21
 BEGIN:VALARM
@@ -3195,7 +3195,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCM — Kirchzarten
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:14dd660541b50d2f9c927a1b@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  RO UCI Cross-country Marathon World Cup\nNazione: GER\nDisciplina: Mountai
@@ -3209,7 +3209,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  ervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uci.
  org/competition-details/2026/MTB/77076\nFonte TV: https://www.eurosport.it
  /watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Kirchzarten
 URL:https://www.uci.org/competition-details/2026/MTB/77076
 BEGIN:VALARM
@@ -3222,7 +3222,7 @@ BEGIN:VEVENT
 SUMMARY:UEC Mountain Bike European Championships — XCC — Monteceneri
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:57631cfa3f8dd58b0fa499f0@cycling-calendar
 DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCC\nNome 
  ufficiale: UEC Mountainbike European Continental Championships - XCO/XCC/X
@@ -3234,7 +3234,7 @@ DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCC\nNome
  MTB/76229\nNote: Gara maschile Elite. Giorno e orario specifici non ancora
   confermati: è mostrato l'intervallo ufficiale della manifestazione.\nFon
  te ufficiale: https://www.uci.org/competition-details/2026/MTB/76229
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Monteceneri
 URL:https://www.uci.org/competition-details/2026/MTB/76229
 BEGIN:VALARM
@@ -3248,7 +3248,7 @@ BEGIN:VEVENT
 SUMMARY:UEC Mountain Bike European Championships — XCO — Monteceneri
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:2e02c73c87ab8e599b07b4e7@cycling-calendar
 DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCO\nNome 
  ufficiale: UEC Mountainbike European Continental Championships - XCO/XCC/X
@@ -3260,7 +3260,7 @@ DESCRIPTION:Corsa: UEC Mountain Bike European Championships — XCO\nNome
  /2026/MTB/76229\nNote: Gara maschile Elite. Giorno e orario specifici non 
  ancora confermati: è mostrato l'intervallo ufficiale della manifestazione
  .\nFonte ufficiale: https://www.uci.org/competition-details/2026/MTB/76229
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Monteceneri
 URL:https://www.uci.org/competition-details/2026/MTB/76229
 BEGIN:VALARM
@@ -3274,7 +3274,7 @@ BEGIN:VEVENT
 SUMMARY:DSSK (Donostia San Sebastian Klasikoa)
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a980701d0b5117ec2a970283@cycling-calendar
 DESCRIPTION:Corsa: DSSK (Donostia San Sebastian Klasikoa)\nNazione: ESP\nC
  ategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove 
@@ -3285,7 +3285,7 @@ DESCRIPTION:Corsa: DSSK (Donostia San Sebastian Klasikoa)\nNazione: ESP\nC
  OA/76936\nNote: Orari e dettagli del percorso non ancora confermati dalla 
  fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/
  2026/ROA/76936
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76936
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3297,7 +3297,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Pologne
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c539eb5c02813ca3fb80beab@cycling-calendar
 DESCRIPTION:Corsa: Tour de Pologne\nNazione: POL\nCategoria: UCI WorldTour
  \nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -3307,7 +3307,7 @@ DESCRIPTION:Corsa: Tour de Pologne\nNazione: POL\nCategoria: UCI WorldTour
  ultati: https://www.uci.org/competition-details/2026/ROA/76938\nNote: Orar
  i e dettagli del percorso non ancora confermati dalla fonte primaria.\nFon
  te ufficiale: https://www.uci.org/competition-details/2026/ROA/76938
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76938
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3319,7 +3319,7 @@ BEGIN:VEVENT
 SUMMARY:Vuelta a Burgos
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:2340357957bfca720d5e6934@cycling-calendar
 DESCRIPTION:Corsa: Vuelta a Burgos\nNazione: ESP\nCategoria: UCI ProSeries
  \nClasse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da c
@@ -3328,7 +3328,7 @@ DESCRIPTION:Corsa: Vuelta a Burgos\nNazione: ESP\nCategoria: UCI ProSeries
  ww.uci.org/competition-details/2026/ROA/78326\nNote: Orari e dettagli del 
  percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: htt
  ps://www.uci.org/competition-details/2026/ROA/78326
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78326
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3340,7 +3340,7 @@ BEGIN:VEVENT
 SUMMARY:Arctic Race of Norway
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a6a7d56050e8f8c85168c052@cycling-calendar
 DESCRIPTION:Corsa: Arctic Race of Norway\nNazione: NOR\nCategoria: UCI Pro
  Series\nClasse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia
@@ -3350,7 +3350,7 @@ DESCRIPTION:Corsa: Arctic Race of Norway\nNazione: NOR\nCategoria: UCI Pro
  OA/78339\nNote: Orari e dettagli del percorso non ancora confermati dalla 
  fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/
  2026/ROA/78339
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78339
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3362,7 +3362,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — EDR — Haute-Savoie
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:38fbb58c7fc9ca759e20f6e2@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – EDR\nNazione: FRA\nDisciplina: Mountain bike
@@ -3376,7 +3376,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — EDR\nNome ufficiale: UC
  fficiale della manifestazione.\nFonte ufficiale: https://www.uci.org/compe
  tition-details/2026/MTB/77092\nFonte TV: https://www.eurosport.it/watch/mo
  untain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Haute-Savoie
 URL:https://www.uci.org/competition-details/2026/MTB/77092
 BEGIN:VALARM
@@ -3391,7 +3391,7 @@ SUMMARY:UEC Mountain Bike European Championships — DHI — Vitosha Mount
  ain - Sofia
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c4c3425c1673888c60eaa8c6@cycling-calendar
 DESCRIPTION:Corsa: UEC Mountain Bike European Championships — DHI\nNome 
  ufficiale: UEC Mountainbike European Continental Championships - DHI\nNazi
@@ -3403,7 +3403,7 @@ DESCRIPTION:Corsa: UEC Mountain Bike European Championships — DHI\nNome
  TB/78951\nNote: Gara maschile Elite. Giorno e orario specifici non ancora 
  confermati: è mostrato l'intervallo ufficiale della manifestazione.\nFont
  e ufficiale: https://www.uci.org/competition-details/2026/MTB/78951
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Vitosha Mountain - Sofia
 URL:https://www.uci.org/competition-details/2026/MTB/78951
 BEGIN:VALARM
@@ -3417,7 +3417,7 @@ BEGIN:VEVENT
 SUMMARY:ADAC Cyclassics
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:84c5faafcafa733791fdc99b@cycling-calendar
 DESCRIPTION:Corsa: ADAC Cyclassics\nNazione: GER\nCategoria: UCI WorldTour
  \nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -3427,7 +3427,7 @@ DESCRIPTION:Corsa: ADAC Cyclassics\nNazione: GER\nCategoria: UCI WorldTour
  //www.uci.org/competition-details/2026/ROA/76939\nNote: Orari e dettagli d
  el percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: 
  https://www.uci.org/competition-details/2026/ROA/76939
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76939
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3439,7 +3439,7 @@ BEGIN:VEVENT
 SUMMARY:Renewi Tour
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:fae5bcdeb7dd1afa9e1b03b1@cycling-calendar
 DESCRIPTION:Corsa: Renewi Tour\nNazione: BEL\nCategoria: UCI WorldTour\nCl
  asse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurospor
@@ -3449,7 +3449,7 @@ DESCRIPTION:Corsa: Renewi Tour\nNazione: BEL\nCategoria: UCI WorldTour\nCl
  uci.org/competition-details/2026/ROA/76940\nNote: Orari e dettagli del per
  corso non ancora confermati dalla fonte primaria.\nFonte ufficiale: https:
  //www.uci.org/competition-details/2026/ROA/76940
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76940
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3461,7 +3461,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — DHI — Haute-Savoie
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:7894bd2ed4333622672b7a13@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: FRA\nDisciplina: Mount
@@ -3475,7 +3475,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  ntervallo ufficiale della manifestazione.\nFonte ufficiale: https://www.uc
  i.org/competition-details/2026/MTB/77087\nFonte TV: https://www.eurosport.
  it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Haute-Savoie
 URL:https://www.uci.org/competition-details/2026/MTB/77087
 BEGIN:VALARM
@@ -3489,7 +3489,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCC — Haute-Savoie
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4d25fa731f83fcdd431602b6@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: FRA\nDisciplina: Mount
@@ -3503,7 +3503,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  ciale della manifestazione.\nFonte ufficiale: https://www.uci.org/competit
  ion-details/2026/MTB/77087\nFonte TV: https://www.eurosport.it/watch/mount
  ain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Haute-Savoie
 URL:https://www.uci.org/competition-details/2026/MTB/77087
 BEGIN:VALARM
@@ -3517,7 +3517,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCO — Haute-Savoie
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:f4fa5a7806db2b450835315d@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: FRA\nDisciplina: Mount
@@ -3531,7 +3531,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  strato l'intervallo ufficiale della manifestazione.\nFonte ufficiale: http
  s://www.uci.org/competition-details/2026/MTB/77087\nFonte TV: https://www.
  eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Haute-Savoie
 URL:https://www.uci.org/competition-details/2026/MTB/77087
 BEGIN:VALARM
@@ -3545,7 +3545,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 1: Monaco → Monaco
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e7cdd2a563a0a8ed3407bb90@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 1 — Monaco → Monaco\nPa
  rtenza: Monaco\nArrivo: Monaco\nNazione: Spagna\nDistanza: 9.4 km\nTipolog
@@ -3560,7 +3560,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 1 — Monaco → Monaco\nPa
  to come giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/stag
  e-1\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estate-
  su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Monaco → Monaco
 URL:https://www.lavuelta.es/en/stage-1
 BEGIN:VALARM
@@ -3573,7 +3573,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 2: Monaco → Manosque
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1a64885b98ab16d7835d56ee@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 2 — Monaco → Manosque\n
  Partenza: Monaco\nArrivo: Manosque\nNazione: Spagna\nDistanza: 214.3 km\nT
@@ -3588,7 +3588,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 2 — Monaco → Manosque\n
  cato come giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/st
  age-2\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estat
  e-su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Monaco → Manosque
 URL:https://www.lavuelta.es/en/stage-2
 BEGIN:VALARM
@@ -3602,7 +3602,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 3: Gruissan - Aude → Font Romeu
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6925110ee403fdf914b94544@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 3 — Gruissan - Aude → F
  ont Romeu\nPartenza: Gruissan - Aude\nArrivo: Font Romeu\nNazione: Spagna\
@@ -3616,7 +3616,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 3 — Gruissan - Aude → F
  iale: https://www.lavuelta.es/en/stage-3\nFonte TV: https://www.eurosport.
  it/tutti-gli-sport/una-grande-estate-su-eurosport-dove-guardare-tutti-gli-
  eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Gruissan - Aude → Font Romeu
 URL:https://www.lavuelta.es/en/stage-3
 BEGIN:VALARM
@@ -3631,7 +3631,7 @@ SUMMARY:La Vuelta a España — Tappa 4: Andorra la Vella → Andorra la V
  ella
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:eb728762d42c1d762879d893@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 4 — Andorra la Vella → 
  Andorra la Vella\nPartenza: Andorra la Vella\nArrivo: Andorra la Vella\nNa
@@ -3647,7 +3647,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 4 — Andorra la Vella →
  .lavuelta.es/en/stage-4\nFonte TV: https://www.eurosport.it/tutti-gli-spor
  t/una-grande-estate-su-eurosport-dove-guardare-tutti-gli-eventi_sto2319722
  3/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Andorra la Vella → Andorra la Vella
 URL:https://www.lavuelta.es/en/stage-4
 BEGIN:VALARM
@@ -3661,7 +3661,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — DHI — Val di Sole
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:db675b22deb3f4f9e84059fe@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — DHI\nNome uff
  iciale: UCI MTB WORLD CHAMPIONSHIPS - XCO/XCR/XCC/E-XC/DHI\nNazione: ITA\n
@@ -3676,7 +3676,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — DHI\nNome uff
  Fonte ufficiale: https://www.uci.org/competition-details/2026/MTB/74366\nF
  onte TV: https://www.uci.org/pressrelease/where-to-watch-the-uci-mountain-
  bike-world-championships/5bA7imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Val di Sole
 URL:https://www.uci.org/competition-details/2026/MTB/74366
 BEGIN:VALARM
@@ -3690,7 +3690,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — E-XC — Val di Sole
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c28fe84db268fbf096b94e17@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — E-XC\nNome uf
  ficiale: UCI MTB WORLD CHAMPIONSHIPS - XCO/XCR/XCC/E-XC/DHI\nNazione: ITA\
@@ -3705,7 +3705,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — E-XC\nNome uf
  uci.org/competition-details/2026/MTB/74366\nFonte TV: https://www.uci.org/
  pressrelease/where-to-watch-the-uci-mountain-bike-world-championships/5bA7
  imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Val di Sole
 URL:https://www.uci.org/competition-details/2026/MTB/74366
 BEGIN:VALARM
@@ -3719,7 +3719,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — XCC — Val di Sole
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:9fe252af14f2dc48d2b49321@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — XCC\nNome uff
  iciale: UCI MTB WORLD CHAMPIONSHIPS - XCO/XCR/XCC/E-XC/DHI\nNazione: ITA\n
@@ -3734,7 +3734,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — XCC\nNome uff
  le: https://www.uci.org/competition-details/2026/MTB/74366\nFonte TV: http
  s://www.uci.org/pressrelease/where-to-watch-the-uci-mountain-bike-world-ch
  ampionships/5bA7imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Val di Sole
 URL:https://www.uci.org/competition-details/2026/MTB/74366
 BEGIN:VALARM
@@ -3748,7 +3748,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — XCO — Val di Sole
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:3f5c152288c8ecc64847f1a4@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — XCO\nNome uff
  iciale: UCI MTB WORLD CHAMPIONSHIPS - XCO/XCR/XCC/E-XC/DHI\nNazione: ITA\n
@@ -3763,7 +3763,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — XCO\nNome uff
  uci.org/competition-details/2026/MTB/74366\nFonte TV: https://www.uci.org/
  pressrelease/where-to-watch-the-uci-mountain-bike-world-championships/5bA7
  imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Val di Sole
 URL:https://www.uci.org/competition-details/2026/MTB/74366
 BEGIN:VALARM
@@ -3778,7 +3778,7 @@ SUMMARY:La Vuelta a España — Tappa 5: Falset . Costa Daurada → Roquet
  es. Terres de l'Ebre
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c60dd62075dbbdb6e93091f7@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 5 — Falset . Costa Daurad
  a → Roquetes. Terres de l'Ebre\nPartenza: Falset . Costa Daurada\nArrivo
@@ -3794,7 +3794,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 5 — Falset . Costa Daurad
  licato come giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/
  stage-5\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-est
  ate-su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Falset . Costa Daurada → Roquetes. Terres de l'Ebre
 URL:https://www.lavuelta.es/en/stage-5
 BEGIN:VALARM
@@ -3808,7 +3808,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 6: Alcossebre → Castelló
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:743df44c497aef5bbb553c67@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 6 — Alcossebre → Castel
  ló\nPartenza: Alcossebre\nArrivo: Castelló\nNazione: Spagna\nDistanza: 1
@@ -3823,7 +3823,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 6 — Alcossebre → Castel
  blicato come giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en
  /stage-6\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-es
  tate-su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Alcossebre → Castelló
 URL:https://www.lavuelta.es/en/stage-6
 BEGIN:VALARM
@@ -3838,7 +3838,7 @@ SUMMARY:La Vuelta a España — Tappa 7: vall d'Alba → Aramón Valdelina
  res
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:92ac09496e559b1439a8d75d@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 7 — vall d'Alba → Aram
  ón Valdelinares\nPartenza: vall d'Alba\nArrivo: Aramón Valdelinares\nNaz
@@ -3854,7 +3854,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 7 — vall d'Alba → Aram
   https://www.lavuelta.es/en/stage-7\nFonte TV: https://www.eurosport.it/tu
  tti-gli-sport/una-grande-estate-su-eurosport-dove-guardare-tutti-gli-event
  i_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:vall d'Alba → Aramón Valdelinares
 URL:https://www.lavuelta.es/en/stage-7
 BEGIN:VALARM
@@ -3868,7 +3868,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 8: Puçol → Xeraco
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1f379aeb30b69b79d647a77a@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 8 — Puçol → Xeraco\nPa
  rtenza: Puçol\nArrivo: Xeraco\nNazione: Spagna\nDistanza: 171 km\nTipolog
@@ -3883,7 +3883,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 8 — Puçol → Xeraco\nPa
  a intera.\nFonte ufficiale: https://www.lavuelta.es/en/stage-8\nFonte TV: 
  https://www.eurosport.it/tutti-gli-sport/una-grande-estate-su-eurosport-do
  ve-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Puçol → Xeraco
 URL:https://www.lavuelta.es/en/stage-8
 BEGIN:VALARM
@@ -3896,7 +3896,7 @@ BEGIN:VEVENT
 SUMMARY:Bretagne Classic - CIC
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:31dca8504508444290898bb7@cycling-calendar
 DESCRIPTION:Corsa: Bretagne Classic - CIC\nNazione: FRA\nCategoria: UCI Wo
  rldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -3906,7 +3906,7 @@ DESCRIPTION:Corsa: Bretagne Classic - CIC\nNazione: FRA\nCategoria: UCI Wo
  ww.uci.org/competition-details/2026/ROA/76944\nNote: Orari e dettagli del 
  percorso non ancora confermati dalla fonte primaria.\nFonte ufficiale: htt
  ps://www.uci.org/competition-details/2026/ROA/76944
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76944
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3919,7 +3919,7 @@ SUMMARY:La Vuelta a España — Tappa 9: La Vila Joiosa/ Villajoyosa → A
  lto de Aitana.Costa Blanca
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c4ffa94149107092e476f219@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 9 — La Vila Joiosa/ Villa
  joyosa → Alto de Aitana.Costa Blanca\nPartenza: La Vila Joiosa/ Villajoy
@@ -3935,7 +3935,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 9 — La Vila Joiosa/ Villa
  e giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/stage-9\nF
  onte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estate-su-eur
  osport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:La Vila Joiosa/ Villajoyosa → Alto de Aitana.Costa Blanca
 URL:https://www.lavuelta.es/en/stage-9
 BEGIN:VALARM
@@ -3949,7 +3949,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 10: Alcaraz → Elche de la Sierra
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a6524a9d64bcbdda6ba4f6f1@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 10 — Alcaraz → Elche de
   la Sierra\nPartenza: Alcaraz\nArrivo: Elche de la Sierra\nNazione: Spagna
@@ -3965,7 +3965,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 10 — Alcaraz → Elche de
  avuelta.es/en/stage-10\nFonte TV: https://www.eurosport.it/tutti-gli-sport
  /una-grande-estate-su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223
  /story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Alcaraz → Elche de la Sierra
 URL:https://www.lavuelta.es/en/stage-10
 BEGIN:VALARM
@@ -3979,14 +3979,14 @@ BEGIN:VEVENT
 SUMMARY:Lloyds Tour of Britain Men
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:33bd319b74af8d8a5df7ec3f@cycling-calendar
 DESCRIPTION:Corsa: Lloyds Tour of Britain Men\nNazione: GBR\nCategoria: UC
  I ProSeries\nClasse UCI: 2.Pro\nCircuito: UCI ProSeries\nDove vederla in I
  talia: Da confermare\nNote: Orari e dettagli del percorso non ancora confe
  rmati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competit
  ion-details/2026/ROA/78379
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78379
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3998,7 +3998,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 11: Cartagena → Lorca
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d50e27be2850962a2ac14b13@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 11 — Cartagena → Lorca\
  nPartenza: Cartagena\nArrivo: Lorca\nNazione: Spagna\nDistanza: 153.8 km\n
@@ -4013,7 +4013,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 11 — Cartagena → Lorca\
  o come giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/stage
  -11\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estate-
  su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Cartagena → Lorca
 URL:https://www.lavuelta.es/en/stage-11
 BEGIN:VALARM
@@ -4027,18 +4027,22 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 12: Vera → Calar Alto
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:656a536ec89916f8fad13c04@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 12 — Vera → Calar Alto\
  nPartenza: Vera\nArrivo: Calar Alto\nNazione: Spagna\nDistanza: 166.6 km\n
  Tipologia: montagna\nCategoria: Grande Giro\nClasse UCI: 2.UWT\nCircuito: 
  UCI WorldTour\nDove vederla in Italia: Eurosport\; streaming HBO Max e dis
- covery+ (anche DAZN\, TIMVISION e Prime Video Channels)\nNote: Orario di p
- artenza e arrivo non confermato: evento pubblicato come giornata intera.\n
- Fonte ufficiale: https://www.lavuelta.es/en/stage-12\nFonte TV: https://ww
- w.eurosport.it/tutti-gli-sport/una-grande-estate-su-eurosport-dove-guardar
- e-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+ covery+ (anche DAZN\, TIMVISION e Prime Video Channels)\nPodio di tappa: 1
+ . Jakob OMRZEL — 4:29:53\; 2. Urko BERRADE FERNANDEZ — +1' 56''\; 3. S
+ antiago BUITRAGO SANCHEZ — +2' 13''\nTop 3 classifica generale: 1. Enric
+  MAS NICOLAU — 40:31:51\; 2. Primož ROGLIČ — +1' 45''\; 3. Felix GAL
+ L — +2' 06''\nFonte risultati: https://www.uci.org/competition-details/2
+ 026/ROA/76942\nNote: Orario di partenza e arrivo non confermato: evento pu
+ bblicato come giornata intera.\nFonte ufficiale: https://www.lavuelta.es/e
+ n/stage-12\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-
+ estate-su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Vera → Calar Alto
 URL:https://www.lavuelta.es/en/stage-12
 BEGIN:VALARM
@@ -4052,7 +4056,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 13: Almuñécar → Loja
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a9749629dbe27eb8c99c400a@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 13 — Almuñécar → Loja
  \nPartenza: Almuñécar\nArrivo: Loja\nNazione: Spagna\nDistanza: 192.8 km
@@ -4063,7 +4067,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 13 — Almuñécar → Loja
  \nFonte ufficiale: https://www.lavuelta.es/en/stage-13\nFonte TV: https://
  www.eurosport.it/tutti-gli-sport/una-grande-estate-su-eurosport-dove-guard
  are-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Almuñécar → Loja
 URL:https://www.lavuelta.es/en/stage-13
 BEGIN:VALARM
@@ -4077,7 +4081,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 14: Jaén → Sierra de La Pandera
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:dcbde4f4ef927737acc2e5b9@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 14 — Jaén → Sierra de 
  La Pandera\nPartenza: Jaén\nArrivo: Sierra de La Pandera\nNazione: Spagna
@@ -4088,7 +4092,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 14 — Jaén → Sierra de
  ome giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/stage-14
  \nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estate-su-
  eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Jaén → Sierra de La Pandera
 URL:https://www.lavuelta.es/en/stage-14
 BEGIN:VALARM
@@ -4102,7 +4106,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 15: Palma del Río → Córdoba
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:9e1aa879c0c0c84df43ebc43@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 15 — Palma del Río → C
  órdoba\nPartenza: Palma del Río\nArrivo: Córdoba\nNazione: Spagna\nDist
@@ -4113,7 +4117,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 15 — Palma del Río → C
  ornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/stage-15\nFont
  e TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estate-su-eurosp
  ort-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Palma del Río → Córdoba
 URL:https://www.lavuelta.es/en/stage-15
 BEGIN:VALARM
@@ -4128,7 +4132,7 @@ SUMMARY:La Vuelta a España — Tappa 16: Cortegana → La Rábida. Palos
  de la Frontera
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:abf294353f09b09943753fc5@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 16 — Cortegana → La Rá
  bida. Palos de la Frontera\nPartenza: Cortegana\nArrivo: La Rábida. Palos
@@ -4140,7 +4144,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 16 — Cortegana → La Rá
  tps://www.lavuelta.es/en/stage-16\nFonte TV: https://www.eurosport.it/tutt
  i-gli-sport/una-grande-estate-su-eurosport-dove-guardare-tutti-gli-eventi_
  sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Cortegana → La Rábida. Palos de la Frontera
 URL:https://www.lavuelta.es/en/stage-16
 BEGIN:VALARM
@@ -4154,7 +4158,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 17: Dos Hermanas → Sevilla
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:c58561592aeee643a3bf0e56@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 17 — Dos Hermanas → Sev
  illa\nPartenza: Dos Hermanas\nArrivo: Sevilla\nNazione: Spagna\nDistanza: 
@@ -4165,7 +4169,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 17 — Dos Hermanas → Sev
  tera.\nFonte ufficiale: https://www.lavuelta.es/en/stage-17\nFonte TV: htt
  ps://www.eurosport.it/tutti-gli-sport/una-grande-estate-su-eurosport-dove-
  guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Dos Hermanas → Sevilla
 URL:https://www.lavuelta.es/en/stage-17
 BEGIN:VALARM
@@ -4180,7 +4184,7 @@ SUMMARY:La Vuelta a España — Tappa 18: El Puerto de Santa María → Je
  rez de la Frontera
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6cfda4e36b1d753d8186b7e9@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 18 — El Puerto de Santa M
  aría → Jerez de la Frontera\nPartenza: El Puerto de Santa María\nArriv
@@ -4192,7 +4196,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 18 — El Puerto de Santa M
  iale: https://www.lavuelta.es/en/stage-18\nFonte TV: https://www.eurosport
  .it/tutti-gli-sport/una-grande-estate-su-eurosport-dove-guardare-tutti-gli
  -eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:El Puerto de Santa María → Jerez de la Frontera
 URL:https://www.lavuelta.es/en/stage-18
 BEGIN:VALARM
@@ -4206,7 +4210,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Cycliste de Québec
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:66f3ccf1d8b8cdb14a6e616e@cycling-calendar
 DESCRIPTION:Corsa: Grand Prix Cycliste de Québec\nNazione: CAN\nCategoria
  : UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla 
@@ -4214,7 +4218,7 @@ DESCRIPTION:Corsa: Grand Prix Cycliste de Québec\nNazione: CAN\nCategoria
  gara da verificare\nNote: Orari e dettagli del percorso non ancora conferm
  ati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competitio
  n-details/2026/ROA/76947
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76947
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4227,7 +4231,7 @@ SUMMARY:La Vuelta a España — Tappa 19: Vélez-Málaga → Peñas Blanca
  s. Estepona
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a4710f7974b7037b4d54ec8a@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 19 — Vélez-Málaga → P
  eñas Blancas. Estepona\nPartenza: Vélez-Málaga\nArrivo: Peñas Blancas.
@@ -4239,7 +4243,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 19 — Vélez-Málaga → P
  www.lavuelta.es/en/stage-19\nFonte TV: https://www.eurosport.it/tutti-gli-
  sport/una-grande-estate-su-eurosport-dove-guardare-tutti-gli-eventi_sto231
  97223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Vélez-Málaga → Peñas Blancas. Estepona
 URL:https://www.lavuelta.es/en/stage-19
 BEGIN:VALARM
@@ -4254,7 +4258,7 @@ SUMMARY:La Vuelta a España — Tappa 20: La Calahorra → Collado del Alg
  uacil
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:0618ca90e0520fc085c4d2fa@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 20 — La Calahorra → Col
  lado del Alguacil\nPartenza: La Calahorra\nArrivo: Collado del Alguacil\nN
@@ -4266,7 +4270,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 20 — La Calahorra → Col
  es/en/stage-20\nFonte TV: https://www.eurosport.it/tutti-gli-sport/una-gra
  nde-estate-su-eurosport-dove-guardare-tutti-gli-eventi_sto23197223/story.s
  html
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:La Calahorra → Collado del Alguacil
 URL:https://www.lavuelta.es/en/stage-20
 BEGIN:VALARM
@@ -4280,14 +4284,14 @@ BEGIN:VEVENT
 SUMMARY:GP de Fourmies / La Voix du Nord
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:cda959b49367d49ea923ee19@cycling-calendar
 DESCRIPTION:Corsa: GP de Fourmies / La Voix du Nord\nNazione: FRA\nCategor
  ia: UCI ProSeries\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederl
  a in Italia: Da confermare\nNote: Orari e dettagli del percorso non ancora
   confermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/co
  mpetition-details/2026/ROA/78412
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78412
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4299,7 +4303,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Cycliste de Montréal
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:8eff413951755b23e6d31000@cycling-calendar
 DESCRIPTION:Corsa: Grand Prix Cycliste de Montréal\nNazione: CAN\nCategor
  ia: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederl
@@ -4307,7 +4311,7 @@ DESCRIPTION:Corsa: Grand Prix Cycliste de Montréal\nNazione: CAN\nCategor
  a gara da verificare\nNote: Orari e dettagli del percorso non ancora confe
  rmati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competit
  ion-details/2026/ROA/76948
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76948
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4319,7 +4323,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta a España — Tappa 21: Carrefour Granada → Granada
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:efb34f63cf1d7b90562600e7@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta a España\nTappa: 21 — Carrefour Granada 
  → Granada\nPartenza: Carrefour Granada\nArrivo: Granada\nNazione: Spagna
@@ -4330,7 +4334,7 @@ DESCRIPTION:Corsa: La Vuelta a España\nTappa: 21 — Carrefour Granada
   giornata intera.\nFonte ufficiale: https://www.lavuelta.es/en/stage-21\nF
  onte TV: https://www.eurosport.it/tutti-gli-sport/una-grande-estate-su-eur
  osport-dove-guardare-tutti-gli-eventi_sto23197223/story.shtml
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Carrefour Granada → Granada
 URL:https://www.lavuelta.es/en/stage-21
 BEGIN:VALARM
@@ -4344,7 +4348,7 @@ BEGIN:VEVENT
 SUMMARY:Campionati italiani MTB — EDR — Lizzano In Belvedere Bo
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:609bd7f7dd99735aae99219c@cycling-calendar
 DESCRIPTION:Corsa: Campionati italiani MTB — EDR\nNome ufficiale: Italia
  n National Championships - EDR\nNazione: ITA\nDisciplina: Mountain bike\nS
@@ -4353,7 +4357,7 @@ DESCRIPTION:Corsa: Campionati italiani MTB — EDR\nNome ufficiale: Italia
  confermare\nNote: Gara maschile Elite. Giorno e orario specifici non ancor
  a confermati: è mostrato l'intervallo ufficiale della manifestazione.\nFo
  nte ufficiale: https://www.uci.org/competition-details/2026/MTB/77951
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lizzano In Belvedere Bo
 URL:https://www.uci.org/competition-details/2026/MTB/77951
 BEGIN:VALARM
@@ -4368,7 +4372,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCC — Soldier Hollow\, Midway\,
  Utah
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1802ccaca0c2498bf274f0ad@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC\nNazione: USA\nDisciplina: Mountain 
@@ -4380,7 +4384,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  ciale: https://www.uci.org/competition-details/2026/MTB/77096\nFonte TV: h
  ttps://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series
  /
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Soldier Hollow\, Midway\, Utah
 URL:https://www.uci.org/competition-details/2026/MTB/77096
 BEGIN:VALARM
@@ -4395,7 +4399,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCO — Soldier Hollow\, Midway\,
  Utah
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:217afdc26c9957405eec1294@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC\nNazione: USA\nDisciplina: Mountain 
@@ -4407,7 +4411,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  ciale: https://www.uci.org/competition-details/2026/MTB/77096\nFonte TV: h
  ttps://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series
  /
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Soldier Hollow\, Midway\, Utah
 URL:https://www.uci.org/competition-details/2026/MTB/77096
 BEGIN:VALARM
@@ -4421,7 +4425,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Cup — XCM — Girona
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:25a626700c356327b9f606a6@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  RO UCI Cross-country Marathon World Cup\nNazione: ESP\nDisciplina: Mountai
@@ -4433,7 +4437,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCM\nNome ufficiale: HE
  ficiale: https://www.uci.org/competition-details/2026/MTB/77078\nFonte TV:
   https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-seri
  es/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Girona
 URL:https://www.uci.org/competition-details/2026/MTB/77078
 BEGIN:VALARM
@@ -4446,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Road World Championships
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:353a82f6b235bb801150797a@cycling-calendar
 DESCRIPTION:Corsa: UCI Road World Championships\nNazione: CAN\nCategoria: 
  Campionato\nClasse UCI: CM\nCircuito: UCI Road International Calendar\nDov
@@ -4454,7 +4458,7 @@ DESCRIPTION:Corsa: UCI Road World Championships\nNazione: CAN\nCategoria:
  forma da confermare)\nNote: Rassegna iridata: il programma specifico masch
  ile sarà aggiunto quando confermato.\nFonte ufficiale: https://www.uci.or
  g/competition-details/2026/ROA/77169
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Montréal\, Canada
 URL:https://www.uci.org/competition-details/2026/ROA/77169
 BEGIN:VALARM
@@ -4468,7 +4472,7 @@ SUMMARY:UCI Mountain Bike World Cup — DHI — Whistler Mountain Bike Par
  k\, British Columbia
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ead7b6030baf93e2cde0ea02@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – DHI\nNazione: CAN\nDisciplina: Mountain bike
@@ -4479,7 +4483,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  : è mostrato l'intervallo ufficiale della manifestazione.\nFonte ufficial
  e: https://www.uci.org/competition-details/2026/MTB/77097\nFonte TV: https
  ://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Whistler Mountain Bike Park\, British Columbia
 URL:https://www.uci.org/competition-details/2026/MTB/77097
 BEGIN:VALARM
@@ -4494,7 +4498,7 @@ SUMMARY:UCI Mountain Bike World Cup — DHI — Lake Placid Olympic Sites\
  , New York
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:efb49986b965d4aa65a3aa85@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: USA\nDisciplina: Mount
@@ -4506,7 +4510,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — DHI\nNome ufficiale: UC
  ufficiale: https://www.uci.org/competition-details/2026/MTB/77089\nFonte T
  V: https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-se
  ries/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lake Placid Olympic Sites\, New York
 URL:https://www.uci.org/competition-details/2026/MTB/77089
 BEGIN:VALARM
@@ -4521,7 +4525,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCC — Lake Placid Olympic Sites\
  , New York
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:82875ddb21140c2260612577@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: USA\nDisciplina: Mount
@@ -4533,7 +4537,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCC\nNome ufficiale: UC
  ufficiale: https://www.uci.org/competition-details/2026/MTB/77089\nFonte T
  V: https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-se
  ries/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lake Placid Olympic Sites\, New York
 URL:https://www.uci.org/competition-details/2026/MTB/77089
 BEGIN:VALARM
@@ -4548,7 +4552,7 @@ SUMMARY:UCI Mountain Bike World Cup — XCO — Lake Placid Olympic Sites\
  , New York
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:7d693c275b7544c08f623bce@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  I MOUNTAIN BIKE WORLD CUP – XCO/XCC/DHI\nNazione: USA\nDisciplina: Mount
@@ -4560,7 +4564,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Cup — XCO\nNome ufficiale: UC
  ufficiale: https://www.uci.org/competition-details/2026/MTB/77089\nFonte T
  V: https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-se
  ries/
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lake Placid Olympic Sites\, New York
 URL:https://www.uci.org/competition-details/2026/MTB/77089
 BEGIN:VALARM
@@ -4574,14 +4578,14 @@ BEGIN:VEVENT
 SUMMARY:UEC Road European Championships
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:3d138959f6e0001ba647ddaf@cycling-calendar
 DESCRIPTION:Corsa: UEC Road European Championships\nNazione: SLO\nCategori
  a: Campionato\nClasse UCI: CC\nCircuito: UCI Road International Calendar\n
  Dove vederla in Italia: Da confermare\nNote: Rassegna europea: il programm
  a specifico maschile sarà aggiunto quando confermato.\nFonte ufficiale: h
  ttps://www.uci.org/competition-details/2026/ROA/78565
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78565
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4593,14 +4597,14 @@ BEGIN:VEVENT
 SUMMARY:Giro dell'Emilia
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:31e801bedc8da7275f32344f@cycling-calendar
 DESCRIPTION:Corsa: Giro dell'Emilia\nNazione: ITA\nCategoria: UCI ProSerie
  s\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da 
  confermare\nNote: Orari e dettagli del percorso non ancora confermati dall
  a fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-detail
  s/2026/ROA/78445
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78445
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4612,14 +4616,14 @@ BEGIN:VEVENT
 SUMMARY:Coppa Bernocchi - GP Banco BPM
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:63d7e2a1547bad211493d587@cycling-calendar
 DESCRIPTION:Corsa: Coppa Bernocchi - GP Banco BPM\nNazione: ITA\nCategoria
  : UCI ProSeries\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla 
  in Italia: Da confermare\nNote: Orari e dettagli del percorso non ancora c
  onfermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/comp
  etition-details/2026/ROA/78453
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78453
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4631,14 +4635,14 @@ BEGIN:VEVENT
 SUMMARY:Tre Valli Varesine
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:59659f216857122cdae85eea@cycling-calendar
 DESCRIPTION:Corsa: Tre Valli Varesine\nNazione: ITA\nCategoria: UCI ProSer
  ies\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: D
  a confermare\nNote: Orari e dettagli del percorso non ancora confermati da
  lla fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-deta
  ils/2026/ROA/78454
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78454
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4650,14 +4654,14 @@ BEGIN:VEVENT
 SUMMARY:Gran Piemonte
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:77bb242816ff4fe4fb4685b4@cycling-calendar
 DESCRIPTION:Corsa: Gran Piemonte\nNazione: ITA\nCategoria: UCI ProSeries\n
  Classe UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da con
  fermare\nNote: Orari e dettagli del percorso non ancora confermati dalla f
  onte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2
  026/ROA/78460
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78460
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4669,7 +4673,7 @@ BEGIN:VEVENT
 SUMMARY:Il Lombardia
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:543a66cf9d16203efed48401@cycling-calendar
 DESCRIPTION:Corsa: Il Lombardia\nNazione: ITA\nCategoria: UCI WorldTour\nC
  lasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurospo
@@ -4677,7 +4681,7 @@ DESCRIPTION:Corsa: Il Lombardia\nNazione: ITA\nCategoria: UCI WorldTour\nC
  \nNote: Orari e dettagli del percorso non ancora confermati dalla fonte pr
  imaria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/ROA
  /76949
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76949
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4689,14 +4693,14 @@ BEGIN:VEVENT
 SUMMARY:Paris - Tours Elite
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4cc0165d94f74d9f95cf7ad0@cycling-calendar
 DESCRIPTION:Corsa: Paris - Tours Elite\nNazione: FRA\nCategoria: UCI ProSe
  ries\nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: 
  Da confermare\nNote: Orari e dettagli del percorso non ancora confermati d
  alla fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-det
  ails/2026/ROA/78462
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78462
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4708,7 +4712,7 @@ BEGIN:VEVENT
 SUMMARY:Tour of Guangxi
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:2b50ba268d5483549d07c42d@cycling-calendar
 DESCRIPTION:Corsa: Tour of Guangxi\nNazione: CHN\nCategoria: UCI WorldTour
  \nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -4716,7 +4720,7 @@ DESCRIPTION:Corsa: Tour of Guangxi\nNazione: CHN\nCategoria: UCI WorldTour
  are\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte
   primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2026/
  ROA/76951
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/76951
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4728,14 +4732,14 @@ BEGIN:VEVENT
 SUMMARY:Giro del Veneto
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:54b2b505dd520132aedc24cd@cycling-calendar
 DESCRIPTION:Corsa: Giro del Veneto\nNazione: ITA\nCategoria: UCI ProSeries
  \nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da c
  onfermare\nNote: Orari e dettagli del percorso non ancora confermati dalla
   fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-details
  /2026/ROA/78468
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78468
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4747,7 +4751,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — E-EDR — Finale Ligure
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a06157970cabee9f21a87314@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — E-EDR\nNome u
  fficiale: UCI MTB ENDURO & E-ENDURO WORLD CHAMPIONSHIPS - EDR/E-EDR\nNazio
@@ -4759,7 +4763,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — E-EDR\nNome u
  della manifestazione.\nFonte ufficiale: https://www.uci.org/competition-de
  tails/2026/MTB/77177\nFonte TV: https://www.uci.org/pressrelease/where-to-
  watch-the-uci-mountain-bike-world-championships/5bA7imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Finale Ligure
 URL:https://www.uci.org/competition-details/2026/MTB/77177
 BEGIN:VALARM
@@ -4773,7 +4777,7 @@ BEGIN:VEVENT
 SUMMARY:UCI Mountain Bike World Championships — EDR — Finale Ligure
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e1b87721aa2de924c3b967a0@cycling-calendar
 DESCRIPTION:Corsa: UCI Mountain Bike World Championships — EDR\nNome uff
  iciale: UCI MTB ENDURO & E-ENDURO WORLD CHAMPIONSHIPS - EDR/E-EDR\nNazione
@@ -4785,7 +4789,7 @@ DESCRIPTION:Corsa: UCI Mountain Bike World Championships — EDR\nNome uff
  a manifestazione.\nFonte ufficiale: https://www.uci.org/competition-detail
  s/2026/MTB/77177\nFonte TV: https://www.uci.org/pressrelease/where-to-watc
  h-the-uci-mountain-bike-world-championships/5bA7imAQLM7sIBv2MIQRxN
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Finale Ligure
 URL:https://www.uci.org/competition-details/2026/MTB/77177
 BEGIN:VALARM
@@ -4799,14 +4803,14 @@ BEGIN:VEVENT
 SUMMARY:Veneto Classic
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:522242dbf1c50948f3a90649@cycling-calendar
 DESCRIPTION:Corsa: Veneto Classic\nNazione: ITA\nCategoria: UCI ProSeries\
  nClasse UCI: 1.Pro\nCircuito: UCI ProSeries\nDove vederla in Italia: Da co
  nfermare\nNote: Orari e dettagli del percorso non ancora confermati dalla 
  fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/
  2026/ROA/78471
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 URL:https://www.uci.org/competition-details/2026/ROA/78471
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4818,7 +4822,7 @@ BEGIN:VEVENT
 SUMMARY:Santos Tour Down Under
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:2b6de13cf11640313396c8be@cycling-calendar
 DESCRIPTION:Corsa: Santos Tour Down Under\nNazione: AUS\nCategoria: UCI Wo
  rldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -4826,7 +4830,7 @@ DESCRIPTION:Corsa: Santos Tour Down Under\nNazione: AUS\nCategoria: UCI Wo
  verificare\nNote: Orari e dettagli del percorso non ancora confermati dall
  a fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-detail
  s/2027/ROA/79669
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Victoria Square / Tarntanyangga
 URL:https://www.uci.org/competition-details/2027/ROA/79669
 BEGIN:VALARM
@@ -4839,7 +4843,7 @@ BEGIN:VEVENT
 SUMMARY:Mapei Cadel Evans Great Ocean Road Race - Men
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:3fa0c0ce78deb59132db75ef@cycling-calendar
 DESCRIPTION:Corsa: Mapei Cadel Evans Great Ocean Road Race - Men\nNazione:
   AUS\nCategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour
@@ -4847,7 +4851,7 @@ DESCRIPTION:Corsa: Mapei Cadel Evans Great Ocean Road Race - Men\nNazione:
   della singola gara da verificare\nNote: Orari e dettagli del percorso non
   ancora confermati dalla fonte primaria.\nFonte ufficiale: https://www.uci
  .org/competition-details/2027/ROA/79671
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Geelong Waterfront
 URL:https://www.uci.org/competition-details/2027/ROA/79671
 BEGIN:VALARM
@@ -4860,7 +4864,7 @@ BEGIN:VEVENT
 SUMMARY:UAE Tour
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:20f586df7b35fc8c3e83eed4@cycling-calendar
 DESCRIPTION:Corsa: UAE Tour\nNazione: UAE\nCategoria: UCI WorldTour\nClass
  e UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurosport /
@@ -4868,7 +4872,7 @@ DESCRIPTION:Corsa: UAE Tour\nNazione: UAE\nCategoria: UCI WorldTour\nClass
  te: Orari e dettagli del percorso non ancora confermati dalla fonte primar
  ia.\nFonte ufficiale: https://www.uci.org/competition-details/2027/ROA/796
  72
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Abou Dabi
 URL:https://www.uci.org/competition-details/2027/ROA/79672
 BEGIN:VALARM
@@ -4881,7 +4885,7 @@ BEGIN:VEVENT
 SUMMARY:Omloop Nieuwsblad
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:90cdd07688aa7f914e2991ac@cycling-calendar
 DESCRIPTION:Corsa: Omloop Nieuwsblad\nNazione: BEL\nCategoria: UCI WorldTo
  ur\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eu
@@ -4889,7 +4893,7 @@ DESCRIPTION:Corsa: Omloop Nieuwsblad\nNazione: BEL\nCategoria: UCI WorldTo
  icare\nNote: Orari e dettagli del percorso non ancora confermati dalla fon
  te primaria.\nFonte ufficiale: https://www.uci.org/competition-details/202
  7/ROA/79679
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Citadelpark
 URL:https://www.uci.org/competition-details/2027/ROA/79679
 BEGIN:VALARM
@@ -4902,7 +4906,7 @@ BEGIN:VEVENT
 SUMMARY:Strade Bianche
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:58e0dd9061a6e6edce44ec45@cycling-calendar
 DESCRIPTION:Corsa: Strade Bianche\nNazione: ITA\nCategoria: UCI WorldTour\
  nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -4910,7 +4914,7 @@ DESCRIPTION:Corsa: Strade Bianche\nNazione: ITA\nCategoria: UCI WorldTour\
  re\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte 
  primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/R
  OA/79677
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Siena
 URL:https://www.uci.org/competition-details/2027/ROA/79677
 BEGIN:VALARM
@@ -4923,7 +4927,7 @@ BEGIN:VEVENT
 SUMMARY:Paris-Nice
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a7f882588c1589a317a0595a@cycling-calendar
 DESCRIPTION:Corsa: Paris-Nice\nNazione: FRA\nCategoria: UCI WorldTour\nCla
  sse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurosport
@@ -4931,7 +4935,7 @@ DESCRIPTION:Corsa: Paris-Nice\nNazione: FRA\nCategoria: UCI WorldTour\nCla
  Note: Orari e dettagli del percorso non ancora confermati dalla fonte prim
  aria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/ROA/7
  9676
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:A CONFIRMER
 URL:https://www.uci.org/competition-details/2027/ROA/79676
 BEGIN:VALARM
@@ -4944,7 +4948,7 @@ BEGIN:VEVENT
 SUMMARY:Tirreno-Adriatico
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:7667f50fe569260f7feed5fa@cycling-calendar
 DESCRIPTION:Corsa: Tirreno-Adriatico\nNazione: ITA\nCategoria: UCI WorldTo
  ur\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eu
@@ -4952,7 +4956,7 @@ DESCRIPTION:Corsa: Tirreno-Adriatico\nNazione: ITA\nCategoria: UCI WorldTo
  icare\nNote: Orari e dettagli del percorso non ancora confermati dalla fon
  te primaria.\nFonte ufficiale: https://www.uci.org/competition-details/202
  7/ROA/79678
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Italia
 URL:https://www.uci.org/competition-details/2027/ROA/79678
 BEGIN:VALARM
@@ -4965,7 +4969,7 @@ BEGIN:VEVENT
 SUMMARY:Milano-Sanremo
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e34f43c6ef16f42480050376@cycling-calendar
 DESCRIPTION:Corsa: Milano-Sanremo\nNazione: ITA\nCategoria: UCI WorldTour\
  nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -4973,7 +4977,7 @@ DESCRIPTION:Corsa: Milano-Sanremo\nNazione: ITA\nCategoria: UCI WorldTour\
  re\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte 
  primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/R
  OA/79682
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Sanremo
 URL:https://www.uci.org/competition-details/2027/ROA/79682
 BEGIN:VALARM
@@ -4986,7 +4990,7 @@ BEGIN:VEVENT
 SUMMARY:Volta Ciclista a Catalunya
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:f1f8f3633ea8f58482d45b27@cycling-calendar
 DESCRIPTION:Corsa: Volta Ciclista a Catalunya\nNazione: ESP\nCategoria: UC
  I WorldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in I
@@ -4994,7 +4998,7 @@ DESCRIPTION:Corsa: Volta Ciclista a Catalunya\nNazione: ESP\nCategoria: UC
   da verificare\nNote: Orari e dettagli del percorso non ancora confermati 
  dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-de
  tails/2027/ROA/79675
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:TBC
 URL:https://www.uci.org/competition-details/2027/ROA/79675
 BEGIN:VALARM
@@ -5007,7 +5011,7 @@ BEGIN:VEVENT
 SUMMARY:Ronde Van Brugge - Tour of Bruges
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:974beac2e9fd018a5cc97340@cycling-calendar
 DESCRIPTION:Corsa: Ronde Van Brugge - Tour of Bruges\nNazione: BEL\nCatego
  ria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove veder
@@ -5015,7 +5019,7 @@ DESCRIPTION:Corsa: Ronde Van Brugge - Tour of Bruges\nNazione: BEL\nCatego
  la gara da verificare\nNote: Orari e dettagli del percorso non ancora conf
  ermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competi
  tion-details/2027/ROA/79696
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Brugge
 URL:https://www.uci.org/competition-details/2027/ROA/79696
 BEGIN:VALARM
@@ -5028,7 +5032,7 @@ BEGIN:VEVENT
 SUMMARY:E3 Saxo Classic
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e471264550f19ed23e6d631b@cycling-calendar
 DESCRIPTION:Corsa: E3 Saxo Classic\nNazione: BEL\nCategoria: UCI WorldTour
  \nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -5036,7 +5040,7 @@ DESCRIPTION:Corsa: E3 Saxo Classic\nNazione: BEL\nCategoria: UCI WorldTour
  are\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte
   primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/
  ROA/79680
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Stasegemsesteenweg 93
 URL:https://www.uci.org/competition-details/2027/ROA/79680
 BEGIN:VALARM
@@ -5049,7 +5053,7 @@ BEGIN:VEVENT
 SUMMARY:In Flanders Fields - From Middelkerke to Wevelgem
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:e8e3b09cea9fdd1405cc0e96@cycling-calendar
 DESCRIPTION:Corsa: In Flanders Fields - From Middelkerke to Wevelgem\nNazi
  one: BEL\nCategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI World
@@ -5057,7 +5061,7 @@ DESCRIPTION:Corsa: In Flanders Fields - From Middelkerke to Wevelgem\nNazi
  ione della singola gara da verificare\nNote: Orari e dettagli del percorso
   non ancora confermati dalla fonte primaria.\nFonte ufficiale: https://www
  .uci.org/competition-details/2027/ROA/79709
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Gistel
 URL:https://www.uci.org/competition-details/2027/ROA/79709
 BEGIN:VALARM
@@ -5070,7 +5074,7 @@ BEGIN:VEVENT
 SUMMARY:Dwars door Vlaanderen - A travers la Flandre
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:14452dfa3b3d57d8d5eae6dd@cycling-calendar
 DESCRIPTION:Corsa: Dwars door Vlaanderen - A travers la Flandre\nNazione: 
  BEL\nCategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\
@@ -5078,7 +5082,7 @@ DESCRIPTION:Corsa: Dwars door Vlaanderen - A travers la Flandre\nNazione:
  della singola gara da verificare\nNote: Orari e dettagli del percorso non 
  ancora confermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.
  org/competition-details/2027/ROA/79686
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Verbindingsweg
 URL:https://www.uci.org/competition-details/2027/ROA/79686
 BEGIN:VALARM
@@ -5091,7 +5095,7 @@ BEGIN:VEVENT
 SUMMARY:Ronde van Vlaanderen
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:61ca5e39fb6b6c129eac274c@cycling-calendar
 DESCRIPTION:Corsa: Ronde van Vlaanderen\nNazione: BEL\nCategoria: UCI Worl
  dTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia:
@@ -5099,7 +5103,7 @@ DESCRIPTION:Corsa: Ronde van Vlaanderen\nNazione: BEL\nCategoria: UCI Worl
  rificare\nNote: Orari e dettagli del percorso non ancora confermati dalla 
  fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/
  2027/ROA/79704
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Markt
 URL:https://www.uci.org/competition-details/2027/ROA/79704
 BEGIN:VALARM
@@ -5112,7 +5116,7 @@ BEGIN:VEVENT
 SUMMARY:Itzulia Basque Country
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270411
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:7fbc1a0e543173d84d49015c@cycling-calendar
 DESCRIPTION:Corsa: Itzulia Basque Country\nNazione: ESP\nCategoria: UCI Wo
  rldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -5120,7 +5124,7 @@ DESCRIPTION:Corsa: Itzulia Basque Country\nNazione: ESP\nCategoria: UCI Wo
  verificare\nNote: Orari e dettagli del percorso non ancora confermati dall
  a fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-detail
  s/2027/ROA/79685
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:País Vasco
 URL:https://www.uci.org/competition-details/2027/ROA/79685
 BEGIN:VALARM
@@ -5133,7 +5137,7 @@ BEGIN:VEVENT
 SUMMARY:Paris-Roubaix Hauts-de-France
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6473c182a465d4d080a97556@cycling-calendar
 DESCRIPTION:Corsa: Paris-Roubaix Hauts-de-France\nNazione: FRA\nCategoria:
   UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla i
@@ -5141,7 +5145,7 @@ DESCRIPTION:Corsa: Paris-Roubaix Hauts-de-France\nNazione: FRA\nCategoria:
  ara da verificare\nNote: Orari e dettagli del percorso non ancora conferma
  ti dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competition
  -details/2027/ROA/79712
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Vélodrome
 URL:https://www.uci.org/competition-details/2027/ROA/79712
 BEGIN:VALARM
@@ -5154,7 +5158,7 @@ BEGIN:VEVENT
 SUMMARY:Amstel Gold Race
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ba5f24c01e40ac853de9fc9f@cycling-calendar
 DESCRIPTION:Corsa: Amstel Gold Race\nNazione: NED\nCategoria: UCI WorldTou
  r\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eur
@@ -5162,7 +5166,7 @@ DESCRIPTION:Corsa: Amstel Gold Race\nNazione: NED\nCategoria: UCI WorldTou
  care\nNote: Orari e dettagli del percorso non ancora confermati dalla font
  e primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027
  /ROA/79694
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Markt
 URL:https://www.uci.org/competition-details/2027/ROA/79694
 BEGIN:VALARM
@@ -5175,7 +5179,7 @@ BEGIN:VEVENT
 SUMMARY:La Flèche Wallonne
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:794ec1d19e682048db372cfe@cycling-calendar
 DESCRIPTION:Corsa: La Flèche Wallonne\nNazione: BEL\nCategoria: UCI World
  Tour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: 
@@ -5183,7 +5187,7 @@ DESCRIPTION:Corsa: La Flèche Wallonne\nNazione: BEL\nCategoria: UCI World
  ificare\nNote: Orari e dettagli del percorso non ancora confermati dalla f
  onte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2
  027/ROA/79706
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:A DETERMINER
 URL:https://www.uci.org/competition-details/2027/ROA/79706
 BEGIN:VALARM
@@ -5196,7 +5200,7 @@ BEGIN:VEVENT
 SUMMARY:Liège-Bastogne-Liège
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:ab2ea3aa3a934741fe03e3e0@cycling-calendar
 DESCRIPTION:Corsa: Liège-Bastogne-Liège\nNazione: BEL\nCategoria: UCI Wo
  rldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -5204,7 +5208,7 @@ DESCRIPTION:Corsa: Liège-Bastogne-Liège\nNazione: BEL\nCategoria: UCI Wo
  verificare\nNote: Orari e dettagli del percorso non ancora confermati dall
  a fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-detail
  s/2027/ROA/79699
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Liège
 URL:https://www.uci.org/competition-details/2027/ROA/79699
 BEGIN:VALARM
@@ -5217,7 +5221,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Romandie
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:799cf763b011208fcd18417f@cycling-calendar
 DESCRIPTION:Corsa: Tour de Romandie\nNazione: SUI\nCategoria: UCI WorldTou
  r\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eur
@@ -5225,7 +5229,7 @@ DESCRIPTION:Corsa: Tour de Romandie\nNazione: SUI\nCategoria: UCI WorldTou
  care\nNote: Orari e dettagli del percorso non ancora confermati dalla font
  e primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027
  /ROA/79726
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Suisse Romande
 URL:https://www.uci.org/competition-details/2027/ROA/79726
 BEGIN:VALARM
@@ -5238,7 +5242,7 @@ BEGIN:VEVENT
 SUMMARY:Eschborn-Frankfurt
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d68e7f2493e8aa6ad086b532@cycling-calendar
 DESCRIPTION:Corsa: Eschborn-Frankfurt\nNazione: GER\nCategoria: UCI WorldT
  our\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: E
@@ -5246,7 +5250,7 @@ DESCRIPTION:Corsa: Eschborn-Frankfurt\nNazione: GER\nCategoria: UCI WorldT
  ficare\nNote: Orari e dettagli del percorso non ancora confermati dalla fo
  nte primaria.\nFonte ufficiale: https://www.uci.org/competition-details/20
  27/ROA/79692
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Francfort-sur-le-Main
 URL:https://www.uci.org/competition-details/2027/ROA/79692
 BEGIN:VALARM
@@ -5259,7 +5263,7 @@ BEGIN:VEVENT
 SUMMARY:Giro d'Italia
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270531
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:034e5c58ec4086ce4a31d55f@cycling-calendar
 DESCRIPTION:Corsa: Giro d'Italia\nNazione: ITA\nCategoria: UCI WorldTour\n
  Classe UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurosp
@@ -5267,7 +5271,7 @@ DESCRIPTION:Corsa: Giro d'Italia\nNazione: ITA\nCategoria: UCI WorldTour\n
  e\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte p
  rimaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/RO
  A/79714
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Italia
 URL:https://www.uci.org/competition-details/2027/ROA/79714
 BEGIN:VALARM
@@ -5280,7 +5284,7 @@ BEGIN:VEVENT
 SUMMARY:Tour Auvergne - Rhône-Alpes
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6daf682845d911b25a575746@cycling-calendar
 DESCRIPTION:Corsa: Tour Auvergne - Rhône-Alpes\nNazione: FRA\nCategoria: 
  UCI WorldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in
@@ -5288,7 +5292,7 @@ DESCRIPTION:Corsa: Tour Auvergne - Rhône-Alpes\nNazione: FRA\nCategoria:
  ra da verificare\nNote: Orari e dettagli del percorso non ancora confermat
  i dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-
  details/2027/ROA/79724
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:A DETERMINER
 URL:https://www.uci.org/competition-details/2027/ROA/79724
 BEGIN:VALARM
@@ -5301,7 +5305,7 @@ BEGIN:VEVENT
 SUMMARY:Copenhagen Sprint
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:d73e2a4f3e912f365a02be58@cycling-calendar
 DESCRIPTION:Corsa: Copenhagen Sprint\nNazione: DEN\nCategoria: UCI WorldTo
  ur\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eu
@@ -5309,7 +5313,7 @@ DESCRIPTION:Corsa: Copenhagen Sprint\nNazione: DEN\nCategoria: UCI WorldTo
  icare\nNote: Orari e dettagli del percorso non ancora confermati dalla fon
  te primaria.\nFonte ufficiale: https://www.uci.org/competition-details/202
  7/ROA/79690
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:København
 URL:https://www.uci.org/competition-details/2027/ROA/79690
 BEGIN:VALARM
@@ -5322,7 +5326,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Suisse
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270621
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:29f59ae6adb9b16d4b1f16c3@cycling-calendar
 DESCRIPTION:Corsa: Tour de Suisse\nNazione: SUI\nCategoria: UCI WorldTour\
  nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -5330,7 +5334,7 @@ DESCRIPTION:Corsa: Tour de Suisse\nNazione: SUI\nCategoria: UCI WorldTour\
  re\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte 
  primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/R
  OA/79721
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Vaduz
 URL:https://www.uci.org/competition-details/2027/ROA/79721
 BEGIN:VALARM
@@ -5343,7 +5347,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de France
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270726
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1c6692b19818473b63e0480e@cycling-calendar
 DESCRIPTION:Corsa: Tour de France\nNazione: FRA\nCategoria: UCI WorldTour\
  nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euros
@@ -5351,7 +5355,7 @@ DESCRIPTION:Corsa: Tour de France\nNazione: FRA\nCategoria: UCI WorldTour\
  re\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte 
  primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/R
  OA/79718
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:A DEFINIR
 URL:https://www.uci.org/competition-details/2027/ROA/79718
 BEGIN:VALARM
@@ -5364,7 +5368,7 @@ BEGIN:VEVENT
 SUMMARY:DSSK (Donostia San Sebastian Klasikoa)
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:27a0769a15540689fc687dd6@cycling-calendar
 DESCRIPTION:Corsa: DSSK (Donostia San Sebastian Klasikoa)\nNazione: ESP\nC
  ategoria: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove 
@@ -5372,7 +5376,7 @@ DESCRIPTION:Corsa: DSSK (Donostia San Sebastian Klasikoa)\nNazione: ESP\nC
  singola gara da verificare\nNote: Orari e dettagli del percorso non ancora
   confermati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/co
  mpetition-details/2027/ROA/79711
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:País Vasco
 URL:https://www.uci.org/competition-details/2027/ROA/79711
 BEGIN:VALARM
@@ -5385,7 +5389,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Pologne
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270809
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a7f5e80de29f202ec7009660@cycling-calendar
 DESCRIPTION:Corsa: Tour de Pologne\nNazione: POL\nCategoria: UCI WorldTour
  \nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -5393,7 +5397,7 @@ DESCRIPTION:Corsa: Tour de Pologne\nNazione: POL\nCategoria: UCI WorldTour
  are\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte
   primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/
  ROA/79689
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Poland
 URL:https://www.uci.org/competition-details/2027/ROA/79689
 BEGIN:VALARM
@@ -5406,7 +5410,7 @@ BEGIN:VEVENT
 SUMMARY:ADAC Cyclassics
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:5262d391c2d92c5b3186eae6@cycling-calendar
 DESCRIPTION:Corsa: ADAC Cyclassics\nNazione: GER\nCategoria: UCI WorldTour
  \nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -5414,7 +5418,7 @@ DESCRIPTION:Corsa: ADAC Cyclassics\nNazione: GER\nCategoria: UCI WorldTour
  are\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte
   primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/
  ROA/79720
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Hambourg
 URL:https://www.uci.org/competition-details/2027/ROA/79720
 BEGIN:VALARM
@@ -5427,7 +5431,7 @@ BEGIN:VEVENT
 SUMMARY:Renewi Tour
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270823
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:1035bb8cfc6d8eda45dc30d9@cycling-calendar
 DESCRIPTION:Corsa: Renewi Tour\nNazione: BEL\nCategoria: UCI WorldTour\nCl
  asse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurospor
@@ -5435,7 +5439,7 @@ DESCRIPTION:Corsa: Renewi Tour\nNazione: BEL\nCategoria: UCI WorldTour\nCl
  nNote: Orari e dettagli del percorso non ancora confermati dalla fonte pri
  maria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/ROA/
  79667
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Beringen
 URL:https://www.uci.org/competition-details/2027/ROA/79667
 BEGIN:VALARM
@@ -5448,7 +5452,7 @@ BEGIN:VEVENT
 SUMMARY:Bretagne Classic - CIC
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:4bc6487a29b54fe2030af91d@cycling-calendar
 DESCRIPTION:Corsa: Bretagne Classic - CIC\nNazione: FRA\nCategoria: UCI Wo
  rldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Itali
@@ -5456,7 +5460,7 @@ DESCRIPTION:Corsa: Bretagne Classic - CIC\nNazione: FRA\nCategoria: UCI Wo
  verificare\nNote: Orari e dettagli del percorso non ancora confermati dall
  a fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-detail
  s/2027/ROA/79710
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Plouay
 URL:https://www.uci.org/competition-details/2027/ROA/79710
 BEGIN:VALARM
@@ -5469,7 +5473,7 @@ BEGIN:VEVENT
 SUMMARY:La Vuelta Ciclista a España
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270927
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:bc60fc0e7f65285b295c005b@cycling-calendar
 DESCRIPTION:Corsa: La Vuelta Ciclista a España\nNazione: ESP\nCategoria: 
  UCI WorldTour\nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in
@@ -5477,7 +5481,7 @@ DESCRIPTION:Corsa: La Vuelta Ciclista a España\nNazione: ESP\nCategoria:
  ra da verificare\nNote: Orari e dettagli del percorso non ancora confermat
  i dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competition-
  details/2027/ROA/79705
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Madrid
 URL:https://www.uci.org/competition-details/2027/ROA/79705
 BEGIN:VALARM
@@ -5490,7 +5494,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Cycliste de Québec
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:a8f3b8bc30722a534716cb12@cycling-calendar
 DESCRIPTION:Corsa: Grand Prix Cycliste de Québec\nNazione: CAN\nCategoria
  : UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla 
@@ -5498,7 +5502,7 @@ DESCRIPTION:Corsa: Grand Prix Cycliste de Québec\nNazione: CAN\nCategoria
  gara da verificare\nNote: Orari e dettagli del percorso non ancora conferm
  ati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competitio
  n-details/2027/ROA/79700
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Québec
 URL:https://www.uci.org/competition-details/2027/ROA/79700
 BEGIN:VALARM
@@ -5511,7 +5515,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Cycliste de Montréal
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:6cdff8e3c4a7ad4251087b32@cycling-calendar
 DESCRIPTION:Corsa: Grand Prix Cycliste de Montréal\nNazione: CAN\nCategor
  ia: UCI WorldTour\nClasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederl
@@ -5519,7 +5523,7 @@ DESCRIPTION:Corsa: Grand Prix Cycliste de Montréal\nNazione: CAN\nCategor
  a gara da verificare\nNote: Orari e dettagli del percorso non ancora confe
  rmati dalla fonte primaria.\nFonte ufficiale: https://www.uci.org/competit
  ion-details/2027/ROA/79693
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Montréal
 URL:https://www.uci.org/competition-details/2027/ROA/79693
 BEGIN:VALARM
@@ -5532,7 +5536,7 @@ BEGIN:VEVENT
 SUMMARY:Il Lombardia
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:63d286777c6c189f306a8ae8@cycling-calendar
 DESCRIPTION:Corsa: Il Lombardia\nNazione: ITA\nCategoria: UCI WorldTour\nC
  lasse UCI: 1.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Eurospo
@@ -5540,7 +5544,7 @@ DESCRIPTION:Corsa: Il Lombardia\nNazione: ITA\nCategoria: UCI WorldTour\nC
  \nNote: Orari e dettagli del percorso non ancora confermati dalla fonte pr
  imaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/ROA
  /79725
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Lombardia
 URL:https://www.uci.org/competition-details/2027/ROA/79725
 BEGIN:VALARM
@@ -5553,7 +5557,7 @@ BEGIN:VEVENT
 SUMMARY:Tour of Guangxi
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271018
-DTSTAMP:20260903T123342Z
+DTSTAMP:20260904T123252Z
 UID:0614caf4626a91ad8f5e744b@cycling-calendar
 DESCRIPTION:Corsa: Tour of Guangxi\nNazione: CHN\nCategoria: UCI WorldTour
  \nClasse UCI: 2.UWT\nCircuito: UCI WorldTour\nDove vederla in Italia: Euro
@@ -5561,7 +5565,7 @@ DESCRIPTION:Corsa: Tour of Guangxi\nNazione: CHN\nCategoria: UCI WorldTour
  are\nNote: Orari e dettagli del percorso non ancora confermati dalla fonte
   primaria.\nFonte ufficiale: https://www.uci.org/competition-details/2027/
  ROA/79717
-LAST-MODIFIED:20260903T123342Z
+LAST-MODIFIED:20260904T123252Z
 LOCATION:Guangxi Zhuang Autonomous Region
 URL:https://www.uci.org/competition-details/2027/ROA/79717
 BEGIN:VALARM
