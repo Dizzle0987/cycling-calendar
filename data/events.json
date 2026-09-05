@@ -8302,15 +8302,57 @@
       "distance": "154.5 km",
       "end_date": "2026-09-05",
       "finish_location": "Sierra de La Pandera",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "49:28:12",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 06''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 10''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Jaén → Sierra de La Pandera",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-14",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-14",
       "stage_name": "Jaén → Sierra de La Pandera",
       "stage_number": 14,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:15:09",
+          "rider": "Marco BRENNER",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1",
+          "rider": "Santiago BUITRAGO SANCHEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+11",
+          "rider": "Cristian RODRIGUEZ MARTIN",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "stage_type": "montagna",
       "start": "2026-09-05",
       "start_location": "Jaén",
@@ -8325,7 +8367,7 @@
       "category": "Grande Giro",
       "circuit": "UCI WorldTour",
       "country": "Spagna",
-      "distance": "189.7 km",
+      "distance": "110.2 km",
       "end_date": "2026-09-06",
       "finish_location": "Córdoba",
       "location": "Palma del Río → Córdoba",
@@ -9950,7 +9992,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-04T18:28:12Z",
+  "generated_at": "2026-09-05T20:20:55Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
