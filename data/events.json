@@ -8072,12 +8072,34 @@
       "country": "GBR",
       "discipline": "ROA",
       "end_date": "2026-09-06",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "19:35:32",
+          "rider": "Tim WELLENS",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+42",
+          "rider": "Lewis ASKEY",
+          "team": "NSN CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 03''",
+          "rider": "Jasper STUYVEN",
+          "team": "SOUDAL QUICK-STEP"
+        }
+      ],
       "location": "",
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78379",
       "race_key": "lloyds-tour-of-britain-men",
       "race_name": "Lloyds Tour of Britain Men",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78379",
       "source": "UCI",
       "source_id": "78379",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78379",
@@ -9992,7 +10014,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-05T20:20:55Z",
+  "generated_at": "2026-09-06T15:28:46Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
