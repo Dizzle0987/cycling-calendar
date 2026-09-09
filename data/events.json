@@ -8528,15 +8528,57 @@
       "distance": "185 km",
       "end_date": "2026-09-09",
       "finish_location": "Sevilla",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "60:09:44",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 06''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 10''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        }
+      ],
       "location": "Dos Hermanas → Sevilla",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-17",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-17",
       "stage_name": "Dos Hermanas → Sevilla",
       "stage_number": 17,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:07:15",
+          "rider": "Matthew James BRENNAN",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Jordi MEEUS",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Magnus NIELSEN",
+          "team": "UNO-X MOBILITY"
+        }
+      ],
       "stage_type": "pianura",
       "start": "2026-09-09",
       "start_location": "Dos Hermanas",
@@ -10098,7 +10140,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-08T16:38:58Z",
+  "generated_at": "2026-09-09T16:38:56Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
