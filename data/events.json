@@ -8596,15 +8596,57 @@
       "distance": "32.1 km",
       "end_date": "2026-09-10",
       "finish_location": "Jerez de la Frontera",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "60:45:58",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 37''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+3' 01''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "El Puerto de Santa María → Jerez de la Frontera",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-18",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-18",
       "stage_name": "El Puerto de Santa María → Jerez de la Frontera",
       "stage_number": 18,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "35:22.82",
+          "rider": "Stefan KÜNG",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+3.00",
+          "rider": "Callum THORNLEY",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+9.00",
+          "rider": "Joao Pedro GONÇALVES ALMEIDA",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "stage_type": "cronometro",
       "start": "2026-09-10",
       "start_location": "El Puerto de Santa María",
@@ -10140,7 +10182,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-09T16:38:56Z",
+  "generated_at": "2026-09-10T16:24:45Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
