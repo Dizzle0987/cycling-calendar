@@ -8688,15 +8688,57 @@
       "distance": "210.8 km",
       "end_date": "2026-09-11",
       "finish_location": "Peñas Blancas. Estepona",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "65:52:03",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 37''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+3' 01''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Vélez-Málaga → Peñas Blancas. Estepona",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-19",
       "race_key": "vuelta-a-espana",
       "race_name": "La Vuelta a España",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76942",
       "source": "Sito ufficiale La Vuelta a España",
       "source_url": "https://www.lavuelta.es/en/stage-19",
       "stage_name": "Vélez-Málaga → Peñas Blancas. Estepona",
       "stage_number": 19,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:00:54",
+          "rider": "Edward DUNBAR",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+14",
+          "rider": "Santiago BUITRAGO SANCHEZ",
+          "team": "BAHRAIN VICTORIOUS"
+        },
+        {
+          "rank": "3",
+          "result": "+23",
+          "rider": "Thomas GLOAG",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        }
+      ],
       "stage_type": "collinare",
       "start": "2026-09-11",
       "start_location": "Vélez-Málaga",
@@ -10182,7 +10224,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-10T16:24:45Z",
+  "generated_at": "2026-09-11T16:29:01Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
