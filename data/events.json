@@ -8668,11 +8668,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76947",
       "race_key": "grand-prix-cycliste-de-quebec",
       "race_name": "Grand Prix Cycliste de Québec",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76947",
       "source": "UCI",
       "source_id": "76947",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76947",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:40:21",
+          "rider": "Remco EVENEPOEL",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        },
+        {
+          "rank": "3",
+          "result": "+15''",
+          "rider": "Anthon CHARMIG",
+          "team": "UNO-X MOBILITY"
+        }
+      ],
       "start": "2026-09-11",
       "title": "Grand Prix Cycliste de Québec",
       "uci_class": "1.UWT",
@@ -10224,7 +10246,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-11T16:29:01Z",
+  "generated_at": "2026-09-12T04:34:36Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
