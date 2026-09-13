@@ -8850,11 +8850,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78412",
       "race_key": "gp-de-fourmies-la-voix-du-nord",
       "race_name": "GP de Fourmies / La Voix du Nord",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78412",
       "source": "UCI",
       "source_id": "78412",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78412",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:29:05",
+          "rider": "Arvid DE KLEIJN",
+          "team": "TUDOR PRO CYCLING TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tobias MÜLLER",
+          "team": "UNIBET ROSE ROCKETS"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Ethan Kane VERNON",
+          "team": "NSN CYCLING TEAM"
+        }
+      ],
       "start": "2026-09-13",
       "title": "GP de Fourmies / La Voix du Nord",
       "uci_class": "1.Pro",
@@ -10288,7 +10310,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-12T20:34:01Z",
+  "generated_at": "2026-09-13T16:17:29Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
