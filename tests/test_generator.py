@@ -328,6 +328,13 @@ def test_generated_feed_has_unique_uids_and_valid_calendar() -> None:
     assert all(uid.endswith("@cycling-calendar") for uid in uid_values)
 
 
+def test_pages_runs_after_scheduled_calendar_update() -> None:
+    root = Path(__file__).parents[1]
+    workflow = (root / ".github" / "workflows" / "pages.yml").read_text(encoding="utf-8")
+    assert 'workflows: ["Update calendar"]' in workflow
+    assert "github.event.workflow_run.conclusion == 'success'" in workflow
+
+
 def test_mobile_page_has_subscription_and_manual_fallback() -> None:
     html = (Path(__file__).parents[1] / "index.html").read_text(encoding="utf-8")
     assert "webcal://dizzle0987.github.io/cycling-calendar/calendar.ics" in html
