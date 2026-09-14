@@ -9,6 +9,9 @@ on:
       - data/events.json
       - .nojekyll
       - .github/workflows/pages.yml
+  workflow_run:
+    workflows: ["Update calendar"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -22,6 +25,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:
@@ -48,4 +52,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
