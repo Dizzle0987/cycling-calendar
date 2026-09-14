@@ -123,7 +123,7 @@ La scrittura dei due output è atomica. Se i dati non cambiano, `generated_at` r
 
 `update.yml` parte ogni 6 ore e manualmente. Usa un gruppo di concorrenza, esegue prima i test, genera gli output e committa soltanto se `calendar.ics` o `data/events.json` cambiano. I permessi sono limitati a `contents: write` per quel job.
 
-`pages.yml` pubblica un artifact statico tramite GitHub Pages con soli permessi `contents: read`, `pages: write` e `id-token: write`. Include pagina, feed e snapshot JSON. Il deployment si avvia su ogni push rilevante o manualmente.
+`pages.yml` pubblica un artifact statico tramite GitHub Pages con soli permessi `contents: read`, `pages: write` e `id-token: write`. Include pagina, feed e snapshot JSON. Il deployment si avvia su ogni push rilevante, manualmente e dopo ogni esecuzione riuscita di **Update calendar**: in questo modo anche i commit creati dal token di GitHub Actions raggiungono sempre il sito pubblico.
 
 ## Test
 
