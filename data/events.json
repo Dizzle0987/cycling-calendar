@@ -8938,6 +8938,26 @@
       "distance": "112 km",
       "end_date": "2026-09-13",
       "finish_location": "Granada",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "73:52:55",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 15''",
+          "rider": "Primož ROGLIČ",
+          "team": "RED BULL - BORA - HANSGROHE"
+        },
+        {
+          "rank": "3",
+          "result": "+2' 44''",
+          "rider": "Felix GALL",
+          "team": "DECATHLON CMA CGM TEAM"
+        }
+      ],
       "location": "Carrefour Granada → Granada",
       "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
       "official_url": "https://www.lavuelta.es/en/stage-21",
@@ -10354,7 +10374,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-14T04:56:41Z",
+  "generated_at": "2026-09-14T21:50:12Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
