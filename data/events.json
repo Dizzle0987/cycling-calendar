@@ -8896,11 +8896,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76948",
       "race_key": "grand-prix-cycliste-de-montreal",
       "race_name": "Grand Prix Cycliste de Montréal",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76948",
       "source": "UCI",
       "source_id": "76948",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76948",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:13:16",
+          "rider": "Isaac DEL TORO ROMERO",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+27''",
+          "rider": "Brandon MCNULTY",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-09-13",
       "title": "Grand Prix Cycliste de Montréal",
       "uci_class": "1.UWT",
@@ -10332,7 +10354,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-13T20:50:52Z",
+  "generated_at": "2026-09-14T04:56:41Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
