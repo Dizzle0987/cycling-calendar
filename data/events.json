@@ -9010,11 +9010,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77951",
       "race_key": "italian-mtb-championships-lizzano-in-belvedere-bo-edr",
       "race_name": "Campionati italiani MTB — EDR",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77951",
       "source": "UCI",
       "source_id": "77951-EDR",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77951",
       "specialty": "EDR",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "00:23:50",
+          "rider": "Mirco VENDEMMIA",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "+22''",
+          "rider": "Tommaso FRANCARDO",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "+46''",
+          "rider": "Matteo BERTA",
+          "team": ""
+        }
+      ],
       "start": "2026-09-19",
       "title": "Campionati italiani MTB — EDR — Lizzano In Belvedere Bo",
       "uci_class": "CN",
@@ -10396,7 +10418,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-20T04:53:59Z",
+  "generated_at": "2026-09-20T20:48:58Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
