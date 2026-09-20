@@ -9035,11 +9035,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77096",
       "race_key": "uci-mtb-world-cup-soldier-hollow-midway-utah-xcc",
       "race_name": "UCI Mountain Bike World Cup — XCC",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77096",
       "source": "UCI",
       "source_id": "77096-XCC",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77096",
       "specialty": "XCC",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "0:21:54",
+          "rider": "Samuel GAZE",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "+1''",
+          "rider": "Luca MARTIN",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "+1''",
+          "rider": "Charlie ALDRIDGE",
+          "team": ""
+        }
+      ],
       "start": "2026-09-19",
       "title": "UCI Mountain Bike World Cup — XCC — Soldier Hollow, Midway, Utah",
       "uci_class": "CDM",
@@ -10374,7 +10396,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-14T21:50:12Z",
+  "generated_at": "2026-09-20T04:53:59Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
