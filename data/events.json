@@ -9104,11 +9104,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77096",
       "race_key": "uci-mtb-world-cup-soldier-hollow-midway-utah-xco",
       "race_name": "UCI Mountain Bike World Cup — XCO",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77096",
       "source": "UCI",
       "source_id": "77096-XCO",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77096",
       "specialty": "XCO",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "1:28:55",
+          "rider": "Martin VIDAURRE KOSSMANN",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "+5''",
+          "rider": "Cole PUNCHARD",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "+7''",
+          "rider": "Mathis GUAY",
+          "team": ""
+        }
+      ],
       "start": "2026-09-19",
       "title": "UCI Mountain Bike World Cup — XCO — Soldier Hollow, Midway, Utah",
       "uci_class": "CDM",
@@ -10418,7 +10440,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-20T20:48:58Z",
+  "generated_at": "2026-09-21T04:55:31Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
