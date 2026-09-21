@@ -9151,11 +9151,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77078",
       "race_key": "uci-mtb-world-cup-girona-xcm",
       "race_name": "UCI Mountain Bike World Cup — XCM",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77078",
       "source": "UCI",
       "source_id": "77078-XCM",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77078",
       "specialty": "XCM",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "04:32:00",
+          "rider": "David VALERO SERRANO",
+          "team": "KLIMATIZA ORBEA TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+2' 13''",
+          "rider": "Andreas SEEWALD",
+          "team": "SINGER KTM RACING"
+        },
+        {
+          "rank": "3",
+          "result": "+5' 25''",
+          "rider": "Eskil EVENSEN-LIE",
+          "team": "METALLURGICA VENETA MTB PRO TEAM"
+        }
+      ],
       "start": "2026-09-20",
       "title": "UCI Mountain Bike World Cup — XCM — Girona",
       "uci_class": "CDM",
@@ -10440,7 +10462,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-21T04:55:31Z",
+  "generated_at": "2026-09-21T12:48:24Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
