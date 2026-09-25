@@ -9869,7 +9869,7 @@
       "country": "BEL",
       "discipline": "ROA",
       "end_date": "2027-03-28",
-      "location": "Gistel",
+      "location": "Middelkerke",
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2027/ROA/79709",
@@ -10084,7 +10084,7 @@
       "circuit": "UCI WorldTour",
       "country": "GER",
       "discipline": "ROA",
-      "end_date": "2027-05-02",
+      "end_date": "2027-05-01",
       "location": "Francfort-sur-le-Main",
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_name": null,
@@ -10096,7 +10096,7 @@
       "source_url": "https://www.uci.org/competition-details/2027/ROA/79692",
       "specialty": null,
       "stage_number": null,
-      "start": "2027-05-02",
+      "start": "2027-05-01",
       "title": "Eschborn-Frankfurt",
       "uci_class": "1.UWT",
       "uid": "d68e7f2493e8aa6ad086b532@cycling-calendar"
@@ -10462,7 +10462,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-21T12:48:24Z",
+  "generated_at": "2026-09-25T11:51:07Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
