@@ -9191,12 +9191,34 @@
       "country": "CAN",
       "discipline": "ROA",
       "end_date": "2026-09-27",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "6:17:04",
+          "rider": "Brandon MCNULTY",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "+13",
+          "rider": "Michael James MATTHEWS",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "+13",
+          "rider": "Mathieu VAN DER POEL",
+          "team": ""
+        }
+      ],
       "location": "Montréal, Canada",
       "notes": "Rassegna iridata: il programma specifico maschile sarà aggiunto quando confermato.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2026/ROA/77169",
       "race_key": "uci-road-world-championships",
       "race_name": "UCI Road World Championships",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/77169",
       "source": "UCI",
       "source_id": "77169",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/77169",
@@ -10462,7 +10484,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-25T11:51:07Z",
+  "generated_at": "2026-09-27T21:20:58Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
