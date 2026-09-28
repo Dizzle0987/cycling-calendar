@@ -9244,11 +9244,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77097",
       "race_key": "uci-mtb-world-cup-whistler-mountain-bike-park-british-columbia-dhi",
       "race_name": "UCI Mountain Bike World Cup — DHI",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77097",
       "source": "UCI",
       "source_id": "77097-DHI",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77097",
       "specialty": "DHI",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "00:03:23.930",
+          "rider": "Asa VERMETTE",
+          "team": "FRAMEWORKS RACING / TRP"
+        },
+        {
+          "rank": "2",
+          "result": "00:03:28.295",
+          "rider": "Max ALRAN",
+          "team": "COMMENCAL/MUC-OFF BY RIDING ADDICTION"
+        },
+        {
+          "rank": "3",
+          "result": "00:03:30.962",
+          "rider": "Amaury PIERRON",
+          "team": "COMMENCAL/MUC-OFF BY RIDING ADDICTION"
+        }
+      ],
       "start": "2026-09-25",
       "title": "UCI Mountain Bike World Cup — DHI — Whistler Mountain Bike Park, British Columbia",
       "uci_class": "CDM",
@@ -10484,7 +10506,7 @@
       "uid": "0614caf4626a91ad8f5e744b@cycling-calendar"
     }
   ],
-  "generated_at": "2026-09-27T21:20:58Z",
+  "generated_at": "2026-09-28T05:24:05Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
