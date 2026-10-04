@@ -9292,11 +9292,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "race_key": "uci-mtb-world-cup-lake-placid-olympic-sites-new-york-dhi",
       "race_name": "UCI Mountain Bike World Cup — DHI",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "source": "UCI",
       "source_id": "77089-DHI",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "specialty": "DHI",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "00:03:08.389",
+          "rider": "Luke MEIER-SMITH",
+          "team": "GIANT FACTORY OFF-ROAD TEAM - DH"
+        },
+        {
+          "rank": "2",
+          "result": "00:03:09.783",
+          "rider": "Andreas KOLB",
+          "team": "SANTA CRUZ SYNDICATE"
+        },
+        {
+          "rank": "3",
+          "result": "00:03:10.213",
+          "rider": "Lachlan STEVENS-MCNAB",
+          "team": "TREK - UNBROKEN DH"
+        }
+      ],
       "start": "2026-10-02",
       "title": "UCI Mountain Bike World Cup — DHI — Lake Placid Olympic Sites, New York",
       "uci_class": "CDM",
@@ -9364,11 +9386,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "race_key": "uci-mtb-world-cup-lake-placid-olympic-sites-new-york-xco",
       "race_name": "UCI Mountain Bike World Cup — XCO",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "source": "UCI",
       "source_id": "77089-XCO",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "specialty": "XCO",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "1:23:21",
+          "rider": "Charlie ALDRIDGE",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Filippo COLOMBO",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "+1''",
+          "rider": "Martin VIDAURRE KOSSMANN",
+          "team": ""
+        }
+      ],
       "start": "2026-10-02",
       "title": "UCI Mountain Bike World Cup — XCO — Lake Placid Olympic Sites, New York",
       "uci_class": "CDM",
@@ -11548,7 +11592,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-04T05:52:07Z",
+  "generated_at": "2026-10-04T21:25:17Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
