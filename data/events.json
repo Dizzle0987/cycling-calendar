@@ -9317,11 +9317,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "race_key": "uci-mtb-world-cup-lake-placid-olympic-sites-new-york-xcc",
       "race_name": "UCI Mountain Bike World Cup — XCC",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "source": "UCI",
       "source_id": "77089-XCC",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77089",
       "specialty": "XCC",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "0:21:04",
+          "rider": "Martin VIDAURRE KOSSMANN",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "+4''",
+          "rider": "Luca SCHWARZBAUER",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "+7''",
+          "rider": "Filippo COLOMBO",
+          "team": ""
+        }
+      ],
       "start": "2026-10-02",
       "title": "UCI Mountain Bike World Cup — XCC — Lake Placid Olympic Sites, New York",
       "uci_class": "CDM",
@@ -11526,7 +11548,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-03T16:18:05Z",
+  "generated_at": "2026-10-04T05:52:07Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
