@@ -9502,11 +9502,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78453",
       "race_key": "coppa-bernocchi-gp-banco-bpm",
       "race_name": "Coppa Bernocchi - GP Banco BPM",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78453",
       "source": "UCI",
       "source_id": "78453",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78453",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "03:53:28",
+          "rider": "Noa ISIDORE",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Tommaso DATI",
+          "team": "TEAM UKYO"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Orluis Alberto AULAR SANABRIA",
+          "team": "MOVISTAR TEAM"
+        }
+      ],
       "start": "2026-10-05",
       "title": "Coppa Bernocchi - GP Banco BPM",
       "uci_class": "1.Pro",
@@ -11592,7 +11614,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-04T21:25:17Z",
+  "generated_at": "2026-10-06T00:03:30Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
