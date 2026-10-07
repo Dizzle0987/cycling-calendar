@@ -9426,12 +9426,34 @@
       "country": "SLO",
       "discipline": "ROA",
       "end_date": "2026-10-07",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "35:45.65",
+          "rider": "Alejandra NEIRA DOMINGUEZ",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "35:48.83",
+          "rider": "Laura FIVE",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "35:56.14",
+          "rider": "Augustė MIKUTYTĖ",
+          "team": ""
+        }
+      ],
       "location": "",
       "notes": "Rassegna europea: il programma specifico maschile sarà aggiunto quando confermato.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78565",
       "race_key": "uec-road-european-championships",
       "race_name": "UEC Road European Championships",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78565",
       "source": "UCI",
       "source_id": "78565",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78565",
@@ -11636,7 +11658,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-06T18:23:17Z",
+  "generated_at": "2026-10-07T23:05:54Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
