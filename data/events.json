@@ -91,7 +91,7 @@
     "Volta Ciclista a Catalunya",
     "Vuelta a Burgos"
   ],
-  "event_count": 261,
+  "event_count": 262,
   "events": [
     {
       "all_day": true,
@@ -9876,7 +9876,7 @@
       "country": "UAE",
       "discipline": "ROA",
       "end_date": "2027-02-21",
-      "location": "Abou Dabi",
+      "location": "Abu Dhabi",
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2027/ROA/79672",
@@ -9987,6 +9987,30 @@
       "title": "Kuurne - Brussel - Kuurne",
       "uci_class": "1.Pro",
       "uid": "e2907ae5e022e48a64feb94a@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Da confermare",
+      "category": "UCI ProSeries",
+      "circuit": "UCI ProSeries",
+      "country": "ITA",
+      "discipline": "ROA",
+      "end_date": "2027-03-03",
+      "location": "Laigueglia",
+      "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
+      "official_name": null,
+      "official_url": "https://www.uci.org/competition-details/2027/ROA/81171",
+      "race_key": "trofeo-laigueglia",
+      "race_name": "Trofeo Laigueglia",
+      "source": "UCI",
+      "source_id": "81171",
+      "source_url": "https://www.uci.org/competition-details/2027/ROA/81171",
+      "specialty": null,
+      "stage_number": null,
+      "start": "2027-03-03",
+      "title": "Trofeo Laigueglia",
+      "uci_class": "1.Pro",
+      "uid": "b45197746831f2771580583f@cycling-calendar"
     },
     {
       "all_day": true,
@@ -11658,7 +11682,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-07T23:05:54Z",
+  "generated_at": "2026-10-08T13:29:08Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
