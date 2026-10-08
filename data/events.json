@@ -91,7 +91,7 @@
     "Volta Ciclista a Catalunya",
     "Vuelta a Burgos"
   ],
-  "event_count": 262,
+  "event_count": 263,
   "events": [
     {
       "all_day": true,
@@ -9616,11 +9616,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78460",
       "race_key": "gran-piemonte",
       "race_name": "Gran Piemonte",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78460",
       "source": "UCI",
       "source_id": "78460",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78460",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:06:19",
+          "rider": "Dorian GODON",
+          "team": "NETCOMPANY INEOS"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Anthon CHARMIG",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Alberto BETTIOL",
+          "team": "XDS ASTANA TEAM"
+        }
+      ],
       "start": "2026-10-08",
       "title": "Gran Piemonte",
       "uci_class": "1.Pro",
@@ -10712,6 +10734,30 @@
     },
     {
       "all_day": true,
+      "broadcast_it": "Da confermare",
+      "category": "UCI ProSeries",
+      "circuit": "UCI ProSeries",
+      "country": "BEL",
+      "discipline": "ROA",
+      "end_date": "2027-06-09",
+      "location": "Mont de l'Enclus",
+      "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
+      "official_name": null,
+      "official_url": "https://www.uci.org/competition-details/2027/ROA/81174",
+      "race_key": "circuit-franco-belge",
+      "race_name": "Circuit Franco-Belge",
+      "source": "UCI",
+      "source_id": "81174",
+      "source_url": "https://www.uci.org/competition-details/2027/ROA/81174",
+      "specialty": null,
+      "stage_number": null,
+      "start": "2027-06-09",
+      "title": "Circuit Franco-Belge",
+      "uci_class": "1.Pro",
+      "uid": "74f1cda650ca6207a343e8ea@cycling-calendar"
+    },
+    {
+      "all_day": true,
       "broadcast_it": "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare",
       "broadcast_source_url": "https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series/",
       "category": "Coppa del Mondo UCI MTB",
@@ -11682,7 +11728,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-08T13:29:08Z",
+  "generated_at": "2026-10-08T23:21:27Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
