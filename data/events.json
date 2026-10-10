@@ -9662,11 +9662,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76949",
       "race_key": "il-lombardia",
       "race_name": "Il Lombardia",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76949",
       "source": "UCI",
       "source_id": "76949",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76949",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "5:49:28",
+          "rider": "Paul SEIXAS",
+          "team": "DECATHLON CMA CGM TEAM"
+        },
+        {
+          "rank": "2",
+          "result": "+48''",
+          "rider": "Enric MAS NICOLAU",
+          "team": "MOVISTAR TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 05''",
+          "rider": "Giulio CICCONE",
+          "team": "LIDL-TREK"
+        }
+      ],
       "start": "2026-10-10",
       "title": "Il Lombardia",
       "uci_class": "1.UWT",
@@ -11728,7 +11750,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-08T23:21:27Z",
+  "generated_at": "2026-10-10T21:44:07Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
