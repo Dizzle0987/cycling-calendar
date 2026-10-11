@@ -9708,11 +9708,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78462",
       "race_key": "paris-tours-elite",
       "race_name": "Paris - Tours Elite",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78462",
       "source": "UCI",
       "source_id": "78462",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78462",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "4:31:46",
+          "rider": "Per Strand HAGENES",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        },
+        {
+          "rank": "2",
+          "result": "+02",
+          "rider": "Jasper STUYVEN",
+          "team": "SOUDAL QUICK-STEP"
+        },
+        {
+          "rank": "3",
+          "result": "+02",
+          "rider": "Christophe LAPORTE",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "start": "2026-10-11",
       "title": "Paris - Tours Elite",
       "uci_class": "1.Pro",
@@ -11750,7 +11772,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-10T21:44:07Z",
+  "generated_at": "2026-10-11T21:58:52Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
