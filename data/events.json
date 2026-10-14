@@ -9778,11 +9778,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78468",
       "race_key": "giro-del-veneto",
       "race_name": "Giro del Veneto",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78468",
       "source": "UCI",
       "source_id": "78468",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78468",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "03:35:52",
+          "rider": "Alessandro COVI",
+          "team": "TEAM JAYCO ALULA"
+        },
+        {
+          "rank": "2",
+          "result": "stesso tempo",
+          "rider": "Anthon CHARMIG",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "stesso tempo",
+          "rider": "Benoit COSNEFROY",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-10-14",
       "title": "Giro del Veneto",
       "uci_class": "1.Pro",
@@ -11772,7 +11794,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-11T21:58:52Z",
+  "generated_at": "2026-10-14T17:10:28Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
