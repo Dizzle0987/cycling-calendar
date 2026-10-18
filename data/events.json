@@ -9872,11 +9872,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/MTB/77177",
       "race_key": "uci-mtb-world-championships-finale-ligure-edr",
       "race_name": "UCI Mountain Bike World Championships — EDR",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/MTB/77177",
       "source": "UCI",
       "source_id": "77177-EDR",
       "source_url": "https://www.uci.org/competition-details/2026/MTB/77177",
       "specialty": "EDR",
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "36:20.262",
+          "rider": "Ryan GILCHRIST",
+          "team": ""
+        },
+        {
+          "rank": "2",
+          "result": "36:25.122",
+          "rider": "Elliot JAMIESON",
+          "team": ""
+        },
+        {
+          "rank": "3",
+          "result": "36:25.387",
+          "rider": "Richard RUDE JR",
+          "team": ""
+        }
+      ],
       "start": "2026-10-16",
       "title": "UCI Mountain Bike World Championships — EDR — Finale Ligure",
       "uci_class": "CM",
@@ -9896,11 +9918,33 @@
       "official_url": "https://www.uci.org/competition-details/2026/ROA/78471",
       "race_key": "veneto-classic",
       "race_name": "Veneto Classic",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/78471",
       "source": "UCI",
       "source_id": "78471",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/78471",
       "specialty": null,
       "stage_number": null,
+      "stage_podium": [
+        {
+          "rank": "1",
+          "result": "03:32:57",
+          "rider": "Brandon MCNULTY",
+          "team": "UAE TEAM EMIRATES XRG"
+        },
+        {
+          "rank": "2",
+          "result": "+1' 06''",
+          "rider": "Anthon CHARMIG",
+          "team": "UNO-X MOBILITY"
+        },
+        {
+          "rank": "3",
+          "result": "+1' 32''",
+          "rider": "Pavel SIVAKOV",
+          "team": "UAE TEAM EMIRATES XRG"
+        }
+      ],
       "start": "2026-10-18",
       "title": "Veneto Classic",
       "uci_class": "1.Pro",
@@ -11816,7 +11860,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-18T11:04:49Z",
+  "generated_at": "2026-10-18T20:43:16Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
