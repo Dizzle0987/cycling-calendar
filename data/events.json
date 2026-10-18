@@ -9748,12 +9748,34 @@
       "country": "CHN",
       "discipline": "ROA",
       "end_date": "2026-10-18",
+      "general_classification": [
+        {
+          "rank": "1",
+          "result": "22:22:45",
+          "rider": "Jarno WIDAR",
+          "team": "LOTTO INTERMARCHÉ"
+        },
+        {
+          "rank": "2",
+          "result": "+09",
+          "rider": "Thomas PIDCOCK",
+          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
+        },
+        {
+          "rank": "3",
+          "result": "+16",
+          "rider": "Louis BARRE",
+          "team": "TEAM VISMA | LEASE A BIKE"
+        }
+      ],
       "location": "",
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2026/ROA/76951",
       "race_key": "tour-of-guangxi",
       "race_name": "Tour of Guangxi",
+      "results_source": "UCI — risultati ufficiali",
+      "results_url": "https://www.uci.org/competition-details/2026/ROA/76951",
       "source": "UCI",
       "source_id": "76951",
       "source_url": "https://www.uci.org/competition-details/2026/ROA/76951",
@@ -11794,7 +11816,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-14T17:10:28Z",
+  "generated_at": "2026-10-18T11:04:49Z",
   "source_errors": [],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
