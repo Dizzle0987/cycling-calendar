@@ -10458,7 +10458,7 @@
   ],
   "generated_at": "2026-10-19T13:14:07Z",
   "source_errors": [
-    "Giro d'Italia: nessuna tappa riconosciuta"
+    "Giro d'Italia: 406 Client Error: Not Acceptable for url: https://www.giroditalia.it/en/the-route/"
   ],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
