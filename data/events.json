@@ -3273,479 +3273,27 @@
     },
     {
       "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
+      "broadcast_it": "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare",
+      "category": "UCI WorldTour",
       "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "19.6 km",
-      "end_date": "2026-07-04",
-      "finish_location": "Barcelone",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "21:47",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "2",
-          "result": "+08",
-          "rider": "Filippo GANNA",
-          "team": "NETCOMPANY INEOS"
-        },
-        {
-          "rank": "3",
-          "result": "+12",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Barcelone → Barcelone",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-1",
+      "country": "FRA",
+      "discipline": "ROA",
+      "end_date": "2026-07-26",
+      "location": "",
+      "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
+      "official_name": null,
+      "official_url": "https://www.uci.org/competition-details/2026/ROA/76935",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-1",
-      "stage_name": "Barcelone → Barcelone",
-      "stage_number": 1,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "21:47.87",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "1",
-          "result": "22:15.68",
-          "rider": "Davide PIGANZOLI",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "1",
-          "result": "23:45.83",
-          "rider": "Sepp KUSS",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        }
-      ],
-      "stage_type": "cronometro",
+      "source": "UCI",
+      "source_id": "76935",
+      "source_url": "https://www.uci.org/competition-details/2026/ROA/76935",
+      "specialty": null,
+      "stage_number": null,
       "start": "2026-07-04",
-      "start_location": "Barcelone",
-      "title": "Tour de France — Tappa 1: Barcelone → Barcelone",
+      "title": "Tour de France",
       "uci_class": "2.UWT",
-      "uid": "de5d303eaf82dfc2c5765a91@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "168.5 km",
-      "end_date": "2026-07-05",
-      "finish_location": "Barcelone",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "4:01:48",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "2",
-          "result": "+06",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "3",
-          "result": "+15",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Tarragone → Barcelone",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-2",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-2",
-      "stage_name": "Tarragone → Barcelone",
-      "stage_number": 2,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:40:01",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "stage_type": "collinare",
-      "start": "2026-07-05",
-      "start_location": "Tarragone",
-      "title": "Tour de France — Tappa 2: Tarragone → Barcelone",
-      "uci_class": "2.UWT",
-      "uid": "047d198186f2e1c96c3015c0@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "195.9 km",
-      "end_date": "2026-07-06",
-      "finish_location": "Les Angles",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "8:46:55",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+23",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Granollers → Les Angles",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-3",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-3",
-      "stage_name": "Granollers → Les Angles",
-      "stage_number": 3,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:45:11",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+02",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+02",
-          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
-          "team": "EF EDUCATION - EASYPOST"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-06",
-      "start_location": "Granollers",
-      "title": "Tour de France — Tappa 3: Granollers → Les Angles",
-      "uci_class": "2.UWT",
-      "uid": "41153d671098e0468d8dd80d@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "181.9 km",
-      "end_date": "2026-07-07",
-      "finish_location": "Foix",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "13:02:46",
-          "rider": "Torstein TRÆEN",
-          "team": "UNO-X MOBILITY"
-        },
-        {
-          "rank": "2",
-          "result": "+28",
-          "rider": "Sean QUINN",
-          "team": "EF EDUCATION - EASYPOST"
-        },
-        {
-          "rank": "3",
-          "result": "+3' 50''",
-          "rider": "Mathias VACEK",
-          "team": "LIDL-TREK"
-        }
-      ],
-      "location": "Carcassonne → Foix",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-4",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-4",
-      "stage_name": "Carcassonne → Foix",
-      "stage_number": 4,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:10:45",
-          "rider": "Mads PEDERSEN",
-          "team": "LIDL-TREK"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Quinn SIMMONS",
-          "team": "LIDL-TREK"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Raul GARCIA PIERNA",
-          "team": "MOVISTAR TEAM"
-        }
-      ],
-      "stage_type": "collinare",
-      "start": "2026-07-07",
-      "start_location": "Carcassonne",
-      "title": "Tour de France — Tappa 4: Carcassonne → Foix",
-      "uci_class": "2.UWT",
-      "uid": "dd6b6fea894903f79b68f3c4@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "158.3 km",
-      "end_date": "2026-07-08",
-      "finish_location": "Pau",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "16:32:07",
-          "rider": "Torstein TRÆEN",
-          "team": "UNO-X MOBILITY"
-        },
-        {
-          "rank": "2",
-          "result": "+28",
-          "rider": "Sean QUINN",
-          "team": "EF EDUCATION - EASYPOST"
-        },
-        {
-          "rank": "3",
-          "result": "+3' 50''",
-          "rider": "Mathias VACEK",
-          "team": "LIDL-TREK"
-        }
-      ],
-      "location": "Lannemezan → Pau",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-5",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-5",
-      "stage_name": "Lannemezan → Pau",
-      "stage_number": 5,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:29:07",
-          "rider": "Olav KOOIJ",
-          "team": "DECATHLON CMA CGM TEAM"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Max KANTER",
-          "team": "XDS ASTANA TEAM"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Tim MERLIER",
-          "team": "SOUDAL QUICK-STEP"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-08",
-      "start_location": "Lannemezan",
-      "title": "Tour de France — Tappa 5: Lannemezan → Pau",
-      "uci_class": "2.UWT",
-      "uid": "1d62f9970ff84a7542c1900c@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "186.2 km",
-      "end_date": "2026-07-09",
-      "finish_location": "Gavarnie-Gèdre",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "21:11:57",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+2' 42''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+3' 27''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Pau → Gavarnie-Gèdre",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-6",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-6",
-      "stage_name": "Pau → Gavarnie-Gèdre",
-      "stage_number": 6,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:32:07",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+2' 38''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+2' 57''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-09",
-      "start_location": "Pau",
-      "title": "Tour de France — Tappa 6: Pau → Gavarnie-Gèdre",
-      "uci_class": "2.UWT",
-      "uid": "ed7694a788074e889a725bef@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "175.1 km",
-      "end_date": "2026-07-10",
-      "finish_location": "Bordeaux",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "24:56:17",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+2' 42''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+3' 27''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Hagetmau → Bordeaux",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-7",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-7",
-      "stage_name": "Hagetmau → Bordeaux",
-      "stage_number": 7,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:44:20",
-          "rider": "Tim MERLIER",
-          "team": "SOUDAL QUICK-STEP"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Søren WÆRENSKJOLD",
-          "team": "UNO-X MOBILITY"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Biniam GIRMAY",
-          "team": "NSN CYCLING TEAM"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-10",
-      "start_location": "Hagetmau",
-      "title": "Tour de France — Tappa 7: Hagetmau → Bordeaux",
-      "uci_class": "2.UWT",
-      "uid": "8acc9c3b87a6f42dffd7312a@cycling-calendar"
+      "uid": "7fb43edad158f4a3c760f51e@cycling-calendar"
     },
     {
       "all_day": true,
@@ -3890,74 +3438,6 @@
     },
     {
       "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "180.4 km",
-      "end_date": "2026-07-11",
-      "finish_location": "Bergerac",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "28:49:07",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+2' 42''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+3' 27''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Périgueux → Bergerac",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-8",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-8",
-      "stage_name": "Périgueux → Bergerac",
-      "stage_number": 8,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:52:50",
-          "rider": "Tim MERLIER",
-          "team": "SOUDAL QUICK-STEP"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Biniam GIRMAY",
-          "team": "NSN CYCLING TEAM"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Olav KOOIJ",
-          "team": "DECATHLON CMA CGM TEAM"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-11",
-      "start_location": "Périgueux",
-      "title": "Tour de France — Tappa 8: Périgueux → Bergerac",
-      "uci_class": "2.UWT",
-      "uid": "118a647ba41111bdd9c58360@cycling-calendar"
-    },
-    {
-      "all_day": true,
       "broadcast_it": "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare",
       "broadcast_source_url": "https://www.eurosport.it/watch/mountain-bike/uci-mountain-bike-world-series/",
       "category": "Coppa del Mondo UCI MTB",
@@ -4048,346 +3528,6 @@
       "title": "UEC Mountain Bike European Championships — XCM — Ramales de la Victoria",
       "uci_class": "CC",
       "uid": "b8f4dfa2004155156c410b73@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "154.6 km",
-      "end_date": "2026-07-12",
-      "finish_location": "Ussel",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "32:17:04",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+2' 42''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+3' 27''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Malemort → Ussel",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-9",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-9",
-      "stage_name": "Malemort → Ussel",
-      "stage_number": 9,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:27:51",
-          "rider": "Mathieu VAN DER POEL",
-          "team": "ALPECIN-PREMIER TECH"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Tobias Halland JOHANNESSEN",
-          "team": "UNO-X MOBILITY"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Thomas PIDCOCK",
-          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
-        }
-      ],
-      "stage_type": "collinare",
-      "start": "2026-07-12",
-      "start_location": "Malemort",
-      "title": "Tour de France — Tappa 9: Malemort → Ussel",
-      "uci_class": "2.UWT",
-      "uid": "06216de5d060f0a82298f6da@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "166.6 km",
-      "end_date": "2026-07-14",
-      "finish_location": "Le Lioran",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "36:15:02",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+3' 36''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+4' 06''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Aurillac → Le Lioran",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-10",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-10",
-      "stage_name": "Aurillac → Le Lioran",
-      "stage_number": 10,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:58:08",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+32",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+34",
-          "rider": "Paul SEIXAS",
-          "team": "DECATHLON CMA CGM TEAM"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-14",
-      "start_location": "Aurillac",
-      "title": "Tour de France — Tappa 10: Aurillac → Le Lioran",
-      "uci_class": "2.UWT",
-      "uid": "6a04962af3f6f41f1cb2821a@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "161.3 km",
-      "end_date": "2026-07-15",
-      "finish_location": "Nevers",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "39:25:08",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+3' 36''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+4' 06''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Vichy → Nevers",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-11",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-11",
-      "stage_name": "Vichy → Nevers",
-      "stage_number": 11,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:10:06",
-          "rider": "Søren WÆRENSKJOLD",
-          "team": "UNO-X MOBILITY"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Olav KOOIJ",
-          "team": "DECATHLON CMA CGM TEAM"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Jasper PHILIPSEN",
-          "team": "ALPECIN-PREMIER TECH"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-15",
-      "start_location": "Vichy",
-      "title": "Tour de France — Tappa 11: Vichy → Nevers",
-      "uci_class": "2.UWT",
-      "uid": "005c6e95bb98c03c27d670d2@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "179.1 km",
-      "end_date": "2026-07-16",
-      "finish_location": "Chalon-sur-Saône",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "43:04:01",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+3' 36''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+4' 06''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Circuit Nevers Magny-Cours → Chalon-sur-Saône",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-12",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-12",
-      "stage_name": "Circuit Nevers Magny-Cours → Chalon-sur-Saône",
-      "stage_number": 12,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:38:53",
-          "rider": "Tim MERLIER",
-          "team": "SOUDAL QUICK-STEP"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Olav KOOIJ",
-          "team": "DECATHLON CMA CGM TEAM"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Jasper PHILIPSEN",
-          "team": "ALPECIN-PREMIER TECH"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-16",
-      "start_location": "Circuit Nevers Magny-Cours",
-      "title": "Tour de France — Tappa 12: Circuit Nevers Magny-Cours → Chalon-sur-Saône",
-      "uci_class": "2.UWT",
-      "uid": "7d1d99eca8d6e512e33557a9@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "205.8 km",
-      "end_date": "2026-07-17",
-      "finish_location": "Belfort",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "47:18:31",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+3' 36''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+4' 06''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Dole → Belfort",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-13",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-13",
-      "stage_name": "Dole → Belfort",
-      "stage_number": 13,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:06:58",
-          "rider": "Mauro SCHMID",
-          "team": "TEAM JAYCO ALULA"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Harold Alfonso TEJADA CANACUE",
-          "team": "XDS ASTANA TEAM"
-        },
-        {
-          "rank": "3",
-          "result": "+02",
-          "rider": "Thomas PIDCOCK",
-          "team": "PINARELLO-Q36.5 PRO CYCLING TEAM"
-        }
-      ],
-      "stage_type": "collinare",
-      "start": "2026-07-17",
-      "start_location": "Dole",
-      "title": "Tour de France — Tappa 13: Dole → Belfort",
-      "uci_class": "2.UWT",
-      "uid": "68b6f96d057b334a6c9cd6f4@cycling-calendar"
     },
     {
       "all_day": true,
@@ -4573,550 +3713,6 @@
       "title": "Campionati italiani MTB — DHI — Priali To",
       "uci_class": "CN",
       "uid": "b1173512d05e06bfd375ad3b@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "155.3 km",
-      "end_date": "2026-07-18",
-      "finish_location": "Le Markstein Fellering",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "51:18:28",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+4' 30''",
-          "rider": "Jonas VINGEGAARD HANSEN",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        },
-        {
-          "rank": "3",
-          "result": "+5' 04''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        }
-      ],
-      "location": "Mulhouse → Le Markstein Fellering",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-14",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-14",
-      "stage_name": "Mulhouse → Le Markstein Fellering",
-      "stage_number": 14,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:00:07",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+38",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "3",
-          "result": "+38",
-          "rider": "Paul SEIXAS",
-          "team": "DECATHLON CMA CGM TEAM"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-18",
-      "start_location": "Mulhouse",
-      "title": "Tour de France — Tappa 14: Mulhouse → Le Markstein Fellering",
-      "uci_class": "2.UWT",
-      "uid": "16761e97f1f796737719ce79@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "183.9 km",
-      "end_date": "2026-07-19",
-      "finish_location": "Plateau de Solaison",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "55:41:31",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+5' 00''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+5' 58''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Champagnole → Plateau de Solaison",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-15",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-15",
-      "stage_name": "Champagnole → Plateau de Solaison",
-      "stage_number": 15,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:23:09",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "3",
-          "result": "+06",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-19",
-      "start_location": "Champagnole",
-      "title": "Tour de France — Tappa 15: Champagnole → Plateau de Solaison",
-      "uci_class": "2.UWT",
-      "uid": "747d75ae152a078c02f8b817@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "26.1 km",
-      "end_date": "2026-07-21",
-      "finish_location": "Thonon-les-Bains",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "56:14:18",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+4' 32''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+6' 51''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Évian-les-Bains → Thonon-les-Bains",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-16",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-16",
-      "stage_name": "Évian-les-Bains → Thonon-les-Bains",
-      "stage_number": 16,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "32:19.33",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "2",
-          "result": "+28",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "3",
-          "result": "+1' 04''",
-          "rider": "Mattias Skjelmose Jennow JENSEN",
-          "team": "LIDL-TREK"
-        }
-      ],
-      "stage_type": "cronometro",
-      "start": "2026-07-21",
-      "start_location": "Évian-les-Bains",
-      "title": "Tour de France — Tappa 16: Évian-les-Bains → Thonon-les-Bains",
-      "uci_class": "2.UWT",
-      "uid": "66dedcb9d5adcd035c015c7b@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "174.7 km",
-      "end_date": "2026-07-22",
-      "finish_location": "Voiron",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "60:04:17",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+4' 32''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+6' 51''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Chambery → Voiron",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-17",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-17",
-      "stage_name": "Chambery → Voiron",
-      "stage_number": 17,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:41:13",
-          "rider": "Jasper PHILIPSEN",
-          "team": "ALPECIN-PREMIER TECH"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Mauro SCHMID",
-          "team": "TEAM JAYCO ALULA"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Olav KOOIJ",
-          "team": "DECATHLON CMA CGM TEAM"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-22",
-      "start_location": "Chambery",
-      "title": "Tour de France — Tappa 17: Chambery → Voiron",
-      "uci_class": "2.UWT",
-      "uid": "750339b5d235e3fcc5f85e21@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "185.2 km",
-      "end_date": "2026-07-23",
-      "finish_location": "Orcières-Merlette",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "64:35:13",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+4' 32''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+6' 51''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Voiron → Orcières-Merlette",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-18",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-18",
-      "stage_name": "Voiron → Orcières-Merlette",
-      "stage_number": 18,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:26:21",
-          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
-          "team": "EF EDUCATION - EASYPOST"
-        },
-        {
-          "rank": "2",
-          "result": "+45",
-          "rider": "Mauro SCHMID",
-          "team": "TEAM JAYCO ALULA"
-        },
-        {
-          "rank": "3",
-          "result": "+45",
-          "rider": "Matteo JORGENSON",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-23",
-      "start_location": "Voiron",
-      "title": "Tour de France — Tappa 18: Voiron → Orcières-Merlette",
-      "uci_class": "2.UWT",
-      "uid": "17159e535e6f91fd1906e423@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "127.9 km",
-      "end_date": "2026-07-24",
-      "finish_location": "Alpe d'Huez",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "67:53:00",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+7' 11''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+9' 42''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Gap → Alpe d'Huez",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-19",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-19",
-      "stage_name": "Gap → Alpe d'Huez",
-      "stage_number": 19,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "3:17:57",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+06",
-          "rider": "Lenny Sydney MARTINEZ",
-          "team": "BAHRAIN VICTORIOUS"
-        },
-        {
-          "rank": "3",
-          "result": "+09",
-          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
-          "team": "EF EDUCATION - EASYPOST"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-24",
-      "start_location": "Gap",
-      "title": "Tour de France — Tappa 19: Gap → Alpe d'Huez",
-      "uci_class": "2.UWT",
-      "uid": "4365272e5f75f74e968f2744@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "170.9 km",
-      "end_date": "2026-07-25",
-      "finish_location": "Alpe d'Huez",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "72:53:44",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+6' 26''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+9' 42''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Le Bourg d'Oisans → Alpe d'Huez",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-20",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-20",
-      "stage_name": "Le Bourg d'Oisans → Alpe d'Huez",
-      "stage_number": 20,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "4:59:39",
-          "rider": "Richard Antonio CARAPAZ MONTENEGRO",
-          "team": "EF EDUCATION - EASYPOST"
-        },
-        {
-          "rank": "2",
-          "result": "+26",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+31",
-          "rider": "Sepp KUSS",
-          "team": "TEAM VISMA | LEASE A BIKE"
-        }
-      ],
-      "stage_type": "montagna",
-      "start": "2026-07-25",
-      "start_location": "Le Bourg d'Oisans",
-      "title": "Tour de France — Tappa 20: Le Bourg d'Oisans → Alpe d'Huez",
-      "uci_class": "2.UWT",
-      "uid": "09b7966dfcde41b70ad37416@cycling-calendar"
-    },
-    {
-      "all_day": true,
-      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
-      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
-      "category": "Grande Giro",
-      "circuit": "UCI WorldTour",
-      "country": "Francia",
-      "distance": "88.7 km",
-      "end_date": "2026-07-26",
-      "finish_location": "Paris Champs-Élysées",
-      "general_classification": [
-        {
-          "rank": "1",
-          "result": "73:56:26",
-          "rider": "Tadej POGAČAR",
-          "team": "UAE TEAM EMIRATES XRG"
-        },
-        {
-          "rank": "2",
-          "result": "+6' 26''",
-          "rider": "Remco EVENEPOEL",
-          "team": "RED BULL - BORA - HANSGROHE"
-        },
-        {
-          "rank": "3",
-          "result": "+9' 42''",
-          "rider": "Isaac DEL TORO ROMERO",
-          "team": "UAE TEAM EMIRATES XRG"
-        }
-      ],
-      "location": "Thoiry → Paris Champs-Élysées",
-      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
-      "official_url": "https://www.letour.fr/en/stage-21",
-      "race_key": "tour-de-france",
-      "race_name": "Tour de France",
-      "results_source": "UCI — risultati ufficiali",
-      "results_url": "https://www.uci.org/competition-details/2026/ROA/76935",
-      "source": "Sito ufficiale Tour de France",
-      "source_url": "https://www.letour.fr/en/stage-21",
-      "stage_name": "Thoiry → Paris Champs-Élysées",
-      "stage_number": 21,
-      "stage_podium": [
-        {
-          "rank": "1",
-          "result": "1:58:49",
-          "rider": "Mathieu VAN DER POEL",
-          "team": "ALPECIN-PREMIER TECH"
-        },
-        {
-          "rank": "2",
-          "result": "stesso tempo",
-          "rider": "Jasper PHILIPSEN",
-          "team": "ALPECIN-PREMIER TECH"
-        },
-        {
-          "rank": "3",
-          "result": "stesso tempo",
-          "rider": "Mads PEDERSEN",
-          "team": "LIDL-TREK"
-        }
-      ],
-      "stage_type": "pianura",
-      "start": "2026-07-26",
-      "start_location": "Thoiry",
-      "title": "Tour de France — Tappa 21: Thoiry → Paris Champs-Élysées",
-      "uci_class": "2.UWT",
-      "uid": "5334ae147299eb7611c56203@cycling-calendar"
     },
     {
       "all_day": true,
@@ -9583,27 +8179,341 @@
     },
     {
       "all_day": true,
-      "broadcast_it": "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare",
-      "category": "UCI WorldTour",
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
       "circuit": "UCI WorldTour",
-      "country": "FRA",
-      "discipline": "ROA",
-      "end_date": "2027-07-25",
-      "location": "A DEFINIR",
-      "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
-      "official_name": null,
-      "official_url": "https://www.uci.org/competition-details/2027/ROA/79718",
+      "country": "Francia",
+      "distance": "185 km",
+      "end_date": "2027-07-02",
+      "finish_location": "Carlisle",
+      "location": "Édimbourg → Carlisle",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-1",
       "race_key": "tour-de-france",
       "race_name": "Tour de France",
-      "source": "UCI",
-      "source_id": "79718",
-      "source_url": "https://www.uci.org/competition-details/2027/ROA/79718",
-      "specialty": null,
-      "stage_number": null,
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-1",
+      "stage_name": "Édimbourg → Carlisle",
+      "stage_number": 1,
+      "stage_type": "pianura",
       "start": "2027-07-02",
-      "title": "Tour de France",
+      "start_location": "Édimbourg",
+      "title": "Tour de France — Tappa 1: Édimbourg → Carlisle",
       "uci_class": "2.UWT",
-      "uid": "1c6692b19818473b63e0480e@cycling-calendar"
+      "uid": "16da2d416fd16c83a3c29fa7@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "223 km",
+      "end_date": "2027-07-03",
+      "finish_location": "Liverpool",
+      "location": "Keswick → Liverpool",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-2",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-2",
+      "stage_name": "Keswick → Liverpool",
+      "stage_number": 2,
+      "stage_type": "collinare",
+      "start": "2027-07-03",
+      "start_location": "Keswick",
+      "title": "Tour de France — Tappa 2: Keswick → Liverpool",
+      "uci_class": "2.UWT",
+      "uid": "06b8c807bcaa813b83c0d571@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "223 km",
+      "end_date": "2027-07-04",
+      "finish_location": "Cardiff",
+      "location": "Welshpool → Cardiff",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-3",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-3",
+      "stage_name": "Welshpool → Cardiff",
+      "stage_number": 3,
+      "stage_type": "collinare",
+      "start": "2027-07-04",
+      "start_location": "Welshpool",
+      "title": "Tour de France — Tappa 3: Welshpool → Cardiff",
+      "uci_class": "2.UWT",
+      "uid": "01d9e9fcc65bd9c348b99d1b@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "171 km",
+      "end_date": "2027-07-06",
+      "finish_location": "Cherbourg-en-Cotentin",
+      "location": "Cherbourg-en-Cotentin → Cherbourg-en-Cotentin",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-4",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-4",
+      "stage_name": "Cherbourg-en-Cotentin → Cherbourg-en-Cotentin",
+      "stage_number": 4,
+      "stage_type": "collinare",
+      "start": "2027-07-06",
+      "start_location": "Cherbourg-en-Cotentin",
+      "title": "Tour de France — Tappa 4: Cherbourg-en-Cotentin → Cherbourg-en-Cotentin",
+      "uci_class": "2.UWT",
+      "uid": "57356f989424dacdd0bdb1fa@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "178 km",
+      "end_date": "2027-07-07",
+      "finish_location": "Plumelec",
+      "location": "Pontorson → Plumelec",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-5",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-5",
+      "stage_name": "Pontorson → Plumelec",
+      "stage_number": 5,
+      "stage_type": "collinare",
+      "start": "2027-07-07",
+      "start_location": "Pontorson",
+      "title": "Tour de France — Tappa 5: Pontorson → Plumelec",
+      "uci_class": "2.UWT",
+      "uid": "7438514105f1a8920942214d@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "193 km",
+      "end_date": "2027-07-08",
+      "finish_location": "Angers",
+      "location": "Vannes → Angers",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-6",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-6",
+      "stage_name": "Vannes → Angers",
+      "stage_number": 6,
+      "stage_type": "collinare",
+      "start": "2027-07-08",
+      "start_location": "Vannes",
+      "title": "Tour de France — Tappa 6: Vannes → Angers",
+      "uci_class": "2.UWT",
+      "uid": "9ff05cb46672b18917e8259a@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "38 km",
+      "end_date": "2027-07-09",
+      "finish_location": "Chambord",
+      "location": "Blois → Chambord",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-7",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-7",
+      "stage_name": "Blois → Chambord",
+      "stage_number": 7,
+      "stage_type": "cronometro",
+      "start": "2027-07-09",
+      "start_location": "Blois",
+      "title": "Tour de France — Tappa 7: Blois → Chambord",
+      "uci_class": "2.UWT",
+      "uid": "3d65106287cd299cda19be63@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "224 km",
+      "end_date": "2027-07-10",
+      "finish_location": "Le Creusot",
+      "location": "Bourges → Le Creusot",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-8",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-8",
+      "stage_name": "Bourges → Le Creusot",
+      "stage_number": 8,
+      "stage_type": "collinare",
+      "start": "2027-07-10",
+      "start_location": "Bourges",
+      "title": "Tour de France — Tappa 8: Bourges → Le Creusot",
+      "uci_class": "2.UWT",
+      "uid": "ea8cf8a366b92e721c78019a@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "162 km",
+      "end_date": "2027-07-11",
+      "finish_location": "Grand Colombier",
+      "location": "Villars-les-Dombes Parc des Oiseaux → Grand Colombier",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-9",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-9",
+      "stage_name": "Villars-les-Dombes Parc des Oiseaux → Grand Colombier",
+      "stage_number": 9,
+      "stage_type": "montagna",
+      "start": "2027-07-11",
+      "start_location": "Villars-les-Dombes Parc des Oiseaux",
+      "title": "Tour de France — Tappa 9: Villars-les-Dombes Parc des Oiseaux → Grand Colombier",
+      "uci_class": "2.UWT",
+      "uid": "81c073fa0477733c8bb953c5@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "171 km",
+      "end_date": "2027-07-13",
+      "finish_location": "Sallanches",
+      "location": "Annecy → Sallanches",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-10",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-10",
+      "stage_name": "Annecy → Sallanches",
+      "stage_number": 10,
+      "stage_type": "montagna",
+      "start": "2027-07-13",
+      "start_location": "Annecy",
+      "title": "Tour de France — Tappa 10: Annecy → Sallanches",
+      "uci_class": "2.UWT",
+      "uid": "ae5519dad644a1ea444131e0@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "150 km",
+      "end_date": "2027-07-14",
+      "finish_location": "Les Saisies",
+      "location": "Cluses → Les Saisies",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-11",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-11",
+      "stage_name": "Cluses → Les Saisies",
+      "stage_number": 11,
+      "stage_type": "montagna",
+      "start": "2027-07-14",
+      "start_location": "Cluses",
+      "title": "Tour de France — Tappa 11: Cluses → Les Saisies",
+      "uci_class": "2.UWT",
+      "uid": "a375e58a9e29a893c1e8dd5b@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "162 km",
+      "end_date": "2027-07-15",
+      "finish_location": "Valence",
+      "location": "Chambéry → Valence",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-12",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-12",
+      "stage_name": "Chambéry → Valence",
+      "stage_number": 12,
+      "stage_type": "pianura",
+      "start": "2027-07-15",
+      "start_location": "Chambéry",
+      "title": "Tour de France — Tappa 12: Chambéry → Valence",
+      "uci_class": "2.UWT",
+      "uid": "ef736fae938f834201fe1487@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "164 km",
+      "end_date": "2027-07-16",
+      "finish_location": "Montpellier",
+      "location": "Aubenas → Montpellier",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-13",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-13",
+      "stage_name": "Aubenas → Montpellier",
+      "stage_number": 13,
+      "stage_type": "pianura",
+      "start": "2027-07-16",
+      "start_location": "Aubenas",
+      "title": "Tour de France — Tappa 13: Aubenas → Montpellier",
+      "uci_class": "2.UWT",
+      "uid": "36c154982486e27db72ac1a7@cycling-calendar"
     },
     {
       "all_day": true,
@@ -9628,6 +8538,214 @@
       "title": "Campionati italiani MTB — DHI — Commezzadura",
       "uci_class": "CN",
       "uid": "f9a89bca36de60fb44805b31@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "199 km",
+      "end_date": "2027-07-17",
+      "finish_location": "Mende",
+      "location": "Montpellier → Mende",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-14",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-14",
+      "stage_name": "Montpellier → Mende",
+      "stage_number": 14,
+      "stage_type": "montagna",
+      "start": "2027-07-17",
+      "start_location": "Montpellier",
+      "title": "Tour de France — Tappa 14: Montpellier → Mende",
+      "uci_class": "2.UWT",
+      "uid": "447597d2a5f375c25eab6156@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "169 km",
+      "end_date": "2027-07-18",
+      "finish_location": "Albi",
+      "location": "Rodez → Albi",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-15",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-15",
+      "stage_name": "Rodez → Albi",
+      "stage_number": 15,
+      "stage_type": "collinare",
+      "start": "2027-07-18",
+      "start_location": "Rodez",
+      "title": "Tour de France — Tappa 15: Rodez → Albi",
+      "uci_class": "2.UWT",
+      "uid": "bbdf3bf25411b8f5a813d786@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "33 km",
+      "end_date": "2027-07-20",
+      "finish_location": "Toulouse",
+      "location": "Toulouse → Toulouse",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-16",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-16",
+      "stage_name": "Toulouse → Toulouse",
+      "stage_number": 16,
+      "stage_type": "cronometro",
+      "start": "2027-07-20",
+      "start_location": "Toulouse",
+      "title": "Tour de France — Tappa 16: Toulouse → Toulouse",
+      "uci_class": "2.UWT",
+      "uid": "29246bb7a746a0c24df2eaab@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "186 km",
+      "end_date": "2027-07-21",
+      "finish_location": "Pau",
+      "location": "Muret → Pau",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-17",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-17",
+      "stage_name": "Muret → Pau",
+      "stage_number": 17,
+      "stage_type": "pianura",
+      "start": "2027-07-21",
+      "start_location": "Muret",
+      "title": "Tour de France — Tappa 17: Muret → Pau",
+      "uci_class": "2.UWT",
+      "uid": "b416cd806123282091b1a4b1@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "174 km",
+      "end_date": "2027-07-22",
+      "finish_location": "Saint-Lary-Soulan Col du Portet",
+      "location": "Pau → Saint-Lary-Soulan Col du Portet",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-18",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-18",
+      "stage_name": "Pau → Saint-Lary-Soulan Col du Portet",
+      "stage_number": 18,
+      "stage_type": "montagna",
+      "start": "2027-07-22",
+      "start_location": "Pau",
+      "title": "Tour de France — Tappa 18: Pau → Saint-Lary-Soulan Col du Portet",
+      "uci_class": "2.UWT",
+      "uid": "b0463199ba61c93c56ceb728@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "160 km",
+      "end_date": "2027-07-23",
+      "finish_location": "Laruns",
+      "location": "Hasparren → Laruns",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-19",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-19",
+      "stage_name": "Hasparren → Laruns",
+      "stage_number": 19,
+      "stage_type": "montagna",
+      "start": "2027-07-23",
+      "start_location": "Hasparren",
+      "title": "Tour de France — Tappa 19: Hasparren → Laruns",
+      "uci_class": "2.UWT",
+      "uid": "c7699ecde35699b0e28a7d5c@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "198 km",
+      "end_date": "2027-07-24",
+      "finish_location": "Libourne",
+      "location": "Maubourguet → Libourne",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-20",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-20",
+      "stage_name": "Maubourguet → Libourne",
+      "stage_number": 20,
+      "stage_type": "pianura",
+      "start": "2027-07-24",
+      "start_location": "Maubourguet",
+      "title": "Tour de France — Tappa 20: Maubourguet → Libourne",
+      "uci_class": "2.UWT",
+      "uid": "3f8b51b7713b364b4be9a3f8@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
+      "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
+      "category": "Grande Giro",
+      "circuit": "UCI WorldTour",
+      "country": "Francia",
+      "distance": "116 km",
+      "end_date": "2027-07-25",
+      "finish_location": "Paris Champs-Élysées",
+      "location": "Saint-Quentin-en-Yvelines → Paris Champs-Élysées",
+      "notes": "Orario di partenza e arrivo non confermato: evento pubblicato come giornata intera.",
+      "official_url": "https://www.letour.fr/en/stage-21",
+      "race_key": "tour-de-france",
+      "race_name": "Tour de France",
+      "source": "Sito ufficiale Tour de France",
+      "source_url": "https://www.letour.fr/en/stage-21",
+      "stage_name": "Saint-Quentin-en-Yvelines → Paris Champs-Élysées",
+      "stage_number": 21,
+      "stage_type": "pianura",
+      "start": "2027-07-25",
+      "start_location": "Saint-Quentin-en-Yvelines",
+      "title": "Tour de France — Tappa 21: Saint-Quentin-en-Yvelines → Paris Champs-Élysées",
+      "uci_class": "2.UWT",
+      "uid": "90fc8ef2f3d1068b4ff10a82@cycling-calendar"
     },
     {
       "all_day": true,
@@ -10456,9 +9574,9 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-19T13:14:07Z",
+  "generated_at": "2026-10-22T11:51:46Z",
   "source_errors": [
-    "Giro d'Italia: 406 Client Error: Not Acceptable for url: https://www.giroditalia.it/en/the-route/"
+    "Giro d'Italia: nessuna tappa riconosciuta"
   ],
   "successful_sources": [
     "UCI ROA 1.UWT 2026",
