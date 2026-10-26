@@ -42,7 +42,6 @@
     "Milano - Torino",
     "Milano-Sanremo",
     "National Road Championships - Italy",
-    "National Road Championships - Italy (ITT)",
     "Omloop Nieuwsblad",
     "Paris - Tours Elite",
     "Paris-Nice",
@@ -92,7 +91,7 @@
     "Volta Ciclista a Catalunya",
     "Vuelta a Burgos"
   ],
-  "event_count": 244,
+  "event_count": 243,
   "events": [
     {
       "all_day": true,
@@ -7145,30 +7144,6 @@
     },
     {
       "all_day": true,
-      "broadcast_it": "Da confermare",
-      "category": "Campionato",
-      "circuit": "UCI Road International Calendar",
-      "country": "ITA",
-      "discipline": "ROA",
-      "end_date": "2026-10-24",
-      "location": "Piasco",
-      "notes": "Campionati italiani: programma maschile e orari da confermare.",
-      "official_name": null,
-      "official_url": "https://www.uci.org/competition-details/2027/ROA/81203",
-      "race_key": "national-road-championships-italy-itt",
-      "race_name": "National Road Championships - Italy (ITT)",
-      "source": "UCI",
-      "source_id": "81203",
-      "source_url": "https://www.uci.org/competition-details/2027/ROA/81203",
-      "specialty": null,
-      "stage_number": null,
-      "start": "2026-10-24",
-      "title": "National Road Championships - Italy (ITT)",
-      "uci_class": "CN",
-      "uid": "550e78dda58656e3654da084@cycling-calendar"
-    },
-    {
-      "all_day": true,
       "broadcast_it": "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare",
       "category": "UCI WorldTour",
       "circuit": "UCI WorldTour",
@@ -9599,7 +9574,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-23T11:38:28Z",
+  "generated_at": "2026-10-26T22:40:21Z",
   "source_errors": [
     "Giro d'Italia: nessuna tappa riconosciuta"
   ],
