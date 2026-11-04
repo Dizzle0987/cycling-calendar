@@ -91,7 +91,7 @@
     "Volta Ciclista a Catalunya",
     "Vuelta a Burgos"
   ],
-  "event_count": 267,
+  "event_count": 266,
   "events": [
     {
       "all_day": true,
@@ -8380,30 +8380,6 @@
     },
     {
       "all_day": true,
-      "broadcast_it": "Da confermare",
-      "category": "Campionato",
-      "circuit": "UCI Road International Calendar",
-      "country": "ITA",
-      "discipline": "ROA",
-      "end_date": "2027-06-27",
-      "location": "Via Giovanni Battista Piranesi, 46",
-      "notes": "Campionati italiani: programma maschile e orari da confermare.",
-      "official_name": null,
-      "official_url": "https://www.uci.org/competition-details/2027/ROA/80184",
-      "race_key": "campionati-italiani-strada",
-      "race_name": "National Road Championships - Italy",
-      "source": "UCI",
-      "source_id": "80184",
-      "source_url": "https://www.uci.org/competition-details/2027/ROA/80184",
-      "specialty": null,
-      "stage_number": null,
-      "start": "2027-06-23",
-      "title": "National Road Championships - Italy",
-      "uci_class": "CN",
-      "uid": "d6ab61bad99e6b3b596a2248@cycling-calendar"
-    },
-    {
-      "all_day": true,
       "broadcast_it": "Eurosport 1; streaming HBO Max e discovery+ (anche DAZN, TIMVISION e Prime Video Channels)",
       "broadcast_source_url": "https://www.eurosport.it/ciclismo/tour-de-france/2026/eurosport-presenta-il-tour-de-france-2026-in-diretta-integrale-su-hbo-max-e-discovery_sto23315058/story.shtml",
       "category": "Grande Giro",
@@ -10174,7 +10150,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-10-29T22:45:08Z",
+  "generated_at": "2026-11-04T19:45:17Z",
   "source_errors": [
     "Giro d'Italia: nessuna tappa riconosciuta"
   ],
