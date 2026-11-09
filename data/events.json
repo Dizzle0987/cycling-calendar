@@ -31,6 +31,7 @@
     "Grand Prix Cycliste de Québec",
     "Il Lombardia",
     "In Flanders Fields - From Middelkerke to Wevelgem",
+    "In Flanders Fields Middelkerke - Wevelgem",
     "Itzulia Basque Country",
     "Kuurne - Brussel - Kuurne",
     "La Flèche Wallonne",
@@ -7562,17 +7563,17 @@
       "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
       "official_name": null,
       "official_url": "https://www.uci.org/competition-details/2027/ROA/79709",
-      "race_key": "gent-wevelgem",
-      "race_name": "In Flanders Fields - From Middelkerke to Wevelgem",
+      "race_key": "in-flanders-fields-middelkerke-wevelgem",
+      "race_name": "In Flanders Fields Middelkerke - Wevelgem",
       "source": "UCI",
       "source_id": "79709",
       "source_url": "https://www.uci.org/competition-details/2027/ROA/79709",
       "specialty": null,
       "stage_number": null,
       "start": "2027-03-28",
-      "title": "In Flanders Fields - From Middelkerke to Wevelgem",
+      "title": "In Flanders Fields Middelkerke - Wevelgem",
       "uci_class": "1.UWT",
-      "uid": "e8e3b09cea9fdd1405cc0e96@cycling-calendar"
+      "uid": "7bfb0372c478e7f5a24fb796@cycling-calendar"
     },
     {
       "all_day": true,
@@ -10150,7 +10151,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-11-04T19:45:17Z",
+  "generated_at": "2026-11-09T22:20:57Z",
   "source_errors": [
     "Giro d'Italia: nessuna tappa riconosciuta"
   ],
