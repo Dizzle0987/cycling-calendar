@@ -92,7 +92,7 @@
     "Volta Ciclista a Catalunya",
     "Vuelta a Burgos"
   ],
-  "event_count": 266,
+  "event_count": 267,
   "events": [
     {
       "all_day": true,
@@ -9912,6 +9912,30 @@
     {
       "all_day": true,
       "broadcast_it": "Da confermare",
+      "category": "Campionato",
+      "circuit": "UCI Road International Calendar",
+      "country": "DEN",
+      "discipline": "ROA",
+      "end_date": "2027-10-03",
+      "location": "Silkeborg/Herning",
+      "notes": "Rassegna europea: il programma specifico maschile sarà aggiunto quando confermato.",
+      "official_name": null,
+      "official_url": "https://www.uci.org/competition-details/2027/ROA/81391",
+      "race_key": "uec-road-european-championships",
+      "race_name": "UEC Road European Championships",
+      "source": "UCI",
+      "source_id": "81391",
+      "source_url": "https://www.uci.org/competition-details/2027/ROA/81391",
+      "specialty": null,
+      "stage_number": null,
+      "start": "2027-09-28",
+      "title": "UEC Road European Championships",
+      "uci_class": "CC",
+      "uid": "18cf1caf557fe6ceb55213f7@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Da confermare",
       "category": "UCI ProSeries",
       "circuit": "UCI ProSeries",
       "country": "ITA",
@@ -10151,7 +10175,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-11-09T22:20:57Z",
+  "generated_at": "2026-11-13T19:41:24Z",
   "source_errors": [
     "Giro d'Italia: nessuna tappa riconosciuta"
   ],
