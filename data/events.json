@@ -7169,30 +7169,6 @@
     },
     {
       "all_day": true,
-      "broadcast_it": "Da confermare",
-      "category": "UCI ProSeries",
-      "circuit": "UCI ProSeries",
-      "country": "KSA",
-      "discipline": "ROA",
-      "end_date": "2027-01-29",
-      "location": "Al-'Ula",
-      "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
-      "official_name": null,
-      "official_url": "https://www.uci.org/competition-details/2027/ROA/80584",
-      "race_key": "alula-tour",
-      "race_name": "AlUla Tour",
-      "source": "UCI",
-      "source_id": "80584",
-      "source_url": "https://www.uci.org/competition-details/2027/ROA/80584",
-      "specialty": null,
-      "stage_number": null,
-      "start": "2027-01-25",
-      "title": "AlUla Tour",
-      "uci_class": "2.Pro",
-      "uid": "c55463be8e54a286b4e5ae24@cycling-calendar"
-    },
-    {
-      "all_day": true,
       "broadcast_it": "Eurosport / HBO Max / discovery+: programmazione della singola gara da verificare",
       "category": "UCI WorldTour",
       "circuit": "UCI WorldTour",
@@ -7214,6 +7190,30 @@
       "title": "Mapei Cadel Evans Great Ocean Road Race - Men",
       "uci_class": "1.UWT",
       "uid": "3fa0c0ce78deb59132db75ef@cycling-calendar"
+    },
+    {
+      "all_day": true,
+      "broadcast_it": "Da confermare",
+      "category": "UCI ProSeries",
+      "circuit": "UCI ProSeries",
+      "country": "OMA",
+      "discipline": "ROA",
+      "end_date": "2027-02-05",
+      "location": "Mascate",
+      "notes": "Orari e dettagli del percorso non ancora confermati dalla fonte primaria.",
+      "official_name": null,
+      "official_url": "https://www.uci.org/competition-details/2027/ROA/81424",
+      "race_key": "tour-of-oman",
+      "race_name": "Tour of Oman",
+      "source": "UCI",
+      "source_id": "81424",
+      "source_url": "https://www.uci.org/competition-details/2027/ROA/81424",
+      "specialty": null,
+      "stage_number": null,
+      "start": "2027-02-01",
+      "title": "Tour of Oman",
+      "uci_class": "2.Pro",
+      "uid": "f3d0e0506a417afe12da7ab7@cycling-calendar"
     },
     {
       "all_day": true,
@@ -10175,7 +10175,7 @@
       "uid": "308f1e0163f191d053902527@cycling-calendar"
     }
   ],
-  "generated_at": "2026-11-13T19:41:24Z",
+  "generated_at": "2026-11-19T20:36:28Z",
   "source_errors": [
     "Giro d'Italia: nessuna tappa riconosciuta"
   ],
