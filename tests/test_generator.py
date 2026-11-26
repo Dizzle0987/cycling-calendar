@@ -329,10 +329,18 @@ def test_generated_feed_has_unique_uids_and_valid_calendar() -> None:
 
 
 def test_pages_runs_after_scheduled_calendar_update() -> None:
-    root = Path(__file__).parents[1]
-    workflow = (root / ".github" / "workflows" / "pages.yml").read_text(encoding="utf-8")
-    assert 'workflows: ["Update calendar"]' in workflow
-    assert "github.event.workflow_run.conclusion == 'success'" in workflow
+    workflows = Path(__file__).parents[1] / ".github" / "workflows"
+    pages = (workflows / "pages.yml").read_text(encoding="utf-8")
+    update = (workflows / "update.yml").read_text(encoding="utf-8")
+
+    assert "  workflow_dispatch:" in pages.split("\npermissions:", 1)[0]
+    assert "workflow_run:" not in pages
+    assert "  actions: write" in update
+    commit_step, publish_step = update.split("- name: Publish changed calendar", 1)
+    assert 'echo "changed=true" >> "$GITHUB_OUTPUT"' in commit_step
+    assert "github.ref == 'refs/heads/main'" in publish_step
+    assert "steps.commit.outputs.changed == 'true'" in publish_step
+    assert 'gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"' in publish_step
 
 
 def test_mobile_page_has_subscription_and_manual_fallback() -> None:
