@@ -9,9 +9,6 @@ on:
       - data/events.json
       - .nojekyll
       - .github/workflows/pages.yml
-  workflow_run:
-    workflows: ["Update calendar"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -24,13 +21,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      artifact_name: ${{ steps.artifact.outputs.name }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -44,11 +39,29 @@ jobs:
           cp index.html calendar.ics .nojekyll _site/
           cp data/events.json _site/data/events.json
 
+      - name: Set Pages artifact name
+        id: artifact
+        run: echo "name=github-pages-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" >> "$GITHUB_OUTPUT"
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
+          name: ${{ steps.artifact.outputs.name }}
           path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Wait for artifact metadata propagation
+        run: sleep 10
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ needs.build.outputs.artifact_name }}

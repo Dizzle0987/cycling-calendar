@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-calendar-${{ github.ref }}
@@ -39,6 +40,7 @@ jobs:
         run: pytest -q
 
       - name: Commit changed outputs
+        id: commit
         run: |
           if git diff --quiet -- calendar.ics data/events.json; then
             echo "Generated files are unchanged"
@@ -49,4 +51,11 @@ jobs:
           git add calendar.ics data/events.json
           git commit -m "chore: update cycling calendar"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Publish changed calendar
+        if: github.ref == 'refs/heads/main' && steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
 
